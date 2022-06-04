@@ -108,7 +108,7 @@ class EafToUD:
         lines = []
         unique = set(itertools.chain(*[i.split('|') for
                                        i in self.glosses]))
-        for gloss in unique:
+        for gloss in sorted(unique):
             if len(gloss) > 1:
                 lines.append('_\t_\t{}\t_\t_\t_\t_\t_\n'.format(gloss))
         with open(filename, "w") as file:
@@ -129,4 +129,5 @@ if __name__ == '__main__':
     gloss = sys.argv[3];
     a = eaf_transformer = EafToUD(directory=directory)
     a.make_conll_file(out)
+    a.make_gloss_file('abazaXPOS_temp.udx')
     system('cat {} | python3 ud-scripts/conllu-feats.py {} > trial-XPOS.conllu'.format(out, gloss))
