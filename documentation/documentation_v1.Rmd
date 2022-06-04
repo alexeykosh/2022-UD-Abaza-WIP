@@ -1,0 +1,187 @@
+---
+title: "UD for Abaza"
+always_allow_html: true
+output:
+  html_document
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r, echo=FALSE}
+library(lingglosses)
+```
+
+## Tokenization and Word Segmentation
+
+-   All words are converted to lower case.
+-   All punctuation marks except full stops and question marks are removed from the texts.
+-   Words are delimited by whitespace characters and punctuation.
+-   Nominal complexes written as single words, e.g. _артистду_ 'big artist', are treated as single tokens.
+
+
+## Morphology
+
+### Tags
+
+Abaza uses all universal POS tags except `PART` and `SYM`.
+
+
+1. `ADJ` (adjective): nominals which modify another nominal.
+```{r, echo=FALSE}
+gloss_example(transliteration = "h-an **rəcha** l-hatər-la",
+             glosses = "1PL.PR-мать бедный 3SG.F.PR-услуга-INS",
+              free_translation = "благодаря нашей бедной маме",
+              annotation = "хI-ан рыцхIа л-хIатыр-ла")
+```
+
+
+
+2. `ADP` (adposition): all Abaza postpositions.
+```{r, echo=FALSE}
+gloss_example(transliteration = "allah **j-pnə** h-argʷanə-ta",
+              glosses = "аллах 3SG.M.IO-возле 1PL.ABS-близкий-ADV",
+              free_translation = "чтобы мы приблизились к Аллаху",
+              annotation = "аллахI й-пны хI-аргваны-та")
+```
+
+
+3. `ADV` (adverb): verbal modifiers which specify manner, time or place.
+```{r, echo=FALSE}
+gloss_example(transliteration = "a-raχʷ **χʷəjt-ta** **dara-dara** tə-c̣-əj-ṭ **š’əmta-la**",
+              glosses = "DEF-скот свободный-ADV 3PL-3PL LOC.ELAT-идти-PRS-DCL утро-INS",
+              free_translation = "Коровы сами выходят по утрам",
+              annotation = "а-рахв хвит-та дара-дара ты-цI-и-тI щымта-ла")
+```
+
+4. `AUX` (auxiliary): the verb _č’pa-_ 'do' with borrowings, copula (not sure).
+```{r, echo=FALSE}
+gloss_example(transliteration = "a-naməca-kʷa bombit’ **ʕa-r-č’pa-n**",
+              glosses = "DEF-немец-PL бомбить CSL-3PL.ERG-делать-PST",
+              free_translation = "(Ростов) немцы бомбили",
+              annotation = "а-намыца-ква бoмбить гIа-р-чпа-н")
+
+
+```
+
+
+5. `CCONJ` (coordinating conjunction): _jg’əj_ 'and', _ja_ 'or', etc.
+```{r, echo=FALSE}
+gloss_example(transliteration = "**ja** čĉ̣ara-ḳ **ja** warad-ḳ",
+              glosses = "или куплет-indf или песня-indf",
+              free_translation = "или куплет или песню",
+              annotation = "я тшчIвара-кI я уарад-кI")
+
+```
+
+
+6. `DET` (determiner): demonstrative pronouns and personal pronouns used as possessors (do we really need this category?).
+a.
+```{r, echo=FALSE}
+gloss_example(transliteration = "**anəj** a-ʒə j-c̣-na-hʷa-kʷa-z",
+              glosses = "MED DEF-вода 3PL.ABS-LOC-3SG.N.ERG-вытягивать-Pl-PST.NFIN",
+              free_translation = "эта вода высосала из нас всё",
+              annotation = "ани а-дзы й-цI-на-хIва-ква-з")
+
+```
+b.
+```{r, echo=FALSE}
+gloss_example(transliteration = "**sara** s-an d-adəg’a-b",
+              glosses = "1SG 1SG.PR-мама 3SG.H.ABS-черкес-NPST",
+              free_translation = "моя мама черкешенка",
+              annotation = "сара с-ан д-адыгьа-б")
+
+```
+
+
+7. `INTJ` (interjection): _š’ta_, maybe something else.
+```{r, echo=FALSE}
+gloss_example(transliteration = "**š’ta** č-a-d-h-ḳələ-n",
+              glosses = "да RFL-DAT-LOC-1Pl.ERG-собираться-PST",
+              free_translation = "Мы вместе собрались",
+              annotation = "щта тш-а-д-хI-кIылы-н")
+```
+
+8. `NOUN` (noun): nominals functioning as syntactic arguments.
+```{r, echo=FALSE}
+gloss_example(transliteration = "j-ẑṗa-χa-wa-mca **a-ẑəwmp-kʷa**",
+              glosses = "3PL.ABS-густой-INC-IPF-CVB DEF-ягода-PL",
+              free_translation = "Гуще стало ягод",
+              annotation = "й-жвпIа-ха-уа-мца а-жвумп-ква")
+```
+
+
+9. `NUM` (numeral): words denoting numbers.
+```{r, echo=FALSE}
+gloss_example(transliteration = "a-skʷšə **zk’əj** **ẑŝəj** **ʕʷaẑə** **ẑba** asqan",
+              glosses = "DEF-год тысяча девятьсот двадцать девять во.время",
+              free_translation = "(она родилась) в 1929-ом году",
+              annotation = "а-сквшы зкьи жвшви гIважвы жвба асхъан")
+```
+
+
+10. `PRON` (pronoun): personal pronouns (used as arguments), demonstrative pronouns in the function of personal pronouns.
+```{r, echo=FALSE}
+gloss_example(transliteration = "**sara** aĉ̣ʷə-ja jə-s-č’p-əw-šə-z",
+              glosses = "1SG что-QN REL.ABS-1SG.ERG-делать-IPF-FUT-PST.NFIN",
+              free_translation = "Что мне было делать?",
+              annotation = "сара ачIвы-йа йы-с-чп-у-шы-з")
+```
+
+
+11. `PROPN` (proper noun): personal names, names of places, etc.
+```{r, echo=FALSE}
+gloss_example(transliteration = "**abdulgamid** j-aš’a-hba",
+              glosses = "Абдулгамид 3SG.M.PR-брат-старший",
+              free_translation = "старший брат Абдулгамида",
+              annotation = "абдулгамид й-аща-хIба")
+```
+
+
+12. `PUNCT` (punctuation): full stops, question  marks.
+
+13. `SCONJ` (subordinating conjunction): _hʷa_ when used as a complementizer.
+```{r, echo=FALSE}
+gloss_example(transliteration = "žena taš’i galuški **hʷa** awəj j-hʷa-d-ja",
+              glosses = "жена(R) тащи(R) галушки(R) QUOT DIST.SG 3SG.M.ERG-говорить-DCL-PTCL",
+              free_translation = "[жена, тащи галушки (по-русски)]  – он говорит",
+              annotation = "жена тащи галушки хIва ауи й-хIвА-д-йа")
+```
+
+
+14. `VERB` (verb): all wordforms with verbal morphology (see the list of verbal affixes in the next section).
+```{r, echo=FALSE, results='asis'}
+gloss_example(transliteration = "apqa a-zaman waʕa.qa-ta a-dəwnaj **jə-kʷə-z** **š-abga-z** **j-azḳḳə-ta** zǯ’ara **j-bzaz-əw-n**",
+              glosses = "раньше DEF-время народ-ADV DEF-мир REL.ABS-быть_на-PST.NFIN REL.MNR-целый-PST.NFIN 3PL.ABS-собираться-ADV где_то 3PL.ABS-жить-IPF-PST",
+              free_translation = "в то время люди, которые находились на свете, собравшись, жили где-то",
+              annotation = "апхъа а-заман уагIа.хъа-та а-дунай йы-квы-з ш-абга-з й-азкIкIы-та зджьара й-бзаз-у-н")
+```
+
+
+15. `X` (other).
+
+
+
+### Features
+
+-   
+
+
+
+## Syntax
+
+-   
+
+
+
+## Treebanks
+
+There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+
+-   [LANGUAGE-A](../treebanks/LCODE_a/index.html)
+-   [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+
+
