@@ -1,5 +1,5 @@
 ---
-title: "UD Abaza documentation"
+title: "UD for Abaza"
 author: "Alexey Koshevoy & Anastasia Panova"
 date: "06.06.2022"
 output:
@@ -44,6 +44,8 @@ library(lingglosses)
 - Dependency grammar-based syntactic annotation 
 - 200 treebanks for ~100 languages 
 - Treebanks can be used for different NLP tasks, linguistic typology, etc. 
+- The next release (v2.11) is scheduled for November 15, 2022 (data freeze on November 1).
+
 
 ## CoNLL-U format
 
@@ -72,7 +74,7 @@ This is how it can be visually represented:
 - Should we adopt the same strategy for Abaza? @tyers2020dependency propose to use word-level annotation to correctly represent noun incorporation in Chuckhi. 
 - Old Abaza treebank needs to be updated (@park2021expanding: 'The Abaza treebank, as released in UD v2.7, contains 33 sentences and does not provide any language-specific docu- mentation.')
 
-## Pipeline: 
+## Pipeline 
 
 - Simple command-line based interface:
 
@@ -532,11 +534,231 @@ gloss_example(transliteration = "sar-g’əj sə-ĉə-n jə-g’-sə-m-dər-χ-
 
 There are some other universal relations which might be useful for annotation (for example, `vocative`, `csubj`) but no relevant examples are found in the corpus yet.
 
-<!-- # Treebank -->
+# Sample text
 
-<!-- There is one Abaza UD treebank: -->
+The text "Моя профессия" with UD annotation.
 
-<!-- -    -->
+1.
+```{r, echo=FALSE, results='asis'}
+gloss_example(transliteration = "sará sə-χ’iz fatima-ṗ",
+              glosses = "1SG 1SG.PR-имя фатима-NPST.DCL",
+              free_translation = "Меня зовут Фатима.",
+              annotation = "сарА сы-хьиз фатима-пI")
+```
+
+```
+# ft_rus = [fba1959_f] Меня зовут Фатима.
+# sent_id = 1
+# text_name = Professija_AjsanovaFB_11072017.eaf
+# text = сара сыхьиз фатимапI
+# text_init = СарА сыхьИз ФатИмапI
+1	сара	сара	DET	_	_	2	nmod:poss	_	Gloss=1sg
+2	сыхьиз	хьзы	NOUN	_	Person[psor]=1|Number[psor]=Sing	3	nsubj	_	Gloss=1sg.pr-имя
+3	фатимапI	фатима	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Gloss=фатима-npst.dcl
+```
+<embed src="svg-files/sent-1.svg" type="image/svg+xml" />
+
+2.
+```{r, echo=FALSE, results='asis'}
+gloss_example(transliteration = "sará j-ŝ-á-s-hʷə-rnəs j-s-taqə́-ṗ s-ša-rə́pχ’aʕʷ-χa-z",
+              glosses = "1SG 3SG.N.ABS-2PL.IO-DAT-1SG.ERG-рассказать-PURP 3SG.N.ABS-1SG.IO-хотеться-NPST.DCL 1SG.ABS-REL.MNR-учитель-INC-PST.NFIN",
+              free_translation = "Я хочу вам рассказать, как я стала учителем.",
+              annotation = "сарА й-шв-А-с-хIвы-рныс й-с-тахъЫ-пI с-ша-рЫпхьагIв-ха-з")
+```
+
+
+```
+# ft_rus = Я хочу вам рассказать, как я стала учителем.
+# sent_id = 2
+# text_name = Professija_AjsanovaFB_11072017.eaf
+# text = сара йшвасхIвырныс йстахъыпI сшарыпхьагIвхаз
+# text_init = СарА йшвАсхIвырныс йстахъЫпI сшарЫпхьагIвхаз
+1	сара	сара	PRON	_	_	3	nsubj	_	Gloss=1sg
+2	йшвасхIвырныс	хIвара	VERB	_	Person[abs]=3|Number[abs]=Sing|Animacy[abs]=Nhum|Person[io]=2|Number[io]=Plur|Person[erg]=1|Number[erg]=Sing	3	xcomp	_	Gloss=3sg.n.abs-2pl.io-dat-1sg.erg-рассказать-purp
+3	йстахъыпI	тахъхара	VERB	_	Person[abs]=3|Number[abs]=Sing|Animacy[abs]=Nhum|Person[io]=1|Number[io]=Sing|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=3sg.n.abs-1sg.io-хотеться-npst.dcl
+4	сшарыпхьагIвхаз	арыпхьагIвхара	VERB	_	Person[abs]=1|Number[abs]=Sing|Tense=Past|VerbForm=NonFin	2	obj:rel	_	Gloss=1sg.abs-rel.mnr-учитель-inc-pst.nfin
+```
+<embed src="svg-files/sent-2.svg" type="image/svg+xml" />
+
+
+3.
+```{r, echo=FALSE, results='asis'}
+gloss_example(transliteration = "sará s-an-χʷə́cə-z s-án l-aš’á arə́j anglíjska-la j-a-l-rə́-pχ’-əw-š-ṭ ħʷá j-ʕa-s-á-j-ħʷ-l-əw-n",
+              glosses = "1SG 1SG.ABS-REL.TMP-маленький-PST.NFIN 1SG.PR-мать 3SG.F.PR-брат PROX.SG английский-INS 3PL.ABS-3SG.N.IO-3SG.F.ERG-CAUS-читать-IPF-FUT-DCL QUOT 3SG.N.ABS-CSL-1SG.IO-DAT-3SG.M.ERG-говорить-HAB-IPF-PST",
+              free_translation = "Когда я была маленькой, дядя говорил, что я стану учителем английского языка.",
+              annotation = "СарА с-ан-хвЫцы-з с-Ан л-ащА арИ англИйска-ла й-а-л-рЫ-пхь-у-ш-тI' хIвА йгIасАйхIвлун")
+```
+
+```
+# ft_rus = Когда я была маленькой, дядя говорил, что я стану учителем английского языка.
+# sent_id = 3
+# text_name = Professija_AjsanovaFB_11072017.eaf
+# text = сара санхвыцыз сан лаща ари английскала йалрыпхьуштI хIва йгIасайхIвлун
+# text_init = СарА санхвЫцыз сАн лащА: 'арИ англИйскала йалрЫпхьуштI', хIвА йгIасАйхIвлун
+1	сара	сара	PRON	_	_	2	nsubj	_	Gloss=1sg
+2	санхвыцыз	хвыц	VERB	_	Person[abs]=1|Number[abs]=Sing|Tense=Past|VerbForm=NonFin	9	obl:rel	_	Gloss=1sg.abs-rel.tmp-маленький-pst.nfin
+3	сан	аны	NOUN	_	Person[psor]=1|Number[psor]=Sing	4	nmod:poss	_	Gloss=1sg.pr-мать
+4	лаща	аща	NOUN	_	Person[psor]=3|Number[psor]=Sing|Gender[psor]=Fem	9	nsubj	_	Gloss=3sg.f.pr-брат
+5	ари	ари	PRON	_	_	7	nsubj	_	Gloss=prox.sg
+6	английскала	_	NOUN	_	_	7	iobj	_	Gloss=английский-ins
+7	йалрыпхьуштI	апхьара	VERB	_	Person[abs]=3|Number[abs]=Plur|Person[io]=3|Number[io]=Sing|Gender[io]=Neut|Person[erg]=3|Number[erg]=Sing|Gender[erg]=Fem|Tense=Fut|VerbForm=Fin	9	ccomp	_	Gloss=3pl.abs-3sg.n.io-3sg.f.erg-caus-читать-ipf-fut-dcl
+8	хIва	хIва	SCONJ	_	_	7	mark	_	Gloss=quot
+9	йгIасайхIвлун	хIвара	VERB	_	Person[abs]=3|Number[abs]=Sing|Animacy[abs]=Nhum|Person[io]=1|Number[io]=Sing|Person[erg]=2|Number[erg]=Sing|Gender[erg]=Masc|Tense=Imp|VerbForm=Fin	0	root	_	Gloss=3sg.n.abs-csl-1sg.io-dat-3sg.m.erg-говорить-hab-ipf-pst
+```
+<embed src="svg-files/sent-3.svg" type="image/svg+xml" />
+
+
+
+4.
+```{r, echo=FALSE, results='asis'}
+gloss_example(transliteration = "sar-g’ə́j awə́j s-qá j-ta-s-ḳə́-n ápχ'a.r.ta s-á-ʒ-a-pχ’-əw-z-g’jə s-an-ʕá-l-ga-g’əj awə́j áḳʷəmḳʷa za-ḳ-g’ə́j g’-s-taqə́-mə-z-ṭ",
+              glosses = "1SG-ADD DIST.SG 1SG.PR-голова 3SG.N.ABS-LOC-1SG.ERG-держать-PST DEF+школа 1SG.ABS-REL.LOC-LIM-3SG.N.IO-учиться-IPF-PST.NFIN-ADD 1SG.ABS-REL.TMP-CSL-LOC.ELAT-нести(AOR)-ADD DIST.SG 3SG.N.IO+кроме один-INDF-ADD NEG.EMP-1SG.IO-хотеться-NEG-PST.NFIN-DCL",
+              free_translation = "Я тоже это запомнила и ничего другого не хотела, пока я училась в школе и когда её закончила.",
+              annotation = "сар-гьИ ауИ с-хъА й-та-с-кIЫ-н Апхьа.р.та с-ъА-дз-а-пхь-у-з-гьи, с-ан-гIА-л-га-гьи ауИ АкIвымкIва за-кI-гьИ гь-с-тахъЫ-мы-з-тI")
+```
+
+
+```
+# ft_rus = Я тоже это запомнила и ничего другого не хотела, пока я училась в школе и когда её закончила.
+# sent_id = 4
+# text_name = Professija_AjsanovaFB_11072017.eaf
+# text = саргьи ауи схъа йтаскIын апхьарта съадзапхьузгьи сангIалгагьи ауи акIвымкIва закIгьи гьстахъымызтI
+# text_init = саргьИ ауИ схъА йтаскIЫн Апхьарта съАдзапхьузгьи, сангIАлгагьи ауИ АкIвымкIва закIгьИ гьстахъЫмызтI
+1	саргьи	сара	PRON	_	_	4	nsubj	_	Gloss=1sg-add
+2	ауи	ауи	PRON	_	_	4	obj	_	Gloss=dist.sg
+3	схъа	хъа	NOUN	_	Person[psor]=1|Number[psor]=Sing	4	iobj	_	Gloss=1sg.pr-голова
+4	йтаскIын	такIра	VERB	_	Person[abs]=3|Number[abs]=Sing|Animacy[abs]=Nhum|Person[erg]=1|Number[erg]=Sing|Tense=Past|VerbForm=Fin	0	root	_	Gloss=3sg.n.abs-loc-1sg.erg-держать-pst
+5	апхьарта	апхьарта	NOUN	_	Definite=Def	6	obl	_	Gloss=def+школа
+6	съадзапхьузгьи	апхьара	VERB	_	Person[abs]=1|Number[abs]=Sing|Person[io]=3|Number[io]=Sing|Gender[io]=Neut|Tense=Imp|VerbForm=NonFin	11	obl:rel	_	Gloss=1sg.abs-rel.loc-lim-3sg.n.io-учиться-ipf-pst.nfin-add
+7	сангIалгагьи	алгара	VERB	_	Person[abs]=1|Number[abs]=Sing|Tense=Aor|VerbForm=NonFin	11	obl:rel	_	Gloss=1sg.abs-rel.tmp-csl-loc.elat-нести(aor)-add
+8	ауи	ауи	PRON	_	_	10	nmod	_	Gloss=dist.sg
+9	акIвымкIва	акIвымкIва	ADP	_	Person[io]=3|Number[io]=Sing|Gender[io]=Neut	8	case	_	Gloss=3sg.n.io+кроме
+10	закIгьи	закIы	NUM	_	Definite=Ind	11	obj	_	Gloss=один-indf-add
+11	гьстахъымызтI	тахъхара	VERB	_	Person[io]=1|Number[io]=Sing	4	conj	_	Gloss=neg.emp-1sg.io-хотеться-neg-pst.nfin-dcl
+```
+
+<embed src="svg-files/sent-4.svg" type="image/svg+xml" />
+
+5.
+```{r, echo=FALSE, results='asis'}
+gloss_example(transliteration = "á.pχ’a.rta s-an-ʕá-l-ga a-institut s-cá-ṭ",
+              glosses = "DEF+школа 1SG.ABS-REL.TMP-CSL-LOC.ELAT-нести(AOR) DEF-институт 1SG.ABS-идти(AOR)-DCL",
+              free_translation = "Когда закончила школу, пошла в институт.",
+              annotation = "А.пхьа.рта с-ан-гIА-л-га а-инститyт с-цА-тI")
+```
+
+
+```
+# ft_rus = Когда закончила школу, пошла в институт.
+# sent_id = 5
+# text_name = Professija_AjsanovaFB_11072017.eaf
+# text = апхьарта сангIалга аинститут сцатI
+# text_init = Апхьарта сангIАлга аинститУт сцАтI
+1	апхьарта	апхьарта	NOUN	_	Definite=Def	2	obl	_	Gloss=def+школа
+2	сангIалга	алгара	VERB	_	Person[abs]=1|Number[abs]=Sing|Tense=Aor|VerbForm=NonFin	4	obl:rel	_	Gloss=1sg.abs-rel.tmp-csl-loc.elat-нести(aor)
+3	аинститут	институт	NOUN	_	Definite=Def	4	obl	_	Gloss=def-институт
+4	сцатI	цара	VERB	_	Person[abs]=1|Number[abs]=Sing|Tense=Aor|VerbForm=Fin	0	root	_	Gloss=1sg.abs-идти(aor)-dcl
+```
+
+<embed src="svg-files/sent-5.svg" type="image/svg+xml" />
+
+6.
+```{r, echo=FALSE, results='asis'}
+gloss_example(transliteration = "j-s-gʷapχa-ʒa-wá-ta bzəj-ʒʒá jə-z-ba-wá-ta s-á-pχ’a-ṭ",
+              glosses = "3SG.N.ABS-1SG.ERG-любить-INT-IPF-ADV хороший-INT 3SG.N.ABS-1SG.ERG-видеть-IPF-ADV 1SG.ABS-3SG.N.IO-учиться(AOR)-DCL",
+              free_translation = "Я очень любила учиться.",
+              annotation = "й-с-гвапха-дза-уА-та бзи-дздзА йы-з-ба-уА-та с-А-пхьа-тI")
+```
+
+
+```
+# ft_rus = Я очень любила учиться.
+# sent_id = 6
+# text_name = Professija_AjsanovaFB_11072017.eaf
+# text = йсгвапхадзауата бзидздза йызбауата сапхьатI
+# text_init = ЙсгвапхадзауАта бзидздзА йызбауАта сАпхьатI
+1	йсгвапхадзауата	гвапхара	VERB	_	Person[abs]=3|Number[abs]=Sing|Animacy[abs]=Nhum|Person[erg]=1|Number[erg]=Sing|Tense=Pres|VerbForm=NonFin	4	advcl	_	Gloss=3sg.n.abs-1sg.erg-любить-int-ipf-adv
+2	бзидздза	бзи	ADV	_	_	3	advmod	_	Gloss=хороший-int
+3	йызбауата	бара	VERB	_	Person[abs]=3|Number[abs]=Sing|Animacy[abs]=Nhum|Person[erg]=1|Number[erg]=Sing|Tense=Pres|VerbForm=NonFin	4	advcl	_	Gloss=3sg.n.abs-1sg.erg-видеть-ipf-adv
+4	сапхьатI	апхьара	VERB	_	Person[abs]=1|Number[abs]=Sing|Person[io]=3|Number[io]=Sing|Gender[io]=Neut|Tense=Aor|VerbForm=Fin	0	root	_	Gloss=1sg.abs-3sg.n.io-учиться(aor)-dcl
+```
+
+<embed src="svg-files/sent-6.svg" type="image/svg+xml" />
+
+7.
+```{r, echo=FALSE, results='asis'}
+gloss_example(transliteration = "á.pχ’a.rta s-ʕa-l-g-əjš’tára skʷšə́ ʕʷə-n-ʕʷa-ẑ-ə́j ẑ-ə́j-χ c̣ə́-ṭ",
+              glosses = "DEF+школа 1SG.ABS-CSL-LOC.ELAT-нести-SINCE год два-раз-два-десять-ADD десять-ADD-три пройти(AOR)-DCL",
+              free_translation = "С тех пор как закончила школу, прошло 33 года.",
+              annotation = "А.пхьа.рта с-гIа-л-г-ищтАра сквшЫ гIвы-н-гIва-жв-И жв-И-х цIЫ-тI")
+```
+
+```
+# ft_rus = С тех пор как закончила школу, прошло 33 года.
+# sent_id = 7
+# text_name = Professija_AjsanovaFB_11072017.eaf
+# text = апхьарта сгIалгищтара сквшы гIвынгIважви жвих цIытI
+# text_init = Апхьарта сгIалгищтАра сквшЫ гIвынгIважвИ жвИх цIЫтI
+1	апхьарта	апхьарта	NOUN	_	Definite=Def	2	obl	_	Gloss=def+школа
+2	сгIалгищтара	алгара	VERB	_	Person[abs]=1|Number[abs]=Sing	6	advcl	_	Gloss=1sg.abs-csl-loc.elat-нести-since
+3	сквшы	сквшы	NOUN	_	_	6	nsubj	_	Gloss=год
+4	гIвынгIважви	_	NUM	_	_	3	nummod	_	Gloss=два-раз-два-десять-add
+5	жвих	_	NUM	_	_	4	flat	_	Gloss=десять-add-три
+6	цIытI	цIра	VERB	_	Tense=Aor|VerbForm=Fin	0	root	_	Gloss=пройти(aor)-dcl
+```
+<embed src="svg-files/sent-7.svg" type="image/svg+xml" />
+
+
+8. 
+```{r, echo=FALSE, results='asis'}
+gloss_example(transliteration = "aw-əjš’tára-g’əj sará á.pχ’a.rta a-sabə́j-kʷa ang’lə́z-bəzŝa-la j-a-s-rə́-pχ’-əj-d",
+              glosses = "DIST-SINCE-ADD 1SG DEF+школа DEF-дети-PL английский-язык-INS 3PL.ABS-3SG.N.IO-1SG.ERG-CAUS-читать-PRS-DCL",
+              free_translation = "С тех пор я обучаю детей английскому языку в школе.",
+              annotation = "ау-ищтАра-гьи сарА А.пхьа.рта а-сабИ-ква ангьлЫз-бызшва-ла й-а-с-рЫ-пхь-и-д")
+```
+
+```
+# ft_rus = С тех пор я обучаю детей английскому языку в школе.
+# sent_id = 8
+# text_name = Professija_AjsanovaFB_11072017.eaf
+# text = ауищтарагьи сара апхьарта асабиква ангьлызбызшвала йасрыпхьид
+# text_init = АуищтАрагьи сарА Апхьарта асабИква ангьлЫзбызшвала йасрЫпхьид
+1	ауищтарагьи	_	ADV	_	_	6	advmod	_	Gloss=dist-since-add
+2	сара	сара	PRON	_	_	6	nsubj	_	Gloss=1sg
+3	апхьарта	апхьарта	NOUN	_	Definite=Def	6	obl	_	Gloss=def+школа
+4	асабиква	саби	NOUN	_	Definite=Def	6	obj	_	Gloss=def-ребенок-pl
+5	ангьлызбызшвала	_	NOUN	_	_	6	obl	_	Gloss=английский-язык-ins
+6	йасрыпхьид	апхьара	VERB	_	Person[abs]=2|Number[abs]=Plur|Person[io]=3|Number[io]=Sing|Gender[io]=Neut|Person[erg]=1|Number[erg]=Sing|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=3pl.abs-3sg.n.io-1sg.erg-caus-читать-prs-dcl
+```
+
+<embed src="svg-files/sent-8.svg" type="image/svg+xml" />
+
+
+9.
+```{r, echo=FALSE, results='asis'}
+gloss_example(transliteration = "sará a-sabə́j-kʷa bzə́j jə-z-b-ə́j-ṭ sə-nχárta-g’əj bzəj-ʒʒá jə-z-b-ə́j-ṭ",
+              glosses = "1SG DEF-ребенок-PL хороший 3PL.ABS-1SG.ERG-видеть-PRS-DCL 1SG.PR-работа-ADD хороший-INT 3SG.N.ABS-1SG.ERG-видеть-PRS-DCL",
+              free_translation = "Я люблю детей и очень люблю свою работу.",
+              annotation = "сарА а-сабИ-ква бзИ йы-з-б-И-тI сы-нхАрта-гьи бзи-дздзА йы-з-б-И-тI")
+```
+
+```
+# ft_rus = Я люблю детей и очень люблю свою работу.
+# sent_id = 9
+# text_name = Professija_AjsanovaFB_11072017.eaf
+# text = сара асабиква бзи йызбитI сынхартагьи бзидздза йызбитI
+# text_init = СарА асабИква бзИ йызбИтI сынхАртагьи бзидздзА йызбИтI
+1	сара	сара	PRON	_	_	4	nsubj	_	Gloss=1sg
+2	асабиква	саби	NOUN	_	Definite=Def	4	obj	_	Gloss=def-ребенок-pl
+3	бзи	бзи	ADV	_	_	4	advmod	_	Gloss=хороший
+4	йызбитI	бара	VERB	_	Person[abs]=3|Number[abs]=Plur|Person[erg]=1|Number[erg]=Sing|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=3pl.abs-1sg.erg-видеть-prs-dcl
+5	сынхартагьи	нхарта	NOUN	_	Person[psor]=1|Number[psor]=Sing	7	obj	_	Gloss=1sg.pr-работа-add
+6	бзидздза	бзи	ADV	_	_	7	advmod	_	Gloss=хороший-int
+7	йызбитI	бара	VERB	_	Person[abs]=3|Number[abs]=Sing|Animacy[abs]=Nhum|Person[erg]=1|Number[erg]=Sing|Tense=Pres|VerbForm=Fin	4	conj	_	Gloss=3sg.n.abs-1sg.erg-видеть-prs-dcl
+```
+
+<embed src="svg-files/sent-9.svg" type="image/svg+xml" />
+
 
 # References
 
