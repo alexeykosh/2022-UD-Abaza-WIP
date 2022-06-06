@@ -1,1 +1,1 @@
-Working in progress repository for the V2 of the Abaza UD treebank. 
+Repository for the work in progress version of the Abaza UD treebank. 
