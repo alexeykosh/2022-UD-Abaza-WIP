@@ -9,9 +9,7 @@ output:
       collapsed: false
       smooth_scroll: false
     number_sections: true
-
-
-
+bibliography: biblio.bib  
 ---
 
 ```{r setup, include=FALSE}
@@ -23,21 +21,67 @@ knitr::opts_chunk$set(echo = TRUE)
 library(lingglosses)
 ```
 
-# Intro
+<!-- # Intro -->
 
-This file describes principles of the Universal Dependencies (UD) annotation of the spoken corpus of Abaza. For more information on the UD annotation, see [UD Guidelines](https://universaldependencies.org/guidelines.html).
+<!-- This file describes principles of the Universal Dependencies (UD) annotation of the spoken corpus of Abaza. For more information on the UD annotation, see [UD Guidelines](https://universaldependencies.org/guidelines.html). -->
 
-Before annotation: tokenization and word segmentation
+<!-- Before annotation: tokenization and word segmentation -->
 
--   All words are converted to lower case.
--   All punctuation marks are removed from the texts.
--   Words are delimited by whitespace characters.
+<!-- -   All words are converted to lower case. -->
+<!-- -   All punctuation marks are removed from the texts. -->
+<!-- -   Words are delimited by whitespace characters. -->
 
-To-do list:
+<!-- To-do list: -->
 
--   for nominal complexes a morpheme level should be added (cf. incorporation in Chukchi)
--   save at least some punctuation?
--   switch to enhanced dependencies?
+<!-- -   for nominal complexes a morpheme level should be added (cf. incorporation in Chukchi) -->
+<!-- -   save at least some punctuation? -->
+<!-- -   switch to enhanced dependencies? -->
+
+# Intro 
+
+## Universal dependencies 
+
+- Dependency grammar-based syntactic annotation 
+- 200 treebanks for ~100 languages 
+- Treebanks can be used for different NLP tasks, linguistic typology, etc. 
+
+## CoNLL-U format
+
+Annotation format that is used for UD treebanks 
+
+```
+1    They     they    PRON    PRP    Case=Nom|Number=Plur               2    nsubj    2:nsubj|4:nsubj
+2    buy      buy     VERB    VBP    Number=Plur|Person=3|Tense=Pres    0    root     0:root
+3    and      and     CONJ    CC     _                                  4    cc       4:cc
+4    sell     sell    VERB    VBP    Number=Plur|Person=3|Tense=Pres    2    conj     0:root|2:conj
+5    books    book    NOUN    NNS    Number=Plur                        2    obj      2:obj|4:obj
+6    .        .       PUNCT   .      _                                  2    punct    2:punct
+```
+
+This is how it can be visually represented: 
+
+<embed src="svg-files/eng.svg" type="image/svg+xml" />
+
+## Polysynthetic languages in UD
+
+- 2 languages to date (Yupik and Chukchi)
+- @park2021expanding: 'Word-level annotation results in degenerate trees for some Yupik sentences and often fails to capture syntactic relations that can be manifested at the morpheme level.'
+
+<embed src="svg-files/yupik2.svg" type="image/svg+xml" />
+
+- Should we adopt the same strategy for Abaza? @tyers2020dependency propose to use word-level annotation to correctly represent noun incorporation in Chuckhi. 
+- Old Abaza treebank needs to be updated (@park2021expanding: 'The Abaza treebank, as released in UD v2.7, contains 33 sentences and does not provide any language-specific docu- mentation.')
+
+## Pipeline: 
+
+- Simple command-line based interface:
+
+```
+python3 EafToUD.py <ELAN directory> <out CoNLLi> <XPOS>
+```
+
+![](figs/fig2.png)
+
 
 
 # POS Tags
@@ -488,10 +532,14 @@ gloss_example(transliteration = "sar-g’əj sə-ĉə-n jə-g’-sə-m-dər-χ-
 
 There are some other universal relations which might be useful for annotation (for example, `vocative`, `csubj`) but no relevant examples are found in the corpus yet.
 
-# Treebank
+<!-- # Treebank -->
 
-There is one Abaza UD treebank:
+<!-- There is one Abaza UD treebank: -->
 
--   
+<!-- -    -->
+
+# References
+
+<div id="refs"></div>
 
 
