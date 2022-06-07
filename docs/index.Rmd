@@ -118,7 +118,7 @@ gloss_example(transliteration = "a-raχʷ **χʷəjt-ta** **dara-dara** tə-c̣-
               annotation = "а-рахв хвит-та дара-дара ты-цI-и-тI щымта-ла")
 ```
 
-4. `AUX` (auxiliary): the verb _č’pa-_ 'do' with borrowings, copula (not sure).
+4. `AUX` (auxiliary): the verb _č’pa-_ 'do' with borrowings, copula.
 ```{r, echo=FALSE}
 gloss_example(transliteration = "a-naməca-kʷa bombit’ **ʕa-r-č’pa-n**",
               glosses = "DEF-немец-PL бомбить CSL-3PL.ERG-делать-PST",
@@ -139,7 +139,7 @@ gloss_example(transliteration = "**ja** čĉ̣ara-ḳ **ja** warad-ḳ",
 ```
 
 
-6. `DET` (determiner): demonstrative pronouns and personal pronouns used as possessors (do we really need this category?).
+6. `DET` (determiner): demonstrative pronouns and personal pronouns used as possessors.
 a.
 ```{r, echo=FALSE}
 gloss_example(transliteration = "**anəj** a-ʒə j-c̣-na-hʷa-kʷa-z",
@@ -189,7 +189,7 @@ gloss_example(transliteration = "a-skʷšə **zk’əj** **ẑŝəj** **ʕʷaz�
 10. `PART` (particle): _š’ta_, maybe also _hʷa_ (in some cases).
 ```{r, echo=FALSE}
 gloss_example(transliteration = "**š’ta** č-a-d-h-ḳələ-n",
-              glosses = "PTCL RFL-DAT-LOC-1Pl.ERG-собираться-PST",
+              glosses = "PTCL RFL-3SG.N.IO-LOC-1Pl.ERG-собираться-PST",
               free_translation = "Мы вместе собрались",
               annotation = "щта тш-а-д-хI-кIылы-н")
 ```
@@ -536,7 +536,7 @@ There are some other universal relations which might be useful for annotation (f
 
 # Sample text
 
-The text "Моя профессия" with UD annotation.
+The text "Моя профессия" with UD annotation. You can also download the [.conllu file](./moja_professija_test_annotation.conllu){target="_blank"} and open it in UD Annotatrix (https://github.com/jonorthwash/ud-annotatrix).
 
 1.
 ```{r, echo=FALSE, results='asis'}
