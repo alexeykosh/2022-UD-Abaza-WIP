@@ -130,4 +130,4 @@ if __name__ == '__main__':
     a = eaf_transformer = EafToUD(directory=directory)
     a.make_conll_file(out)
     a.make_gloss_file('abazaXPOS_temp.udx')
-    system('cat {} | python3 ud-scripts/conllu-feats.py {} > trial-XPOS.conllu'.format(out, gloss))
+    system('cat {} | python3 ud-scripts/conllu-feats.py {} > {}}'.format(out, gloss, out))
