@@ -2,7 +2,7 @@
 # sent_id = 26
 # text = сара сыхьиз фатимапI
 # text_name = Professija_AjsanovaFB_11072017
-1	сара	сара	DET	_	_	2	nmod:poss	_	_|Gloss=я|Segment=сарА
+1	сара	сара	DET	_	_	2	nmod	_	_|Gloss=я|Segment=сарА
 2	сыхьиз	асыьиз	NOUN	_	Number[dat]=Sing|Person[dat]=1	3	nsubj	_	1sg.io|_|Gloss=1sg.io-имя|Segment=сы-хьиз
 3	фатимапI	фатима	VERB	_	Tense=Pres	0	root	_	_|Gloss=фатима-npst.dcl|npst.dcl|Segment=фатима-пӏ
 
@@ -19,80 +19,80 @@
 # sent_id = 28
 # text = сара санхвыцыз сан лаща ари английскала йалрыпхьуштI хIва йгIасайхIвлун
 # text_name = Professija_AjsanovaFB_11072017
-1	сара	сара	PRON	_	_	2	nsubj	2:nsubj	_|Gloss=я|Segment=СарА
-2	санхвыцыз	_	VERB	_	Number[abs]=Sing|Person[abs]=1|Tense=Past	9	advcl	9:advcl	1sg.abs|_|Gloss=1sg.abs-rel.tmp-маленький-pst|pst|rel.tmp|Segment=с-ан-хвЫцы-з
-3	сан	аан	NOUN	_	Number[dat]=Sing|Person[dat]=1	4	nmod:poss	4:nmod:poss	1sg.io|_|Gloss=1sg.io-мать|Segment=с-Ан
-4	лаща	_	NOUN	_	Gender[dat]=Fem|Number[dat]=Sing|Person[dat]=3	9	nsubj	9:nsubj	3f.io|_|Gloss=3f.io-брат|Segment=л-ащА
-5	ари	ари	PRON	_	_	7	nsubj	7:nsubj	_|Gloss=prox.sg|prox.sg|Segment=арИ
-6	английскала	_	NOUN	_	Case=Ins	7	iobj	7:iobj	_|Gloss=английский-ins|ins|Segment=англИйска-ла
-7	йалрыпхьуштI	_	VERB	_	Aspect=Imp|Gender[dat]=Neut|Gender[erg]=Fem|Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|Tense=Fut|Voice=Cau	9	ccomp	9:ccomp	3f.erg|3n.io|3pl.abs|_|caus|dcl|fut|Gloss=3pl.abs-3n.io-3f.erg-caus-читать-ipf-fut-dcl|ipf|Segment=й-а-л-рЫ-пхь-у-ш-тI'
-8	хIва	хIва	SCONJ	_	_	7	mark	7:mark	_|Gloss=quot|quot|Segment=хIвА
-9	йгIасайхIвлун	_	VERB	_	Aspect=Imp|Case=Dat|Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3|Tense=Past	0	root	0:root	1sg.io|3m.erg|3n.abs|_|csl|dat|Gloss=3n.abs-csl-1sg.io-dat-3m.erg-говорить-hab-ipf-pst|hab|ipf|pst|Segment=хIвА
+1	сара	сара	PRON	_	_	2	nsubj	_	_|Gloss=я|Segment=СарА
+2	санхвыцыз	_	VERB	_	Number[abs]=Sing|Person[abs]=1|Tense=Past	9	advcl	_	1sg.abs|_|Gloss=1sg.abs-rel.tmp-маленький-pst|pst|rel.tmp|Segment=с-ан-хвЫцы-з
+3	сан	аан	NOUN	_	Number[dat]=Sing|Person[dat]=1	4	nmod	_	1sg.io|_|Gloss=1sg.io-мать|Segment=с-Ан
+4	лаща	_	NOUN	_	Gender[dat]=Fem|Number[dat]=Sing|Person[dat]=3	9	nsubj	_	3f.io|_|Gloss=3f.io-брат|Segment=л-ащА
+5	ари	ари	PRON	_	_	7	nsubj	_	_|Gloss=prox.sg|prox.sg|Segment=арИ
+6	английскала	_	NOUN	_	Case=Ins	7	iobj	_	_|Gloss=английский-ins|ins|Segment=англИйска-ла
+7	йалрыпхьуштI	_	VERB	_	Aspect=Imp|Gender[dat]=Neut|Gender[erg]=Fem|Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|Tense=Fut|Voice=Cau	9	ccomp	_	3f.erg|3n.io|3pl.abs|_|caus|dcl|fut|Gloss=3pl.abs-3n.io-3f.erg-caus-читать-ipf-fut-dcl|ipf|Segment=й-а-л-рЫ-пхь-у-ш-тI'
+8	хIва	хIва	SCONJ	_	_	7	mark	_	_|Gloss=quot|quot|Segment=хIвА
+9	йгIасайхIвлун	_	VERB	_	Aspect=Imp|Case=Dat|Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3|Tense=Past	0	root	_	1sg.io|3m.erg|3n.abs|_|csl|dat|Gloss=3n.abs-csl-1sg.io-dat-3m.erg-говорить-hab-ipf-pst|hab|ipf|pst|Segment=хIвА
 
 # ft_rus = Я тоже это запомнила и ничего другого не хотела, пока я училась в школе и когда её закончила.
 # sent_id = 29
 # text = саргьи ауи схъа йтаскIын апхьарта съадзапхьузгьи сангIалгагьи ауи акIвымкIва закIгьи гьстахъымызтI
 # text_name = Professija_AjsanovaFB_11072017
-1	саргьи	сара	PRON	_	_	4	nsubj	4:nsubj	_|add|Gloss=я-add|Segment=сар-гьИ
-2	ауи	ауи	PRON	_	_	4	obj	4:obj	_|dist.sg|Gloss=dist.sg|Segment=ауИ
-3	схъа	ахъа	NOUN	_	Number[dat]=Sing|Person[dat]=1	4	iobj	4:iobj	1sg.io|_|Gloss=1sg.io-голова|Segment=с-хъА
-4	йтаскIын	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Past	0	root	0:root	1sg.erg|3n.abs|_|Gloss=3n.abs-loc-1sg.erg-запомнить-pst|loc|pst|Segment=й-та-с-кIЫ-н
-5	апхьарта	апхьарта	NOUN	_	Definite=Def	6	obl	6:obl	_|def|Gloss=def-школа|Segment=А-пхьарта
-6	съадзапхьузгьи	_	VERB	_	Aspect=Imp|Number[abs]=Sing|Person[abs]=1|Tense=Past	11	advcl	11:advcl	1sg.abs|_|add|Gloss=1sg.abs-rel.loc-lim-учиться-ipf-pst-add|ipf|lim|pst|rel.loc|Segment=с-ъА-дза-пхь-у-з-гьи
-7	сангIалгагьи	_	VERB	_	Number[abs]=Sing|Person[abs]=1	11	advcl	11:advcl	1sg.abs|_|add|csl|Gloss=1sg.abs-rel.tmp-csl-кончать-add|rel.tmp|Segment=с-ан-гIА-лга-гьи
-8	ауи	ауи	PRON	_	_	10	nmod	10:nmod	_|dist.sg|Gloss=dist.sg|Segment=ауИ
-9	акIвымкIва	акIвымкIва	ADP	_	_	8	case	8:case	_|Gloss=кроме|Segment=АкIвымкIва
-10	закIгьи	_	NUM	_	_	11	obj	11:obj	_|add|Gloss=один-add|Segment=закI-гьИ
-11	гьстахъымызтI	_	VERB	_	Number[dat]=Sing|Person[dat]=1|Polarity=Neg	4	conj	4:conj	1sg.io|_|dcl|Gloss=neg.emp-1sg.io-хотеться-neg-pst.nfin-dcl|neg|neg.emp|pst.nfin|Segment=гь-с-тахъЫ-мы-з-тI
+1	саргьи	сара	PRON	_	_	4	nsubj	_	_|add|Gloss=я-add|Segment=сар-гьИ
+2	ауи	ауи	PRON	_	_	4	obj	_	_|dist.sg|Gloss=dist.sg|Segment=ауИ
+3	схъа	ахъа	NOUN	_	Number[dat]=Sing|Person[dat]=1	4	iobj	_	1sg.io|_|Gloss=1sg.io-голова|Segment=с-хъА
+4	йтаскIын	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Past	0	root	_	1sg.erg|3n.abs|_|Gloss=3n.abs-loc-1sg.erg-запомнить-pst|loc|pst|Segment=й-та-с-кIЫ-н
+5	апхьарта	апхьарта	NOUN	_	Definite=Def	6	obl	_	_|def|Gloss=def-школа|Segment=А-пхьарта
+6	съадзапхьузгьи	_	VERB	_	Aspect=Imp|Number[abs]=Sing|Person[abs]=1|Tense=Past	11	advcl	_	1sg.abs|_|add|Gloss=1sg.abs-rel.loc-lim-учиться-ipf-pst-add|ipf|lim|pst|rel.loc|Segment=с-ъА-дза-пхь-у-з-гьи
+7	сангIалгагьи	_	VERB	_	Number[abs]=Sing|Person[abs]=1	11	advcl	_	1sg.abs|_|add|csl|Gloss=1sg.abs-rel.tmp-csl-кончать-add|rel.tmp|Segment=с-ан-гIА-лга-гьи
+8	ауи	ауи	PRON	_	_	10	nmod	_	_|dist.sg|Gloss=dist.sg|Segment=ауИ
+9	акIвымкIва	акIвымкIва	ADP	_	_	8	case	_	_|Gloss=кроме|Segment=АкIвымкIва
+10	закIгьи	_	NUM	_	_	11	obj	_	_|add|Gloss=один-add|Segment=закI-гьИ
+11	гьстахъымызтI	_	VERB	_	Number[dat]=Sing|Person[dat]=1|Polarity=Neg	4	conj	_	1sg.io|_|dcl|Gloss=neg.emp-1sg.io-хотеться-neg-pst.nfin-dcl|neg|neg.emp|pst.nfin|Segment=гь-с-тахъЫ-мы-з-тI
 
 # ft_rus = Когда закончила школу, пошла в институт.
 # sent_id = 30
 # text = апхьарта сангIалга аинститут сцатI
 # text_name = Professija_AjsanovaFB_11072017
-1	апхьарта	апхьарта	NOUN	_	Definite=Def	2	obl	2:obl	_|def|Gloss=def-школа|Segment=А-пхьарта
-2	сангIалга	_	VERB	_	Number[abs]=Sing|Person[abs]=1	4	advcl	4:advcl	1sg.abs|_|csl|Gloss=1sg.abs-rel.tmp-csl-закончить|rel.tmp|Segment=с-ан-гӏА-лга
-3	аинститут	аинститyт	NOUN	_	Definite=Def	4	obl	4:obl	_|def|Gloss=def-институт|Segment=а-инститyт
-4	сцатI	_	VERB	_	Number[abs]=Sing|Person[abs]=1	0	root	0:root	1sg.abs|_|dcl|Gloss=1sg.abs-идти-dcl|Segment=с-цА-тӏ
+1	апхьарта	апхьарта	NOUN	_	Definite=Def	2	obl	_	_|def|Gloss=def-школа|Segment=А-пхьарта
+2	сангIалга	_	VERB	_	Number[abs]=Sing|Person[abs]=1	4	advcl	_	1sg.abs|_|csl|Gloss=1sg.abs-rel.tmp-csl-закончить|rel.tmp|Segment=с-ан-гӏА-лга
+3	аинститут	аинститyт	NOUN	_	Definite=Def	4	obl	_	_|def|Gloss=def-институт|Segment=а-инститyт
+4	сцатI	_	VERB	_	Number[abs]=Sing|Person[abs]=1	0	root	_	1sg.abs|_|dcl|Gloss=1sg.abs-идти-dcl|Segment=с-цА-тӏ
 
 # ft_rus = Я очень любила учиться.
 # sent_id = 31
 # text = йсгвапхадзауата бзидздза йызбауата сапхьатI
 # text_name = Professija_AjsanovaFB_11072017
-1	йсгвапхадзауата	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1	4	advcl	4:advcl	1sg.erg|3n.abs|_|adv|ass|Gloss=3n.abs-1sg.erg-любить-ass-ipf-adv|ipf|Segment=й-с-гвапха-дза-уА-та
-2	бзидздза	_	ADV	_	_	3	advmod	3:advmod	_|ass|Gloss=хорошо-ass-ass|Segment=бзи-дз-дзА
-3	йызбауата	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1	4	advcl	4:advcl	1sg.erg|3n.abs|_|adv|Gloss=3n.abs-1sg.erg-видеть-ipf-adv|ipf|Segment=йы-з-ба-уА-та
-4	сапхьатI	_	VERB	_	Case=Dat|Number[abs]=Sing|Person[abs]=1	0	root	0:root	1sg.abs|_|dat|dcl|Gloss=1sg.abs-dat-учиться-dcl|Segment=с-А-пхьа-тӏ
+1	йсгвапхадзауата	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1	4	advcl	_	1sg.erg|3n.abs|_|adv|ass|Gloss=3n.abs-1sg.erg-любить-ass-ipf-adv|ipf|Segment=й-с-гвапха-дза-уА-та
+2	бзидздза	_	ADV	_	_	3	advmod	_	_|ass|Gloss=хорошо-ass-ass|Segment=бзи-дз-дзА
+3	йызбауата	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1	4	advcl	_	1sg.erg|3n.abs|_|adv|Gloss=3n.abs-1sg.erg-видеть-ipf-adv|ipf|Segment=йы-з-ба-уА-та
+4	сапхьатI	_	VERB	_	Case=Dat|Number[abs]=Sing|Person[abs]=1	0	root	_	1sg.abs|_|dat|dcl|Gloss=1sg.abs-dat-учиться-dcl|Segment=с-А-пхьа-тӏ
 
 # ft_rus = С тех пор как закончила школу, прошло 33 года.
 # sent_id = 32
 # text = апхьарта сгIалгищтара сквшы гIвынгIважви жвих цIытI
 # text_name = Professija_AjsanovaFB_11072017
-1	апхьарта	апхьарта	NOUN	_	Definite=Def	2	obl	2:obl	_|def|Gloss=def-школа|Segment=А-пхьарта
-2	сгIалгищтара	_	VERB	_	Number[abs]=Sing|Person[abs]=1	6	advcl	6:advcl	1sg.abs|_|csl|Gloss=1sg.abs-csl-оканчивать-since|Segment=с-гӏа-лг-ищтАра|since
-3	сквшы	сквшы	NOUN	_	_	6	nsubj	6:nsubj	_|Gloss=год|Segment=сквшЫ
-4	гIвынгIважви	гIвынгIважви	NUM	_	_	3	nummod	3:nummod	_|Gloss=двадцать|Segment=гӏвынгӏважвИ
-5	жвих	жвих	NUM	_	_	4	flat	4:flat	_|Gloss=тринадцать|Segment=жвИх
-6	цIытI	_	VERB	_	_	0	root	0:root	_|dcl|Gloss=пройти-dcl|Segment=цӏЫ-тӏ
+1	апхьарта	апхьарта	NOUN	_	Definite=Def	2	obl	_	_|def|Gloss=def-школа|Segment=А-пхьарта
+2	сгIалгищтара	_	VERB	_	Number[abs]=Sing|Person[abs]=1	6	advcl	_	1sg.abs|_|csl|Gloss=1sg.abs-csl-оканчивать-since|Segment=с-гӏа-лг-ищтАра|since
+3	сквшы	сквшы	NOUN	_	_	6	nsubj	_	_|Gloss=год|Segment=сквшЫ
+4	гIвынгIважви	гIвынгIважви	NUM	_	_	3	nummod	_	_|Gloss=двадцать|Segment=гӏвынгӏважвИ
+5	жвих	жвих	NUM	_	_	4	flat	_	_|Gloss=тринадцать|Segment=жвИх
+6	цIытI	_	VERB	_	_	0	root	_	_|dcl|Gloss=пройти-dcl|Segment=цӏЫ-тӏ
 
 # ft_rus = С тех пор я обучаю детей английскому языку в школе.
 # sent_id = 33
 # text = ауищтарагьи сара апхьарта асабиква ангьлызбызшвала йасрыпхьид
 # text_name = Professija_AjsanovaFB_11072017
-1	ауищтарагьи	_	ADV	_	_	6	advmod	6:advmod	_|add|dist+since|Gloss=dist+since-add|Segment=ауищтАра-гьи
-2	сара	сара	PRON	_	_	6	nsubj	6:nsubj	_|Gloss=я|Segment=сарА
-3	апхьарта	апхьарта	NOUN	_	Definite=Def	6	obl	6:obl	_|def|Gloss=def-школа|Segment=А-пхьарта
-4	асабиква	асаби	NOUN	_	Definite=Def|Number=Plur	6	obj	6:obj	_|def|Gloss=def-дети-pl|pl|Segment=а-сабИ-ква
-5	ангьлызбызшвала	_	NOUN	_	Case=Ins	6	obl	6:obl	_|Gloss=английский-язык-ins|ins|Segment=ангьлЫз-бызшва-ла
-6	йасрыпхьид	_	VERB	_	Gender[dat]=Neut|Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1|Tense=Pres|Voice=Cau	0	root	0:root	1sg.erg|3n.io|3pl.abs|_|caus|dcl|Gloss=3pl.abs-3n.io-1sg.erg-caus-читать-prs-dcl|prs|Segment=й-а-с-рЫ-пхь-и-д
+1	ауищтарагьи	_	ADV	_	_	6	advmod	_	_|add|dist+since|Gloss=dist+since-add|Segment=ауищтАра-гьи
+2	сара	сара	PRON	_	_	6	nsubj	_	_|Gloss=я|Segment=сарА
+3	апхьарта	апхьарта	NOUN	_	Definite=Def	6	obl	_	_|def|Gloss=def-школа|Segment=А-пхьарта
+4	асабиква	асаби	NOUN	_	Definite=Def|Number=Plur	6	obj	_	_|def|Gloss=def-дети-pl|pl|Segment=а-сабИ-ква
+5	ангьлызбызшвала	_	NOUN	_	Case=Ins	6	obl	_	_|Gloss=английский-язык-ins|ins|Segment=ангьлЫз-бызшва-ла
+6	йасрыпхьид	_	VERB	_	Gender[dat]=Neut|Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1|Tense=Pres|Voice=Cau	0	root	_	1sg.erg|3n.io|3pl.abs|_|caus|dcl|Gloss=3pl.abs-3n.io-1sg.erg-caus-читать-prs-dcl|prs|Segment=й-а-с-рЫ-пхь-и-д
 
 # ft_rus = Я люблю детей и очень люблю свою работу
 # sent_id = 34
 # text = сара асабиква бзи йызбитI сынхартагьи бзидздза йызбитI
 # text_name = Professija_AjsanovaFB_11072017
-1	сара	сара	PRON	_	_	4	nsubj	4:nsubj	_|Gloss=я|Segment=сарА
-2	асабиква	асаби	NOUN	_	Definite=Def|Number=Plur	4	obj	4:obj	_|def|Gloss=def-дети-pl|pl|Segment=а-сабИ-ква
-3	бзи	бзи	ADV	_	_	4	advmod	4:advmod	_|Gloss=хорошо|Segment=бзИ
-4	йызбитI	_	VERB	_	Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres	0	root	0:root	1sg.erg|3pl.abs|_|dcl|Gloss=3pl.abs-1sg.erg-видеть-prs-dcl|prs|Segment=йы-з-б-И-тӏ
-5	сынхартагьи	асыхартгьи	NOUN	_	Number[dat]=Sing|Person[dat]=1	7	obj	7:obj	1sg.io|_|add|Gloss=1sg.io-работа-add|Segment=сы-нхАрта-гьи
-6	бзидздза	_	ADV	_	_	7	advmod	7:advmod	_|ass|Gloss=хороший-int-int|Segment=бзи-дз-дзА
-7	йызбитI	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres	4	conj	4:conj	1sg.erg|3n.abs|_|dcl|Gloss=3n.abs-1sg.erg-видеть-prs-dcl|prs|Segment=йы-з-б-И-тӏ
+1	сара	сара	PRON	_	_	4	nsubj	_	_|Gloss=я|Segment=сарА
+2	асабиква	асаби	NOUN	_	Definite=Def|Number=Plur	4	obj	_	_|def|Gloss=def-дети-pl|pl|Segment=а-сабИ-ква
+3	бзи	бзи	ADV	_	_	4	advmod	_	_|Gloss=хорошо|Segment=бзИ
+4	йызбитI	_	VERB	_	Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres	0	root	_	1sg.erg|3pl.abs|_|dcl|Gloss=3pl.abs-1sg.erg-видеть-prs-dcl|prs|Segment=йы-з-б-И-тӏ
+5	сынхартагьи	асыхартгьи	NOUN	_	Number[dat]=Sing|Person[dat]=1	7	obj	_	1sg.io|_|add|Gloss=1sg.io-работа-add|Segment=сы-нхАрта-гьи
+6	бзидздза	_	ADV	_	_	7	advmod	_	_|ass|Gloss=хороший-int-int|Segment=бзи-дз-дзА
+7	йызбитI	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres	4	conj	_	1sg.erg|3n.abs|_|dcl|Gloss=3n.abs-1sg.erg-видеть-prs-dcl|prs|Segment=йы-з-б-И-тӏ
