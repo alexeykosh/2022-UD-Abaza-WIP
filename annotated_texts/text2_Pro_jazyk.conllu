@@ -55,7 +55,7 @@
 5	анчва	нчва	NOUN	_	Definite=Def	9	obl	_	Gloss=def-бог|_|_|def
 6	спсы	псы	NOUN	_	Number[psor]=Sing|Person[psor]=1	7	nsubj	_	Gloss=1sg.pr-душа|_|_|1sg.pr
 7	зкъвырману	къвырман	VERB	_	RelType=Pr|Tense=Pres|VerbForm=NonFin	5	acl	_	Gloss=rel.pr-жертва-prs.nfin|_|_|rel.pr|prs.nfin
-8	йпны	апны	VERB	_	Gender[io]=Masc|Number[io]=Sing|Person[io]=3	5	case	_	Gloss=3sg.m.io-к|_|_|3sg.m.io
+8	йпны	апны	VERB	_	Gender[io]=Masc|Number[io]=Sing|Person[io]=3	5	case	_	Gloss=3sg.m.io-возле|_|_|3sg.m.io
 9	хIхъалпIта	хъалра	VERB	_	Number[abs]=Plur|Person[abs]=1|Tense=Fut2|VerbForm=Fin	4	conj	_	Gloss=1pl.abs-подниматься-npst.dcl-adv|_|_|1pl.abs|npst.dcl|adv
 10	хIицIгIапI	цIгIара	VERB	_	Gender[io]=Masc|Number[abs]=Plur|Number[io]=Sing|Person[abs]=1|Person[io]=3|Tense=Fut2|VerbForm=Fin	4	conj	_	Gloss=1pl.abs-3sg.m.io-спрашивать-npst.dcl|_|_|1pl.abs|3sg.m.io|npst.dcl
 11	араъа	араъа	ADV	_	_	12	obl	_	Gloss=prox.loc|_|_|prox.loc
@@ -101,7 +101,7 @@
 1	уадыргIвана	уадыргIвана	ADV	_	_	3	advmod	_	Gloss=потом|_|_
 2	апегIамбар	пегIамбар	NOUN	_	Definite=Def	3	nsubj	_	Gloss=def-пророк|_|_|def
 3	дгIаразцIгIатI	цIгIара	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Number[io]=Plur|Person[abs]=3|Person[io]=3|Tense=Aor|VerbForm=Fin	0	root	_	Gloss=3sg.h.abs-csl-3pl.io-ben-спрашивать-dcl|_|_|3sg.h.abs|csl|3pl.io|ben|dcl
-4	йачIвыйа	ачIвыйа	VERB	_	Gender[io]=Neut|Int=Yes|Number[io]=Sing|Person[io]=3|RelType=Abs	3	ccomp	_	Gloss=rel.abs-3sg.n.io-принадлежать-qn|_|_|rel.abs|3sg.n.io|qn
+4	йачIвыйа	ачIвыйа	VERB	_	Int=Yes	3	ccomp	_	Gloss=что-qn|_|_|qn
 5	йшвтахъху	тахъхара	VERB	_	Number[io]=Plur|Person[io]=2|RelType=Abs|Tense=Pres|VerbForm=NonFin	4	nsubj	_	Gloss=rel.abs-2pl.io-хотеть-re-prs.nfin|_|_|rel.abs|2pl.io|re|prs.nfin
 
 # sent_id = 10
@@ -192,7 +192,7 @@
 2	гIанхатI	гIанхара	VERB	_	Tense=Aor|VerbForm=Fin	0	root	_	Gloss=csl-loc-оставаться-dcl|_|_|csl|loc|dcl
 3	ауаса	ауаса	CCONJ	_	_	5	cc	_	Gloss=но|_|_
 4	ауат	ауат	PRON	_	_	5	nsubj	_	Gloss=dist.pl|_|_|dist.pl
-5	гьызгIатымцIтI	цара	VERB	_	Polarity=Neg|Tense=Aor|VerbForm=Fin	2	conj	_	Gloss=neg.emp-pot-csl-loc.elat-neg-пройти-dcl|_|_|neg.emp|pot|csl|loc.elat|neg|dcl
+5	гьызгIатымцIтI	тыцIра	VERB	_	Polarity=Neg|Tense=Aor|VerbForm=Fin	2	conj	_	Gloss=neg.emp-pot-csl-loc.elat-neg-пройти-dcl|_|_|neg.emp|pot|csl|loc.elat|neg|dcl
 6	хIахъвыкIгьи	хIахъвы	NOUN	_	Definite=Ind	7	nsubj	_	Gloss=камень-indf-add|_|_|indf|add
 7	гьгIатамхатI	гIатахара	VERB	_	Polarity=Neg|Tense=Aor|VerbForm=Fin	2	conj	_	Gloss=neg.emp-csl-loc-neg-оставаться-dcl|_|_|neg.emp|csl|loc|neg|dcl
 
@@ -211,7 +211,7 @@
 # text = ачIвыйа ари йгIанхакваз руыс шпацуш нихIва асхъан алахI ауи йхIватI
 # text_init = ачIвЫйа арИ йгIанхаквАз руЫс шпАцуш нихIвА Асхъан алАхI ауИ йхIвАтI.
 # text_rus = “Как дела пойдут у тех, кто остался?” – когда он сказал Аллаху, тот ответил:
-1	ачIвыйа	ачIвыйа	VERB	_	Gender[io]=Neut|Int=Yes|Number[io]=Sing|Person[io]=3|RelType=Abs	6	ccomp	_	Gloss=3sg.n.io-принадлежать-qn|_|_|rel.abs|3sg.n.io|qn
+1	ачIвыйа	ачIвыйа	VERB	_	Int=Yes	6	ccomp	_	Gloss=что-qn|_|_|qn
 2	ари	ари	PRON	_	Number=Sing|PronType=Dem	4	nmod	_	Gloss=prox.sg|_|_|prox.sg
 3	йгIанхакваз	гIанхара	VERB	_	Number=Plur|RelType=Abs|Tense=Past|VerbForm=NonFin	2	acl	_	Gloss=rel.abs-csl-loc-оставаться-pl-pst.nfin|_|_|rel.abs|csl|loc|pl|pst.nfin
 4	руыс	уыс	NOUN	_	Number[psor]=Plur|Person[psor]=3	5	nsubj	_	Gloss=3pl.pr-дело|_|_|3pl.pr
@@ -274,6 +274,6 @@
 # text_rus = И так их язык – абазинский.
 1	йгьи	йгьи	CCONJ	_	_	5	cc	_	Gloss=и|_|_
 2	ауат	ауат	PRON	_	_	3	nmod	_	Gloss=dist.pl|_|_|dist.pl
-3	рыбызшва	бызшва	NOUN	_	Person[psor]=3|Number[psor]=Plur	5	nsubj	_	Gloss=3pl.pr-язык|_|_|3pl.pl
+3	рыбызшва	бызшва	NOUN	_	Person[psor]=3|Number[psor]=Plur	5	nsubj	_	Gloss=3pl.pr-язык|_|_|3pl.pr
 4	абаза	абаза	ADJ	_	_	5	amod	_	Gloss=абазинский|_|_
 5	бызшвапI	бызшва	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Gloss=язык-npst.dcl|_|_|npst.dcl

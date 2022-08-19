@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2022-07-23T13:31:29+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2022-08-19T12:44:42+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/apanova/OneDrive/Documents/Abaza/Corpus/WAVS/Pro_jazyk_AsanaevaFM_09072017.WAV" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../../../../../OneDrive/Documents/Abaza/Corpus/WAVS/Pro_jazyk_AsanaevaFM_09072017.WAV"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/apanova/Library/CloudStorage/OneDrive-Личная/Documents/NorthwestCaucasian/Abaza/LingView_Abaza/data/media_files/Pro_jazyk_AsanaevaFM_09072017.WAV" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../LingView_Abaza/data/media_files/Pro_jazyk_AsanaevaFM_09072017.WAV"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:ad101aad-15d7-4c37-b527-4cb758d93530</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">1489</PROPERTY>
     </HEADER>
@@ -1964,7 +1964,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1114" ANNOTATION_REF="a830">
-                <ANNOTATION_VALUE>й-а-чIвЫ-йа</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>йачIвЫ-йа</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2531,7 +2531,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1227" ANNOTATION_REF="a801">
-                <ANNOTATION_VALUE>здесь</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>prox.loc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2566,7 +2566,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1234" ANNOTATION_REF="a808">
-                <ANNOTATION_VALUE>3sg.m.io-к</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>3sg.m.io-возле</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2676,7 +2676,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1256" ANNOTATION_REF="a830">
-                <ANNOTATION_VALUE>rel.abs-3sg.n.io-принадлежать-qn</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>что-qn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3121,7 +3121,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1345" ANNOTATION_REF="a919">
-                <ANNOTATION_VALUE>3pl.pl-язык</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>3pl.pr-язык</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3388,7 +3388,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1398" ANNOTATION_REF="a1114">
-                <ANNOTATION_VALUE>j-a-ĉ̣ə́-ja</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>jaĉ̣ə́-ja</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
