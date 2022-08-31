@@ -4,7 +4,7 @@
 # text_init = Асабиква анахь архъа апны йышнаргуаз апхIвысква, йрабымхIвума?
 # text_rus = Не поговоришь ли с ними о том, как женщины относили детей на поле?
 1	асабиква	_	NOUN	_	Definite=Def|Number=Plur	5	obj	_	Gloss=def-дети-pl|_|_|def|pl
-2	анахь	_	DET	_	PronType=Dem	1	det	_	Gloss=med-lat|_|_|med|lat
+2	анахь	_	PRON	_	PronType=Dem	5	obl	_	Gloss=med-lat|_|_|med|lat
 3	архъа	_	NOUN	_	Definite=Def	5	obl	_	Gloss=def-поле|_|_|def
 4	апны	_	ADP	_	Gender[io]=Neut|Number[io]=Sing|Person[io]=3	3	case	_	Gloss=3sg.n.io-возле|_|_|3sg.n.io
 5	йышнаргуаз	_	VERB	_	Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|RelType=Mnr|Tense=Past|VerbForm=NonFin	7	ccomp	_	Gloss=3pl.abs-rel.mnr-trl-3pl.erg-нести-ipf-pst.nfin|_|_|3pl.abs|rel.mnr|trl|3pl.erg|ipf|pst.nfin
@@ -28,7 +28,7 @@
 9	абари	_	DET	_	PronType=Dem	11	det	_	Gloss=такой-prox|_|_|prox
 10	апш	_	ADJ	_	_	11	amod	_	Gloss=подобный|_|_
 11	ашiуна	_	NOUN	_	Definite=Def	13	reparandum	_	Gloss=def-подвал|_|_|def
-12	адына	_	NOUN	_	Definite=Def	13	discourse:filler	_	Gloss=def-filler|_|_|def|filler
+12	адына	_	NOUN	_	Definite=Def	13	discourse	_	Gloss=def-filler|_|_|def|filler
 13	амашаква	_	NOUN	_	Definite=Def|Number=Plur	14	obj	_	Gloss=def-яма-pl|_|_|def|pl
 14	гiаржуанта	_	VERB	_	Number[erg]=Plur|Person[erg]=3	8	conj	_	Gloss=csl-3pl.erg-копать-ipf-pst-adv|_|_|csl|3pl.erg|ipf|pst|adv
 15	асабиква	_	NOUN	_	Definite=Def|Number=Plur	17	obj	_	Gloss=def-дети-pl|_|_|def|pl
@@ -61,8 +61,8 @@
 2	дчiвыуа	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3	4	advcl	_	Gloss=3sg.h.abs-плакать|_|_|3sg.h.abs
 3	дчiвыуа	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3	2	conj	_	Gloss=3sg.h.abs-плакать|_|_|3sg.h.abs
 4	дчiвыуамцара	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|VerbForm=Conv	7	advcl	_	Gloss=3sg.h.abs-плакать-cvb|_|_|3sg.h.abs|cvb
-5	адына	_	NOUN	_	Definite=Def	6	discourse:filler	_	Gloss=def-filler|_|_|def|filler
-6	ангьи	_	NOUN	_	_	_	_	_	Gloss=мать-add|_|_|add
+5	адына	_	NOUN	_	Definite=Def	6	discourse	_	Gloss=def-filler|_|_|def|filler
+6	ангьи	_	NOUN	_	_	7	nsubj	_	Gloss=мать-add|_|_|add
 7	дгiатыцiын	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3	0	root	_	Gloss=3sg.h.abs-csl-loc.elat-пройти-pst|_|_|3sg.h.abs|csl|loc.elat|pst
 8	аныла	_	PRON	_	PronType=Dem	9	advmod	_	Gloss=med-ins|_|_|med|ins
 9	дчiвыуид	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Pres|VerbForm=Fin	7	conj	_	Gloss=3sg.h.abs-плакать-prs-dcl|_|_|3sg.h.abs|prs|dcl
@@ -71,12 +71,13 @@
 12	дныкъвауамцара	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|VerbForm=Conv	11	advcl	_	Gloss=3sg.h.abs-ходить-ipf-cvb|_|_|3sg.h.abs|ipf|cvb
 
 
+
 # sent_id = 5
 # text_name = Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
 # text = лан дангIайх асхъан асаби дгьлымдырхд дгIаргхдзылщан
 # text_init = Лан дангIайх асхъан, асаби дгьлымдырхд, дгIаргхдзылщан.
 # text_rus = Ее (девочки) мать, когда возвращалась, про ребенка не знала, думала что (другие) его несут, уже темно было.
-1	лан	_	NOUN	_	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3	2	nsubj	_	Gloss=3sg.f.pr-мать|_|_|3sg.f.pr
+1	лан	_	NOUN	_	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	Gloss=3sg.f.pr-мать|_|_|3sg.f.pr
 2	дангiайх	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|RelType=Tmp	5	advcl	_	Gloss=3sg.h.abs-rel.tmp-csl-приходить-re|_|_|3sg.h.abs|rel.tmp|csl|re
 3	асхъан	_	SCONJ	_	_	2	mark	_	Gloss=когда|_|_
 4	асаби	_	NOUN	_	Definite=Def	5	obj	_	Gloss=def-ребенок|_|_|def
@@ -105,7 +106,7 @@
 # text = абарауи апшта йбзазаквад ауагIа швабыжта швабыжта йгIапсад ауагIа
 # text_init = Абарауи апшта йбзазаквад ауагIа. Швабыжта, швабыжта йгIапсад ауагIа.
 # text_rus = Вот так и жили люди. Сильно, сильно уставали люди.
-1	абарауи	_	PRON	_	PronType=Dem	3	advmod	_	Gloss=вот.так-dist|_|_|.|dist
+1	абарауи	_	ADV	_	PronType=Dem	2	obl	_	Gloss=вот.так-dist|_|_|.|dist
 2	апшта	_	ADV	_	_	3	advmod	_	Gloss=подобный-adv|_|_|adv
 3	йбзазаквад	_	VERB	_	Number=Plur|Number[abs]=Plur|Person[abs]=3|VerbForm=Fin	0	root	_	Gloss=3pl.abs-жить-pl-dcl|_|_|3pl.abs|pl|dcl
 4	ауагiа	_	NOUN	_	Definite=Def	7	nsubj	_	Gloss=def-люди|_|_|def
@@ -132,9 +133,9 @@
 # text_init = Ужвы йырчпауа мачIпI ауи.
 # text_rus = Теперь то, что делают — это мало.
 1	ужвы	_	ADV	_	_	2	advmod	_	Gloss=сейчас|_|_
-2	йырчпауа	_	VERB	_	Number[erg]=Plur|Person[erg]=3|RelType=Abs	3	csubj	_	Gloss=rel.abs-3pl.erg-делать-ipf|_|_|rel.abs|3pl.erg|ipf
+2	йырчпауа	_	VERB	_	Number[erg]=Plur|Person[erg]=3|RelType=Abs	3	dislocated	_	Gloss=rel.abs-3pl.erg-делать-ipf|_|_|rel.abs|3pl.erg|ipf
 3	мачiпi	_	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Gloss=мало-npst.dcl|_|_|npst.dcl
-4	ауи	_	PART	_	Number=Sing|PronType=Dem	3	discourse	_	Gloss=dist.sg|_|_|dist.sg
+4	ауи	_	PRON	_	Number=Sing|PronType=Dem	3	nsubj	_	Gloss=dist.sg|_|_|dist.sg
 
 
 # sent_id = 10
