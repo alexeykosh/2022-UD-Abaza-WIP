@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2022-05-22T17:23:32+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2022-09-14T23:16:39+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/apanova/OneDrive/Documents/Abaza/Corpus/WAVS/Professija_AjsanovaFB_11072017.WAV" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../../../../OneDrive/Documents/Abaza/Corpus/WAVS/Professija_AjsanovaFB_11072017.WAV"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/apanova/OneDrive/Documents/Abaza/Corpus/WAVS/Professija_AjsanovaFB_11072017.WAV" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../../../../../OneDrive/Documents/Abaza/Corpus/WAVS/Professija_AjsanovaFB_11072017.WAV"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:ccf08471-45bd-4312-a538-e581b097bd5a</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">567</PROPERTY>
     </HEADER>
@@ -1098,7 +1098,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a492" ANNOTATION_REF="a330">
-                <ANNOTATION_VALUE>хороший-int</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>хороший-int~int</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1198,7 +1198,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a512" ANNOTATION_REF="a350">
-                <ANNOTATION_VALUE>хороший-int</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>хороший-int~int</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1370,7 +1370,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a546" ANNOTATION_REF="a438">
-                <ANNOTATION_VALUE>bzəj-ʒʒá</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>bzəj-ʒ-ʒá</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
