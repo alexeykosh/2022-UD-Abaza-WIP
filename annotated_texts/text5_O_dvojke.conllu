@@ -60,7 +60,7 @@
 # text = ауат йгIарылцIла дампхьауата дгIанхатI
 # text_init = Ауат йгIарылцIла дампхьауата дгIанхатI.
 # text_rus = В связи с этими событиями она (мать) не училась (букв. осталась не учившейся).
-1	ауат	_	PRON	_	Number=Plur|PronType=Dem	4	nsubj	_	Gloss=dist.pl|_|_|dist.pl
+1	ауат	_	PRON	_	Number=Plur|PronType=Dem	2	nsubj	_	Gloss=dist.pl|_|_|dist.pl
 2	йгiарылцiла	_	VERB	_	Number[erg]=Plur|Person[erg]=3|RelType=Abs	4	advcl	_	Gloss=rel.abs-csl-3pl.erg-loc.elat-проходить-ins|_|_|rel.abs|csl|3pl.erg|loc.elat|ins
 3	дампхьауата	_	VERB	_	Gender[io]=Neut|Number[io]=Sing|Person[io]=3|Polarity=Neg	4	advcl	_	Gloss=3sg,h.abs-3sg.n.io-neg-учиться-ipf-adv|_|_|3sg,h.abs|3sg.n.io|neg|ipf|adv
 4	дгiанхатi	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin	0	root	_	Gloss=3sg.h.abs-csl-loc-оставаться-dcl|_|_|3sg.h.abs|csl|loc|dcl
@@ -89,9 +89,9 @@
 # text = ауи апшта зны хIыбызшвала апхьарта апны тшазсымрыхIазыруата санца асхъан гIвба гIазгын гIвба стетрадь йаныта хIпны сгIайхд
 # text_init = Ауи апшта зны хIыбызшвала апхьарта апны тшазсымрыхIазыруата санца асхъан гIвба гIазгын гIвба стетрадь йаныта хIпны сгIайхд.
 # text_rus = Однажды, когда я пошёл в школу, не подготовившись по родному языку, я получил двойку, двойку в тетрадь, и пошёл домой.
-1	ауи	_	DET	_	Number=Sing|PronType=Dem	3	det	_	Gloss=dist.sg|_|_|dist.sg
-2	апшта	_	ADJ	_	_	3	amod	_	Gloss=подобный-adv|_|_|adv
-3	зны	_	ADV	_	_	8	advmod	_	Gloss=один.раз|_|_|.
+1	ауи	_	ADV	_	Number=Sing|PronType=Dem	8	advmod	_	Gloss=dist.sg|_|_|dist.sg
+2	апшта	_	ADV	_	_	1	fixed	_	Gloss=подобный-adv|_|_|adv
+3	зны	_	ADV	_	_	1	conj	_	Gloss=один.раз|_|_|.
 4	хiыбызшвала	_	NOUN	_	Number[psor]=Plur|Person[psor]=1	8	obl	_	Gloss=1pl.pr-язык-ins|_|_|1pl.pr|ins
 5	апхьарта	_	NOUN	_	Definite=Def	8	obl	_	Gloss=def+школа|_|_|def
 6	апны	_	ADP	_	Gender[io]=Neut|Number[io]=Sing|Person[io]=3	5	case	_	Gloss=3sg.n.io-возле|_|_|3sg.n.io
@@ -158,9 +158,9 @@
 # text = щта йгIазгд схIвад
 # text_init = Щта, йгIазгд, схIвад.
 # text_rus = Да, говорю, получил.
-1	щта	_	PART	_	_	0	root	_	Gloss=да|_|_
-2	йгiазгд	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin	1	parataxis	_	Gloss=3sg.n.abs-csl-1sg.erg-нести-dcl|_|_|3sg.n.abs|csl|1sg.erg|dcl
-3	схiвад	_	VERB	_	Number[erg]=Sing|Person[erg]=1|VerbForm=Fin	1	conj	_	Gloss=1sg.erg-говорить-dcl|_|_|1sg.erg|dcl
+1	щта	_	PART	_	_	2	discourse	_	Gloss=да|_|_
+2	йгiазгд	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin	3	ccomp	_	Gloss=3sg.n.abs-csl-1sg.erg-нести-dcl|_|_|3sg.n.abs|csl|1sg.erg|dcl
+3	схiвад	_	VERB	_	Number[erg]=Sing|Person[erg]=1|VerbForm=Fin	0	root	_	Gloss=1sg.erg-говорить-dcl|_|_|1sg.erg|dcl
 
 
 # sent_id = 13
@@ -267,13 +267,14 @@
 # text_init = Апхьага гIасахвта араса йшгIахъсрышвтуа cан сыла дгIацIалид йанакIвызлакIгьи.
 # text_rus = Как только беру книгу, мать всегда встает глазами.
 1	апхьага	_	NOUN	_	Definite=Def	2	obj	_	Gloss=def+книга|_|_|def
-2	гiасахвта	_	VERB	_	Number[erg]=Sing|Person[erg]=1	4	xcomp	_	Gloss=csl-1sg.erg-брать-adv|_|_|csl|1sg.erg|adv
+2	гiасахвта	_	VERB	_	Number[erg]=Sing|Person[erg]=1	4	advcl	_	Gloss=csl-1sg.erg-брать-adv|_|_|csl|1sg.erg|adv
 3	араса	_	PRON	_	_	4	obl	_	Gloss=prox.adv|_|_|prox.adv
 4	йшгiахъсрышвтуа	_	VERB	_	Caus=Yes|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|RelType=Mnr	0	root	_	Gloss=3sg.n.abs-rel.mnr-csl-loc.elat-1sg.erg-caus-падать-ipf|_|_|3sg.n.abs|rel.mnr|csl|loc.elat|1sg.erg|caus|ipf
 5	cан	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	7	nsubj	_	Gloss=1sg.pr-мать|_|_|1sg.pr
 6	сыла	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	7	obl	_	Gloss=1sg.pr-глаз|_|_|1sg.pr
 7	дгiацiалид	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Pres|VerbForm=Fin	4	conj	_	Gloss=3sg.h.abs-csl-loc-войти-prs-dcl|_|_|3sg.h.abs|csl|loc|prs|dcl
-8	йанакiвызлакiгьи	_	VERB	_	Definite=Ind|Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|RelType=Tmp|Tense=Past|VerbForm=Conv|VerbForm=NonFin	_	_	_	Gloss=3sg.n.abs-rel.tmp-cop-pst.nfin-cnc-indf-add|_|_|3sg.n.abs|rel.tmp|cop|pst.nfin|cnc|indf|add
+8	йанакiвызлакiгьи	_	ADV	_	Definite=Ind|Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|RelType=Tmp|Tense=Past|VerbForm=Conv|VerbForm=NonFin	7	advmod	_	Gloss=3sg.n.abs-rel.tmp-cop-pst.nfin-cnc-indf-add|_|_|3sg.n.abs|rel.tmp|cop|pst.nfin|cnc|indf|add
+
 
 
 # sent_id = 20

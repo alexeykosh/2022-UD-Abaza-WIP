@@ -4,7 +4,7 @@
 # text_init = квтIАгъьгIважва гIатурЫчIвитIта
 # text_rus = Слив двадцать яиц
 1	квтiагъьгiважва	_	NOUN	_	_	2	obj	_	Gloss=яйцо-два-десять|_|_
-2	гiатурычiвитiта	_	VERB	_	Caus=Yes|Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=2|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=csl-loc-2sg.m.erg-caus-литься-prs-dcl-adv|_|_|csl|loc|2sg.m.erg|caus|prs|dcl|adv
+2	гiатурычiвитiта	_	VERB	_	Caus=Yes|Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=2|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=csl-loc-2sg.m.erg-caus-литься-prs-dcl-adv|_|_|csl|loc|2sg.m.erg|caus|prs|dcl|adv
 
 
 # sent_id = 2
@@ -13,10 +13,10 @@
 # text_init = ауИ аъарА столОвая лОжка дзЫта йАлаучвахитI
 # text_rus = Туда вливаешь столько же столовых ложек воды.
 1	ауи	_	PRON	_	Number=Sing|PronType=Dem	6	obl	_	Gloss=dist.sg|_|_|dist.sg
-2	аъара	_	NUM	_	_	3	nummod	_	Gloss=столько|_|_
-3	столовая	_	NOUN	_	_	6	obj	_	Gloss=столовая|_|_
-4	ложка	_	NOUN	_	_	3	flat	_	Gloss=ложка|_|_
-5	дзыта	_	NOUN	_	_	3	flat	_	Gloss=вода-adv|_|_|adv
+2	аъара	_	NUM	_	_	4	nummod	_	Gloss=столько|_|_
+3	столовая	_	ADJ	_	_	4	amod	_	Gloss=столовая|_|_
+4	ложка	_	NOUN	_	_	6	obj	_	Gloss=ложка|_|_
+5	дзыта	_	NOUN	_	_	4	flat	_	Gloss=вода-adv|_|_|adv
 6	йалаучвахитi	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Gender[io]=Neut|Number[abs]=Sing|Number[erg]=Sing|Number[io]=Sing|Person[abs]=3|Person[erg]=2|Person[io]=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=3sg.n.abs-3sg.n.io-loc-2sg.m.erg-вливать-re-prs-dcl|_|_|3sg.n.abs|3sg.n.io|loc|2sg.m.erg|re|prs|dcl
 
 
@@ -69,9 +69,9 @@
 2	йгiватiитi	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=3sg.n.abs-мешать-prs-dcl|_|_|3sg.n.abs|prs|dcl
 3	совсем	_	ADV	_	_	4	advmod	_	Gloss=совсем|_|_
 4	йапцiхвхвауата	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	2	advcl	_	Gloss=3sg.n.abs-loc-loc-растягиваться-ipf-adv|_|_|3sg.n.abs|loc|loc|ipf|adv
-5	почти	_	ADV	_	_	9	reparandum	_	Gloss=почти|_|_
-6	час	_	NOUN	_	_	5	flat	_	Gloss=час|_|_
-7	можно	_	VERB	_	_	6	flat	_	Gloss=можно|_|_
+5	почти	_	ADV	_	_	6	advmod	_	Gloss=почти|_|_
+6	час	_	NOUN	_	_	7	obl	_	Gloss=час|_|_
+7	можно	_	VERB	_	_	8	reparandum	_	Gloss=можно|_|_
 8	йыугiватiуаштi	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Tense=Fut|VerbForm=Fin	2	conj	_	Gloss=3sg.n.abs-2sg.m.erg-мешать-ipf-fut-dcl|_|_|3sg.n.abs|2sg.m.erg|ipf|fut|dcl
 9	сахiаткiдза	_	NOUN	_	Definite=Ind	8	advmod	_	Gloss=час-indf-lim|_|_|indf|lim
 
@@ -146,12 +146,13 @@
 7	ауи	_	PRON	_	Number=Sing|PronType=Dem	8	obj	_	Gloss=dist.sg|_|_|dist.sg
 8	йтаргылта	_	VERB	_	Caus=Yes|Gender[abs]=Neut|Mood=Imp|Number[abs]=Sing|Person[abs]=3	6	conj	_	Gloss=3sg.n.abs-loc-caus-ставить(imp)-adv|_|_|3sg.n.abs|loc|caus|imp|adv
 9	ауи	_	PRON	_	Number=Sing|PronType=Dem	10	nsubj	_	Gloss=dist.sg|_|_|dist.sg
-10	тшакiвнахуа	_	VERB	_	Gender[erg]=Neut|Gender[io]=Neut|Number[erg]=Sing|Number[io]=Sing|Person[erg]=3|Person[io]=3|Voice=Rfl	6	conj	_	Gloss=rfl.abs-3sg.n.io-loc-3sg.n.erg-брать-ipf|_|_|rfl.abs|3sg.n.io|loc|3sg.n.erg|ipf
-11	тшакiвнахуамца	_	VERB	_	Gender[erg]=Neut|Gender[io]=Neut|Number[erg]=Sing|Number[io]=Sing|Person[erg]=3|Person[io]=3|VerbForm=Conv|Voice=Rfl	10	advcl	_	Gloss=rfl.abs-3sg.n.io-loc-3sg.n.erg-брать-ipf-cvb|_|_|rfl.abs|3sg.n.io|loc|3sg.n.erg|ipf|cvb
+10	тшакiвнахуа	_	VERB	_	Gender[erg]=Neut|Gender[io]=Neut|Number[erg]=Sing|Number[io]=Sing|Person[erg]=3|Person[io]=3|Voice=Rfl	15	advcl	_	Gloss=rfl.abs-3sg.n.io-loc-3sg.n.erg-брать-ipf|_|_|rfl.abs|3sg.n.io|loc|3sg.n.erg|ipf
+11	тшакiвнахуамца	_	VERB	_	Gender[erg]=Neut|Gender[io]=Neut|Number[erg]=Sing|Number[io]=Sing|Person[erg]=3|Person[io]=3|VerbForm=Conv|Voice=Rfl	10	dep:repeat	_	Gloss=rfl.abs-3sg.n.io-loc-3sg.n.erg-брать-ipf-cvb|_|_|rfl.abs|3sg.n.io|loc|3sg.n.erg|ipf|cvb
 12	арса	_	ADV	_	_	15	advmod	_	Gloss=так|_|_
 13	йдута	_	ADJ	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	15	xcomp	_	Gloss=3sg.n.abs-большой-adv|_|_|3sg.n.abs|adv
 14	йбабадза	_	ADJ	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	13	conj	_	Gloss=3sg.n.abs-пышный-int|_|_|3sg.n.abs|int
 15	йцитi	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Tense=Pres|VerbForm=Fin	6	conj	_	Gloss=3sg.n.abs-идти-prs-dcl|_|_|3sg.n.abs|prs|dcl
+
 
 
 # sent_id = 12
