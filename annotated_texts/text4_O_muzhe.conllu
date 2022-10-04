@@ -28,7 +28,7 @@
 5	йсчпитI	чпара	VERB	_	Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres|VerbForm=Fin	3	conj	_	Gloss=3pl.abs-1sg.erg-делать-prs-dcl|_|_|3pl.abs|1sg.erg|prs|dcl
 6	ауи	ауи	PRON	_	Number=Sing|PronType=Dem	7	reparandum	_	Gloss=dist.sg|_|_|dist.sg
 7	наскьи	наскьи	NOUN	_	_	5	obj	_	Gloss=носки|_|_
-8	уыжвгIандзарагьи	надзара	VERB	_	_	4	conj	_	Gloss=в.это.время-достигать-msd-add|_|_|..|msd|add
+8	уыжвгIандзарагьи	надзара	VERB	_	_	4	dep:repeat	_	Gloss=в.это.время-достигать-msd-add|_|_|..|msd|add
 
 # sent_id = 3
 # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
@@ -73,7 +73,7 @@
 1	йщапIы	щапIы	NOUN	_	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3	4	obl	_	Gloss=3sg.m.pr-нога|_|_|3sg.m.pr
 2	араъа	араъа	PRON	_	_	4	obl	_	Gloss=prox.loc|_|_|prox.loc
 3	хIскIолкIакI	скIолкIа	NOUN	_	_	4	nsubj	_	Gloss=три-осколок-unit|_|_|unit
-4	йалата	алазлара	VERB	_	Gender[io]=Neut|Number[abs]=Plur|Number[io]=Sing|Person[abs]=3|Person[io]=3	_	_	_	Gloss=3pl.abs-3sg.n.io-быть.в-adv|_|_|3pl.abs|3sg.n.io|.|adv
+4	йалата	алазлара	VERB	_	Gender[io]=Neut|Number[abs]=Plur|Number[io]=Sing|Person[abs]=3|Person[io]=3	11	advcl	_	Gloss=3pl.abs-3sg.n.io-быть.в-adv|_|_|3pl.abs|3sg.n.io|.|adv
 5	йгвы	гвы	NOUN	_	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3	7	obl	_	Gloss=3sg.m.pr-сердце|_|_|3sg.m.pr
 6	араъа	араъа	PRON	_	_	7	obl	_	Gloss=prox.loc|_|_|prox.loc
 7	йташваз	ташвара	VERB	_	RelType=Abs|Tense=Past|VerbForm=NonFin	8	acl	_	Gloss=rel.abs-loc-упасть-pst.nfin|_|_|rel.abs|loc|pst.nfin
@@ -157,11 +157,11 @@
 # text_rus = Вот это все прошло через мой зрачок [пережила, прошла через это]. Все.
 1	вот	вот	PART	_	_	6	discourse	_	Gloss=вот|_|_
 2	ауат	ауат	PRON	_	PronType=Dem|Number=Plur	6	nsubj	_	Gloss=dist.pl|_|_|dist.pl
-3	зымгIва	зымгIва	PRON	_	_	6	advmod	_	Gloss=всё|_|_
+3	зымгIва	зымгIва	ADV	_	_	6	advmod	_	Gloss=всё|_|_
 4	са	са	PRON	_	_	5	nmod	_	Gloss=я|_|_
 5	сылагвы	лагвы	NOUN	_	Number[psor]=Sing|Person[psor]=1	6	obl	_	Gloss=1sg.pr-зрачок|_|_|1sg.pr
 6	йыцIстI	цIсра	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Aor|VerbForm=Fin	0	root	_	Gloss=3pl.abs-loc-проходить-dcl|_|_|3pl.abs|loc|dcl
-7	зымгIва	зымгIва	PRON	_	_	3	advmod	_	Gloss=всё|_|_
+7	зымгIва	зымгIва	ADV	_	_	3	dep:repeat	_	Gloss=всё|_|_
 
 # sent_id = 15
 # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
