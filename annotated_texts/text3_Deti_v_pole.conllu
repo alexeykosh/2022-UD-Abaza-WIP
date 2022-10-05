@@ -44,7 +44,7 @@
 1	уадыргIвана	уадыргIвана	ADV	_	_	4	advmod	_	Gloss=потом|_|_
 2	пхIвыскI	пхIвыс	NOUN	_	Definite=Ind	4	nsubj	_	Gloss=женщина-indf|_|_|indf
 3	лсаби	саби	NOUN	_	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3	4	obj	_	Gloss=3sg.f.pr-ребенок|_|_|3sg.f.pr
-4	дгIалхъаштылын	хъаштылра	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=3sg.h.abs-csl-3sg.f.io-loc-забыть-pst|_|_|3sg.h.abs|csl|3sg.f.io|loc|pst
+4	дгIалхъаштылын	хъаштылра	VERB	_	Gender[abs]=Com|Gender[io]=Fem|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=3sg.h.abs-csl-3sg.f.io-loc-забыть-pst|_|_|3sg.h.abs|csl|3sg.f.io|loc|pst
 5	йхъвлан	хъвлара	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Tense=Past|VerbForm=Fin	4	conj	_	Gloss=3sg.n.abs-смеркаться-pst|_|_|3sg.n.abs|pst
 6	йгIаталхд	талра	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Aor|VerbForm=Fin	4	conj	_	Gloss=3pl.abs-csl-спускаться-re-dcl|_|_|3pl.abs|csl|re|dcl
 7	архъа	рхъа	NOUN	_	Definite=Def	6	obl	_	Gloss=def-поле|_|_|def
@@ -59,7 +59,7 @@
 3	дчIвыуа	чIвыуара	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|VerbForm=NonFin	2	conj	_	Gloss=3sg.h.abs-плакать|_|_|3sg.h.abs
 4	дчIвыуамцара	чIвыуара	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|VerbForm=Conv	7	advcl	_	Gloss=3sg.h.abs-плакать-cvb|_|_|3sg.h.abs|cvb
 5	адына	дына	NOUN	_	Definite=Def	6	discourse	_	Gloss=def-filler|_|_|def|filler
-6	ангьи	ан	NOUN	_	_	7	nsubj	_	Gloss=мать-add|_|_|add
+6	ангьи	аны	NOUN	_	_	7	nsubj	_	Gloss=мать-add|_|_|add
 7	дгIатыцIын	цIра	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=3sg.h.abs-csl-loc.elat-пройти-pst|_|_|3sg.h.abs|csl|loc.elat|pst
 8	аныла	аныла	PRON	_	PronType=Dem	9	advmod	_	Gloss=med-ins|_|_|med|ins
 9	дчIвыуид	чIвыуара	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Pres|VerbForm=Fin	7	conj	_	Gloss=3sg.h.abs-плакать-prs-dcl|_|_|3sg.h.abs|prs|dcl
@@ -72,12 +72,12 @@
 # text = лан дангIайх асхъан асаби дгьлымдырхд дгIаргхдзылщан
 # text_init = Лан дангIайх асхъан, асаби дгьлымдырхд, дгIаргхдзылщан.
 # text_rus = Ее (девочки) мать, когда возвращалась, про ребенка не знала, думала что (другие) его несут, уже темно было.
-1	лан	ан	NOUN	_	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	Gloss=3sg.f.pr-мать|_|_|3sg.f.pr
+1	лан	аны	NOUN	_	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	Gloss=3sg.f.pr-мать|_|_|3sg.f.pr
 2	дангIайх	гIайра	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|RelType=Tmp|Tense=Aor|VerbForm=NonFin	5	advcl	_	Gloss=3sg.h.abs-rel.tmp-csl-приходить-re|_|_|3sg.h.abs|rel.tmp|csl|re
 3	асхъан	асхъан	SCONJ	_	_	2	mark	_	Gloss=когда|_|_
 4	асаби	саби	NOUN	_	Definite=Def	5	obj	_	Gloss=def-ребенок|_|_|def
 5	дгьлымдырхд	дырра	VERB	_	Gender[abs]=Com|Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|Polarity=Neg|Tense=Aor|VerbForm=Fin	0	root	_	Gloss=3sg.h.abs-neg.emp-3sg.f.erg-neg-знать-re-dcl|_|_|3sg.h.abs|neg.emp|3sg.f.erg|neg|re|dcl
-6	дгIаргхдзылщан	гара	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Number[erg]=Plur|Number[io]=Sing|Person[abs]=3|Person[erg]=3|Person[io]=3|Tense=Past|VerbForm=Fin	5	conj	_	Gloss=3sg.h.abs-csl-3pl.erg-вести-re-loc-3sg.f.io-казаться-pst|_|_|3sg.h.abs|csl|3pl.erg|re|loc|3sg.f.io|pst
+6	дгIаргхдзылщан	гара	VERB	_	Gender[abs]=Com|Gender[io]=Fem|Number[abs]=Sing|Number[erg]=Plur|Number[io]=Sing|Person[abs]=3|Person[erg]=3|Person[io]=3|Tense=Past|VerbForm=Fin	5	conj	_	Gloss=3sg.h.abs-csl-3pl.erg-вести-re-loc-3sg.f.io-казаться-pst|_|_|3sg.h.abs|csl|3pl.erg|re|loc|3sg.f.io|pst
 
 # sent_id = 6
 # text_name = Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
@@ -124,7 +124,7 @@
 # text_init = Ужвы йырчпауа мачIпI ауи.
 # text_rus = Теперь то, что делают — это мало.
 1	ужвы	ужвы	ADV	_	_	2	advmod	_	Gloss=сейчас|_|_
-2	йырчпауа	чпара	VERB	_	Number[erg]=Plur|Person[erg]=3|RelType=Abs|Tense=Pres|VerbForm=NonFin	3	dislocated	_	Gloss=rel.abs-3pl.erg-делать-prs.nfin|_|_|rel.abs|3pl.erg|ipf
+2	йырчпауа	чпара	VERB	_	Number[erg]=Plur|Person[erg]=3|RelType=Abs|Tense=Pres|VerbForm=NonFin	3	dislocated	_	Gloss=rel.abs-3pl.erg-делать-ipf|_|_|rel.abs|3pl.erg|ipf
 3	мачIпI	мачI	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Gloss=мало-npst.dcl|_|_|npst.dcl
 4	ауи	ауи	PRON	_	Number=Sing|PronType=Dem	3	nsubj	_	Gloss=dist.sg|_|_|dist.sg
 

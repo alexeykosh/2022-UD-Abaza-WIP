@@ -23,7 +23,7 @@ _	_	3sg.m.erg	_	_	VERB	Person[erg]=3|Number[erg]=Sing|Gender[erg]=Masc	_
 _	_	3sg.m.io	_	_	VERB	Person[io]=3|Number[io]=Sing|Gender[io]=Masc	_
 _	_	3sg.m.pr	_	_	NOUN	Person[psor]=3|Number[psor]=Sing|Gender[psor]=Masc	_
 _	_	3sg.f.erg	_	_	VERB	Person[erg]=3|Number[erg]=Sing|Gender[erg]=Fem	_
-_	_	3sg.f.io	_	_	VERB	Person[io]=3|Number[io]=Sing|Gender[abs]=Com	_
+_	_	3sg.f.io	_	_	VERB	Person[io]=3|Number[io]=Sing|Gender[io]=Fem	_
 _	_	3sg.f.pr	_	_	NOUN	Person[psor]=3|Number[psor]=Sing|Gender[psor]=Fem	_
 _	_	3sg.n.abs	_	_	VERB	Person[abs]=3|Number[abs]=Sing|Gender[abs]=Neut	_
 _	_	3sg.n.erg	_	_	VERB	Person[erg]=3|Number[erg]=Sing|Gender[erg]=Neut	_
@@ -105,7 +105,7 @@ _	_	lat	_	_	VERB	_	_
 _	_	hab	_	_	VERB	_	_
 _	_	ins	_	_	NOUN	Case=Ins	_
 _	_	cnс	_	_	VERB	_	_
-_	_	q	_	_	_	_	_
+_	_	q	_	_	_	Int=Yes	_
 _	_	npot	_	_	NOUN	Derivation=npot	_
 _	_	cvb	_	_	VERB	VerbForm=Conv	_
 _	_	dprc	_	_	_	_	_
