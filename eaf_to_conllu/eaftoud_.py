@@ -62,7 +62,7 @@ def format_ud(instance):
 
     sent_full = [j[2] for _, j in instance.tiers[sent_tier][0].items()]
     sent = [j[2].lower().translate(str.maketrans('', '', 
-        string.punctuation)).split(' ') for _, j
+        string.punctuation)).replace('i', 'I').split(' ') for _, j
         in instance.tiers[sent_tier][0].items()]
     gloss = [j[1] for _, j in instance.tiers[gloss_tier][1].items()]
     morph = [i[1] for _, i in instance.tiers[morph_tier_][1].items()]
@@ -78,7 +78,7 @@ def format_ud(instance):
         ud_format.append(
             f'\n# sent_id = {idx}'
             f'\n# text_name = {file}'
-            f'\n# text_init = {make_text(sent_full[i])}'
+            f'\n# text = {make_text(sent_full[i])}'
             f'\n# text_orth = {" ".join(morphology)}'
             f'\n# text_transcription = {transcription}'
             f'\n# text_rus = {transl[i]}\n')
@@ -90,7 +90,7 @@ def format_ud(instance):
         for j in range(len(sentence)):
             ud_format.append(f'{num}\t{sentence[j]}\t_'
                 f'\t_\t_\t{make_gloss(glosses[j])}\t_\t_'
-                f'\t_\tGloss={morphology[j]}\n')
+                f'\t_\tGloss={glosses[j]}\n')
             num += 1
             u += 1        
     return ud_format
@@ -139,7 +139,7 @@ if __name__ == '__main__':
     # Remove output from the previous script:
     with open(f'{out}') as conllu_:
         for line in conllu_.readlines():
-            clean_out.append(re.sub(r'(Gloss=(\w|\w-)+)((\|.+)+)', r'\1', line))
+            clean_out.append(re.sub(r'(Gloss=(\w|\w-|\w\.)+)((\|.+)+)', r'\1', line))
 
     with open(f'{out}', 'w') as conllu_c:
         conllu_c.write(''.join(clean_out))
