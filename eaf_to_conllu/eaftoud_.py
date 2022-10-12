@@ -55,7 +55,7 @@ def format_ud(instance):
 
     sent_tier = [i for i in instance.tiers.keys() if 'Orth' in i][0]
     gloss_tier = [i for i in instance.tiers.keys() if 'Gloss' in i][0]
-    trans_tier = [i for i in instance.tiers.keys() if 'Words_trans' in i][0]
+    trans_tier = [i for i in instance.tiers.keys() if 'Morph_trans' in i][0]
     morph_tier_ = [i for i in instance.tiers.keys() if 'Morph' in i][0]
     transl_tier = [i for i in instance.tiers.keys() if 'Translation-txt' in i][0]
 
@@ -79,7 +79,7 @@ def format_ud(instance):
             f'\n# sent_id = {idx}'
             f'\n# text_name = {file}'
             f'\n# text = {make_text(sent_full[i])}'
-            f'\n# text_orth = {" ".join(morphology)}'
+            f'\n# text_orth = {" ".join(morphology).replace("ӏ", "I")}'
             f'\n# text_transcription = {transcription}'
             f'\n# text_rus = {transl[i]}\n')
 
