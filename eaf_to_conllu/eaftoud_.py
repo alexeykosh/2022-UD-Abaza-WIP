@@ -48,14 +48,6 @@ def format_ud(instance):
     '''
     Function that transforms data from the .eaf file to a conllu-compatible
     format  
-
-    # sent_id = 15
-    # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
-    # text_init = Ужвы здоровагьи гьсымахым. СгIанхахтI.
-    # text_orth = ужвы здорoва-гьи гь-сы-ма-хы-м с-гIа-н-ха-х-тI
-    # text_transcription = wəẑə zdarova-g’əj g’-sə-ma-χə-m s-ʕa-n-χa-χ-ṭ
-    # text_rus = Теперь здоровья нету, так и осталась.
-
     '''
     ud_format = []
     u = 1
@@ -127,10 +119,9 @@ def get_list_of_files(dir):
         i += 1
 
 if __name__ == '__main__':
-    if len(sys.argv) != 4: #{
+    if len(sys.argv) != 4:
         print('EafToUD.py <file> <out> <gloss>');
-        sys.exit(-1);
-    # }
+        sys.exit(-1)
 
     if not path.isdir('ud-scripts'):
         system('git clone https://github.com/ftyers/ud-scripts')
