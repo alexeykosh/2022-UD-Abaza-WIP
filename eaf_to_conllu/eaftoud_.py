@@ -5,7 +5,6 @@ from os import (walk,
                 system,
                 path, 
                 remove)
-import itertools
 import sys
 
 
@@ -49,24 +48,33 @@ def format_ud(instance):
     '''
     Function that transforms data from the .eaf file to a conllu-compatible
     format  
+
+    # sent_id = 15
+    # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
+    # text_init = Ужвы здоровагьи гьсымахым. СгIанхахтI.
+    # text_orth = ужвы здорoва-гьи гь-сы-ма-хы-м с-гIа-н-ха-х-тI
+    # text_transcription = wəẑə zdarova-g’əj g’-sə-ma-χə-m s-ʕa-n-χa-χ-ṭ
+    # text_rus = Теперь здоровья нету, так и осталась.
+
     '''
     ud_format = []
     u = 1
     idx = 1
 
     sent_tier = [i for i in instance.tiers.keys() if 'Orth' in i][0]
-    morph_tier = [i for i in instance.tiers.keys() if 'Gloss' in i][0]
-    trans_tier = [i for i in instance.tiers.keys() if 'Gloss' in i][0]
-    morph_tier_ = [i for i in instance.tiers.keys() if 'Morph' in i][0]
+    gloss_tier = [i for i in instance.tiers.keys() if 'Gloss' in i][0]
     trans_tier = [i for i in instance.tiers.keys() if 'Words_trans' in i][0]
+    morph_tier_ = [i for i in instance.tiers.keys() if 'Morph' in i][0]
+    transl_tier = [i for i in instance.tiers.keys() if 'Translation-txt' in i][0]
 
 
     sent_full = [j[2] for _, j in instance.tiers[sent_tier][0].items()]
     sent = [j[2].lower().translate(str.maketrans('', '', 
         string.punctuation)).split(' ') for _, j
         in instance.tiers[sent_tier][0].items()]
-    gloss = [j[1] for _, j in instance.tiers[morph_tier][1].items()]
+    gloss = [j[1] for _, j in instance.tiers[gloss_tier][1].items()]
     morph = [i[1] for _, i in instance.tiers[morph_tier_][1].items()]
+    transl = [i[1] for _, i in instance.tiers[transl_tier][1].items()]
     trans = [i[1] for _, i in instance.tiers[trans_tier][1].items()]
 
     k = 0
@@ -78,8 +86,10 @@ def format_ud(instance):
         ud_format.append(
             f'\n# sent_id = {idx}'
             f'\n# text_name = {file}'
-            f'\n# text = {make_text(sent_full[i])}'
-            f'\n# text_transcription = {transcription}\n')
+            f'\n# text_init = {make_text(sent_full[i])}'
+            f'\n# text_orth = {" ".join(morphology)}'
+            f'\n# text_transcription = {transcription}'
+            f'\n# text_rus = {transl[i]}\n')
 
         idx += 1
         k += len(sent[i])
@@ -88,7 +98,7 @@ def format_ud(instance):
         for j in range(len(sentence)):
             ud_format.append(f'{num}\t{sentence[j]}\t_'
                 f'\t_\t_\t{make_gloss(glosses[j])}\t_\t_'
-                f'\t_\tMorph={morphology[j]}\n')
+                f'\t_\tGloss={morphology[j]}\n')
             num += 1
             u += 1        
     return ud_format
@@ -135,9 +145,10 @@ if __name__ == '__main__':
     remove('out.conllu')
 
     clean_out = []
+    # Remove output from the previous script:
     with open(f'{out}') as conllu_:
         for line in conllu_.readlines():
-            clean_out.append(re.sub(r'(\|.+)+', '', line))
+            clean_out.append(re.sub(r'(Gloss=(\w|\w-)+)((\|.+)+)', r'\1', line))
 
     with open(f'{out}', 'w') as conllu_c:
         conllu_c.write(''.join(clean_out))
