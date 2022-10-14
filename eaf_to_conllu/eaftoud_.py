@@ -139,7 +139,7 @@ if __name__ == '__main__':
     # Remove output from the previous script:
     with open(f'{out}') as conllu_:
         for line in conllu_.readlines():
-            clean_out.append(re.sub(r'(Gloss=(\w|\w-|\w\.)+)((\|.+)+)', r'\1', line))
+            clean_out.append(re.sub(r'(Gloss=(\w|\w-|\w\.|\w\+)+)((\|.+)+)', r'\1', line))
 
     with open(f'{out}', 'w') as conllu_c:
         conllu_c.write(''.join(clean_out))
