@@ -1,0 +1,947 @@
+[Line 14 Sent 2]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+
+The following 38 feature values are currently permitted in language [abq]:
+Abbr=Yes, Aspect=Imp, Case=Ben, Case=Com, Case=Dat, Case=Ins, Definite=Def, Definite=Ind, Foreign=Yes, Gender[dat]=Fem, Gender[dat]=Masc, Gender[erg]=Fem, Gender[erg]=Masc, Mood=Pot, Number=Count, Number=Plur, Number[abs]=Plur, Number[abs]=Sing, Number[dat]=Plur, Number[dat]=Sing, Number[erg]=Plur, Number[erg]=Sing, Person[abs]=1, Person[abs]=2, Person[abs]=3, Person[dat]=1, Person[dat]=2, Person[dat]=3, Person[erg]=1, Person[erg]=2, Person[erg]=3, Polarity=Neg, Tense=Fut, Tense=Past, Tense=Pres, Typo=Yes, VerbForm=Inf, Voice=Cau
+If a language needs a feature that is not documented in the universal guidelines, the feature must
+have a language-specific documentation page in a prescribed format.
+See https://universaldependencies.org/contributing_language_specific.html for further guidelines.
+All features including universal must be specifically turned on for each language in which they are used.
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_feature.pl for details.
+
+[Line 15 Sent 2]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 16 Sent 2]: [L4 Morpho feature-value-unknown] Value Inceptive is not documented for feature Aspect in language [abq].
+[Line 28 Sent 3]: [L4 Morpho feature-value-unknown] Value Neut is not documented for feature Gender[dat] in language [abq].
+[Line 30 Sent 3]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 39 Sent 4]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 61 Sent 6]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 63 Sent 6]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 86 Sent 8]: [L4 Morpho feature-value-unknown] Value Neut is not documented for feature Gender[dat] in language [abq].
+[Line 100 Sent 9]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 102 Sent 9]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 103 Sent 9]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS DET in language [abq].
+[Line 103 Sent 9]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Tree number 9 on line 94 Sent 9]: [L1 Format word-id-sequence] Words do not form a sequence. Got '1,2,3,4,5,6,7,1,2,3,4'. Expected '1,2,3,4,5,6,7,8,9,10,11'.
+[Line 94 Sent 9]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'сара' but text is 'щарда цIитI ари агIаншиж...'
+[Tree number 9 on line 94 Sent 9]: [L2 Format skipped-corrupt-tree] Skipping annotation tests because of corrupt tree structure.
+[Line 115 Sent 10]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 115 Sent 10]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 116 Sent 10]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 116 Sent 10]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 117 Sent 10]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 117 Sent 10]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 117 Sent 10]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 119 Sent 10]: [L4 Morpho feature-value-upos-not-permitted] Value Imp of feature Tense is not permitted with UPOS VERB in language [abq].
+[Line 119 Sent 10]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 128 Sent 11]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 128 Sent 11]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 129 Sent 11]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 129 Sent 11]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 136 Sent 12]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 136 Sent 12]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 136 Sent 12]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 136 Sent 12]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 137 Sent 12]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 139 Sent 12]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 139 Sent 12]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 147 Sent 13]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 147 Sent 13]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 147 Sent 13]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 149 Sent 13]: [L4 Morpho feature-value-unknown] Value Fut2 is not documented for feature Tense in language [abq].
+[Line 149 Sent 13]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 151 Sent 13]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 151 Sent 13]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 152 Sent 13]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 152 Sent 13]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 153 Sent 13]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 153 Sent 13]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 153 Sent 13]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 154 Sent 13]: [L4 Morpho feature-value-unknown] Value Fut2 is not documented for feature Tense in language [abq].
+[Line 154 Sent 13]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 155 Sent 13]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 155 Sent 13]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 155 Sent 13]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 155 Sent 13]: [L4 Morpho feature-value-unknown] Value Fut2 is not documented for feature Tense in language [abq].
+[Line 155 Sent 13]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 157 Sent 13]: [L4 Morpho feature-value-upos-not-permitted] Value Conv of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 164 Sent 14]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 164 Sent 14]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 164 Sent 14]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 164 Sent 14]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 164 Sent 14]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 167 Sent 14]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 168 Sent 14]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 168 Sent 14]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 168 Sent 14]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 168 Sent 14]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 168 Sent 14]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 176 Sent 15]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 176 Sent 15]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 177 Sent 15]: [L4 Morpho feature-unknown] Feature Caus is not documented for language [abq].
+[Line 177 Sent 15]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 177 Sent 15]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 178 Sent 15]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 178 Sent 15]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 180 Sent 15]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 180 Sent 15]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 180 Sent 15]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 187 Sent 16]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 187 Sent 16]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 188 Sent 16]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 189 Sent 16]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 189 Sent 16]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 198 Sent 17]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 198 Sent 17]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 198 Sent 17]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 198 Sent 17]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 198 Sent 17]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 199 Sent 17]: [L4 Morpho feature-unknown] Feature Int is not documented for language [abq].
+[Line 200 Sent 17]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 200 Sent 17]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 200 Sent 17]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 200 Sent 17]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 209 Sent 18]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 209 Sent 18]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 210 Sent 18]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 210 Sent 18]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 211 Sent 18]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 211 Sent 18]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 211 Sent 18]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 213 Sent 18]: [L4 Morpho feature-value-upos-not-permitted] Value Conv of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 220 Sent 19]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 221 Sent 19]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 221 Sent 19]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 221 Sent 19]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 221 Sent 19]: [L4 Morpho feature-value-unknown] Value Subj1 is not documented for feature Tense in language [abq].
+[Line 221 Sent 19]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 222 Sent 19]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 222 Sent 19]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 230 Sent 20]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 230 Sent 20]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 230 Sent 20]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 230 Sent 20]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 230 Sent 20]: [L4 Morpho feature-value-unknown] Value Fut2 is not documented for feature Tense in language [abq].
+[Line 230 Sent 20]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 231 Sent 20]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 231 Sent 20]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 233 Sent 20]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 233 Sent 20]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 233 Sent 20]: [L4 Morpho feature-value-unknown] Value Fut2 is not documented for feature Tense in language [abq].
+[Line 233 Sent 20]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 234 Sent 20]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 234 Sent 20]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 241 Sent 21]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 241 Sent 21]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 244 Sent 21]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 244 Sent 21]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 244 Sent 21]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 251 Sent 22]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 251 Sent 22]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 252 Sent 22]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 254 Sent 22]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 254 Sent 22]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 257 Sent 22]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 257 Sent 22]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 259 Sent 22]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 259 Sent 22]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 259 Sent 22]: [L4 Syntax unknown-deprel] Unknown DEPREL label: 'dep:repeat'
+
+The following 38 relations are currently permitted in language [abq]:
+acl, advcl, advmod, amod, appos, aux, case, cc, ccomp, clf, compound, conj, cop, csubj, dep, det, discourse, dislocated, expl, fixed, flat, goeswith, iobj, list, mark, nmod, nmod:poss, nsubj, nummod, obj, obl, orphan, parataxis, punct, reparandum, root, vocative, xcomp
+If a language needs a relation subtype that is not documented in the universal guidelines, the relation
+must have a language-specific documentation page in a prescribed format.
+See https://universaldependencies.org/contributing_language_specific.html for further guidelines.
+Documented dependency relations can be specifically turned on/off for each language in which they are used.
+See https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl for details.
+
+[Line 262 Sent 22]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 262 Sent 22]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 262 Sent 22]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 263 Sent 22]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 271 Sent 23]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 271 Sent 23]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 271 Sent 23]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 272 Sent 23]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 274 Sent 23]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 274 Sent 23]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 275 Sent 23]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 275 Sent 23]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 276 Sent 23]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 276 Sent 23]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 279 Sent 23]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 279 Sent 23]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 279 Sent 23]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 287 Sent 24]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 287 Sent 24]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 290 Sent 24]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 290 Sent 24]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 292 Sent 24]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 292 Sent 24]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 302 Sent 25]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 302 Sent 25]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 302 Sent 25]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 302 Sent 25]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 302 Sent 25]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 302 Sent 25]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 309 Sent 26]: [L4 Morpho feature-unknown] Feature Int is not documented for language [abq].
+[Line 310 Sent 26]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 310 Sent 26]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 311 Sent 26]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 311 Sent 26]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 312 Sent 26]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 312 Sent 26]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 313 Sent 26]: [L4 Morpho feature-unknown] Feature Int is not documented for language [abq].
+[Line 313 Sent 26]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 313 Sent 26]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 314 Sent 26]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 314 Sent 26]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 314 Sent 26]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 317 Sent 26]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS DET in language [abq].
+[Line 317 Sent 26]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 318 Sent 26]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 318 Sent 26]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 326 Sent 27]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 326 Sent 27]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 335 Sent 28]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 335 Sent 28]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 347 Sent 29]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 347 Sent 29]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 348 Sent 29]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 348 Sent 29]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 351 Sent 29]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 351 Sent 29]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 353 Sent 29]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 361 Sent 30]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 361 Sent 30]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 363 Sent 30]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 363 Sent 30]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 363 Sent 30]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 363 Sent 30 Node 4]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+[Line 363 Sent 30 Node 4]: [L5 Syntax cop-lemma] 'акIвара' is not a copula in language [abq] (there are no known approved copulas in this language)
+[Line 372 Sent 31]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 372 Sent 31]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 374 Sent 31]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 376 Sent 31]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 378 Sent 31]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 378 Sent 31]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 378 Sent 31]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 379 Sent 31]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 379 Sent 31]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 381 Sent 31]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 381 Sent 31]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 381 Sent 31]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Tree number 31 on line 370 Sent 31]: [L1 Format word-id-sequence] Words do not form a sequence. Got '1,2,3,4,5,1,2,3,4,5,6,7'. Expected '1,2,3,4,5,6,7,8,9,10,11,12'.
+[Line 370 Sent 31]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'йгьи' but text is 'асабиква анахь архъа апн...'
+[Line 382 Sent 31]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'апхIвысква йрабымхIвума'
+[Tree number 31 on line 370 Sent 31]: [L2 Format skipped-corrupt-tree] Skipping annotation tests because of corrupt tree structure.
+[Line 389 Sent 32]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 389 Sent 32]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 393 Sent 32]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 393 Sent 32]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 396 Sent 32]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 404 Sent 32]: [L4 Morpho feature-unknown] Feature Caus is not documented for language [abq].
+[Line 388 Sent 32]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'апхiвысква' but text is 'апхIвысква рхъачваква арма йаъ...'
+[Line 407 Sent 32]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'апхIвысква рхъачваква арма йаъанта асабихвыц змакву архъа йнаргуанта абари апш ашIуна адына амашаква гIаржуанта асабиква ауаъа йдыргылуанта дара рашвун'
+[Line 415 Sent 33]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 415 Sent 33]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 415 Sent 33]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 416 Sent 33]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 416 Sent 33]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 416 Sent 33]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 417 Sent 33]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 418 Sent 33]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 413 Sent 33]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'уадыргiвана' but text is 'уадыргIвана пхIвыскI лсаби дгIа...'
+[Line 420 Sent 33]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'уадыргIвана пхIвыскI лсаби дгIалхъаштылын йхъвлан йгIаталхд архъа'
+[Line 427 Sent 34]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 428 Sent 34]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 429 Sent 34]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 429 Sent 34]: [L4 Morpho feature-value-upos-not-permitted] Value Conv of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 432 Sent 34]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 433 Sent 34]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 434 Sent 34]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 434 Sent 34]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 435 Sent 34]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 436 Sent 34]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 436 Sent 34]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 437 Sent 34]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 437 Sent 34]: [L4 Morpho feature-value-upos-not-permitted] Value Conv of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 427 Sent 34]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is 'дчiвыуа' but text is 'дчIвыуа дчIвыуа дчIвыуамцар...'
+[Line 438 Sent 34]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'дчIвыуа дчIвыуа дчIвыуамцара адына ангьи дгIатыцIын аныла дчIвыуид арыла дчIвыуид дныкъвауамцара'
+[Line 433 Sent 34 Node 8]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON'
+[Line 435 Sent 34 Node 10]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON'
+[Line 444 Sent 35]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 444 Sent 35]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 444 Sent 35]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 445 Sent 35]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 445 Sent 35]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 448 Sent 35]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 448 Sent 35]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 449 Sent 35]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 449 Sent 35]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 449 Sent 35]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 445 Sent 35]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is 'дангiайх' but text is 'дангIайх асхъан асаби дгьлым...'
+[Line 450 Sent 35]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'дангIайх асхъан асаби дгьлымдырхд дгIаргхдзылщан'
+[Line 460 Sent 36]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 461 Sent 36]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 462 Sent 36]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 462 Sent 36]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 464 Sent 36]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 464 Sent 36]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 464 Sent 36]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 464 Sent 36]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 460 Sent 36]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[5] is 'дчiвыуата' but text is 'дчIвыуата дгIащтIырхын дгIарг...'
+[Line 465 Sent 36]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'дчIвыуата дгIащтIырхын дгIаргхд ауандырла даквдырчIван'
+[Line 471 Sent 37]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 473 Sent 37]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 477 Sent 37]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 474 Sent 37]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[4] is 'ауагiа' but text is 'ауагIа швабыжта швабыжта й...'
+[Line 479 Sent 37]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ауагIа швабыжта швабыжта йгIапсад ауагIа'
+[Line 486 Sent 38]: [L4 Syntax unknown-deprel] Unknown DEPREL label: 'dep:repeat'
+[Line 487 Sent 38]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[3] is 'закiы' but text is 'закIы гьырчпум...'
+[Line 489 Sent 38]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'закIы гьырчпум'
+[Line 496 Sent 39]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 497 Sent 39]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 498 Sent 39]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 498 Sent 39]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 497 Sent 39]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[3] is 'мачiпi' but text is 'мачIпI ауи...'
+[Line 499 Sent 39]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'мачIпI ауи'
+[Line 507 Sent 40]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 507 Sent 40]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 507 Sent 40]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 506 Sent 40]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is 'зымгiвадзуги' but text is 'зымгIвадзуги гIарыквырпсид...'
+[Line 508 Sent 40]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'зымгIвадзуги гIарыквырпсид'
+[Line 517 Sent 41]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 517 Sent 41]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 517 Sent 41]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 516 Sent 41]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[3] is 'зымгiва' but text is 'зымгIва йрымаб...'
+[Line 518 Sent 41]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'зымгIва йрымаб'
+[Line 525 Sent 42]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 525 Sent 42]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 525 Sent 42]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 524 Sent 42]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'барахлокiгьи' but text is 'барахлокIгьи гьхIымамызтI хIара...'
+[Line 527 Sent 42]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'барахлокIгьи гьхIымамызтI хIара'
+[Line 535 Sent 43]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 535 Sent 43]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 535 Sent 43]: [L4 Morpho feature-value-upos-not-permitted] Value Conv of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 537 Sent 43]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 537 Sent 43]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 537 Sent 43]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 540 Sent 43]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 540 Sent 43]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 541 Sent 43]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 541 Sent 43]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 541 Sent 43]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 547 Sent 43]: [L4 Morpho feature-upos-not-permitted] Feature Number[abs] is not permitted with UPOS AUX in language [abq].
+[Line 547 Sent 43]: [L4 Morpho feature-upos-not-permitted] Feature Number[erg] is not permitted with UPOS AUX in language [abq].
+[Line 547 Sent 43]: [L4 Morpho feature-upos-not-permitted] Feature Person[abs] is not permitted with UPOS AUX in language [abq].
+[Line 547 Sent 43]: [L4 Morpho feature-upos-not-permitted] Feature Person[erg] is not permitted with UPOS AUX in language [abq].
+[Line 547 Sent 43]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 547 Sent 43]: [L4 Morpho feature-upos-not-permitted] Feature VerbForm is not permitted with UPOS AUX in language [abq].
+[Line 550 Sent 43]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 550 Sent 43]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 551 Sent 43]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 551 Sent 43]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Tree number 43 on line 533 Sent 43]: [L1 Format word-id-sequence] Words do not form a sequence. Got '1,2,3,4,5,6,7,1,2,3,4,5,6,7,8,9,10,11,12'. Expected '1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19'.
+[Line 533 Sent 43]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'ахвтан' but text is 'саба йахща невинка йгIатыр...'
+[Tree number 43 on line 533 Sent 43]: [L2 Format skipped-corrupt-tree] Skipping annotation tests because of corrupt tree structure.
+[Line 559 Sent 44]: [L4 Morpho feature-value-upos-not-permitted] Value Conv of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 560 Sent 44]: [L4 Morpho feature-unknown] Feature Caus is not documented for language [abq].
+[Line 560 Sent 44]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 560 Sent 44]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 560 Sent 44]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 560 Sent 44]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 560 Sent 44]: [L4 Morpho feature-value-unknown] Value Rfl is not documented for feature Voice in language [abq].
+[Line 562 Sent 44]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 563 Sent 44]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 563 Sent 44]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 577 Sent 45]: [L1 Format leading-whitespace] Leading whitespace not allowed in column FEATS.
+[Line 577 Sent 45]: [L1 Format invalid-whitespace] White space not allowed in column FEATS: ' Tense=Aor|Gender[io]=Masc|Number[abs]=Sing|Number[io]=Sing|Person[abs]=1|Person[io]=3|VerbForm=Fin'.
+[Line 577 Sent 45]: [L2 Morpho invalid-feature] Spurious morphological feature: ' Tense=Aor'. Should be of the form Feature=Value and must start with [A-Z] and only contain [A-Za-z0-9].
+[Line 577 Sent 45]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 577 Sent 45]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 577 Sent 45]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 577 Sent 45]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 575 Sent 45 Node 4]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 584 Sent 46]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 584 Sent 46]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 586 Sent 46]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 586 Sent 46]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 586 Sent 46]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 586 Sent 46]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 587 Sent 46]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 589 Sent 46]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 589 Sent 46]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 596 Sent 47]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 596 Sent 47]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 597 Sent 47]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 597 Sent 47]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 598 Sent 47]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 599 Sent 47]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 600 Sent 47]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 600 Sent 47]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 600 Sent 47]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 600 Sent 47]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 600 Sent 47]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 607 Sent 48]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 607 Sent 48]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 607 Sent 48]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 610 Sent 48]: [L2 Syntax invalid-deprel] Invalid DEPREL value '_'.
+[Line 610 Sent 48]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 610 Sent 48]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 610 Sent 48]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 610 Sent 48]: [L4 Syntax unknown-deprel] Unknown DEPREL label: '_'
+[Line 611 Sent 48]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 611 Sent 48]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 611 Sent 48]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 613 Sent 48]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 613 Sent 48]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 615 Sent 48]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 616 Sent 48]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 616 Sent 48]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 616 Sent 48]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 617 Sent 48]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 617 Sent 48]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 618 Sent 48]: [L2 Format invalid-head] Invalid HEAD: '_'.
+[Line 618 Sent 48]: [L2 Syntax unknown-head] Undefined HEAD (no such ID): '_'.
+[Tree number 48 on line 607 Sent 48]: [L2 Format skipped-corrupt-tree] Skipping annotation tests because of corrupt tree structure.
+[Line 624 Sent 49]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 624 Sent 49]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 624 Sent 49]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 625 Sent 49]: [L4 Morpho feature-value-upos-not-permitted] Value Conv of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 627 Sent 49]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 627 Sent 49]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 629 Sent 49]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 629 Sent 49]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 629 Sent 49]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 629 Sent 49]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 636 Sent 50]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 636 Sent 50]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 636 Sent 50]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 636 Sent 50]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 636 Sent 50]: [L4 Morpho feature-value-upos-not-permitted] Value Conv of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 637 Sent 50]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 637 Sent 50]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 637 Sent 50]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 645 Sent 51]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 645 Sent 51]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 645 Sent 51]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 646 Sent 51]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 646 Sent 51]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 646 Sent 51]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 646 Sent 51]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 647 Sent 51]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 648 Sent 51]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 648 Sent 51]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 648 Sent 51]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 648 Sent 51]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 657 Sent 52]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 657 Sent 52]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 657 Sent 52]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 657 Sent 52]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 664 Sent 53]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 664 Sent 53]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 667 Sent 53]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 667 Sent 53]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 667 Sent 53]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 667 Sent 53]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 674 Sent 54]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 674 Sent 54]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 676 Sent 54]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 676 Sent 54]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 677 Sent 54]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 677 Sent 54]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 677 Sent 54]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 677 Sent 54]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 677 Sent 54]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 685 Sent 55]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 685 Sent 55]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 685 Sent 55]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 693 Sent 56]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 693 Sent 56]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 696 Sent 56]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 696 Sent 56]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 697 Sent 56]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 697 Sent 56]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 694 Sent 56 Node 3]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON'
+[Line 698 Sent 56 Node 7]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON'
+[Line 707 Sent 57]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 707 Sent 57]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 708 Sent 57]: [L4 Morpho feature-value-unknown] Value Aor is not documented for feature Tense in language [abq].
+[Line 708 Sent 57]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 710 Sent 57]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 710 Sent 57]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 711 Sent 57]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 711 Sent 57]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Tree number 57 on line 705 Sent 57]: [L1 Format word-id-sequence] Words do not form a sequence. Got '1,2,3,4,1,2,3'. Expected '1,2,3,4,5,6,7'.
+[Line 705 Sent 57]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'ужвы' but text is 'сара сан дадыгьаб...'
+[Tree number 57 on line 705 Sent 57]: [L2 Format skipped-corrupt-tree] Skipping annotation tests because of corrupt tree structure.
+[Line 718 Sent 58]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 718 Sent 58]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 725 Sent 58]: [L4 Morpho feature-unknown] Feature Caus is not documented for language [abq].
+[Line 725 Sent 58]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 725 Sent 58]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 722 Sent 58]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[5] is 'гiважвы' but text is 'гIважвы жвба аcхъан дгIадри...'
+[Line 726 Sent 58]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'гIважвы жвба аcхъан дгIадрид'
+[Line 732 Sent 59]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 732 Sent 59]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 732 Sent 59]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 737 Sent 59]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 737 Sent 59]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 735 Sent 59]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[4] is 'гiважвыжвах' but text is 'гIважвыжвах асхъан дырщитI...'
+[Line 738 Sent 59]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'гIважвыжвах асхъан дырщитI'
+[Line 744 Sent 60]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 744 Sent 60]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 744 Sent 60]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 752 Sent 60]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 752 Sent 60]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 752 Sent 60]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 753 Sent 60]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 753 Sent 60]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 753 Sent 60]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 755 Sent 60]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 755 Sent 60]: [L4 Morpho feature-value-unknown] Value Neut is not documented for feature Gender[erg] in language [abq].
+[Line 755 Sent 60]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 748 Sent 60]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[5] is 'гiвынгiважва' but text is 'гIвынгIважва хвба асхъан  абольн...'
+[Line 756 Sent 60]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'гIвынгIважва хвба асхъан  абольница апны атиф дагад'
+[Line 762 Sent 61]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 762 Sent 61]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 763 Sent 61]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 764 Sent 61]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 764 Sent 61]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 764 Sent 61]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 765 Sent 61]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 765 Sent 61]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 763 Sent 61]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is 'йгiарылцiла' but text is 'йгIарылцIла дампхьауата дгIанха...'
+[Line 766 Sent 61]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'йгIарылцIла дампхьауата дгIанхатI'
+[Line 773 Sent 62]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 773 Sent 62]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 773 Sent 62]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 773 Sent 62]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 776 Sent 62]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 776 Sent 62]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 776 Sent 62]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 776 Sent 62]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 779 Sent 62]: [L4 Morpho feature-unknown] Feature Caus is not documented for language [abq].
+[Line 779 Sent 62]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 779 Sent 62]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 779 Sent 62]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 772 Sent 62]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'хiара' but text is 'хIара хIнапхьуз асхъан хI...'
+[Line 783 Sent 62]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'хIара хIнапхьуз асхъан хIхвыцквата хIнапхьуз асхъан ахIарыфква ллырдырын псайспадза зджьакI гIанылхквун'
+[Line 789 Sent 63]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS DET in language [abq].
+[Line 789 Sent 63]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 792 Sent 63]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 792 Sent 63]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 794 Sent 63]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 794 Sent 63]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 794 Sent 63]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 795 Sent 63]: [L4 Morpho feature-unknown] Feature Caus is not documented for language [abq].
+[Line 795 Sent 63]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 795 Sent 63]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 795 Sent 63]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 795 Sent 63]: [L4 Morpho feature-value-unknown] Value Rfl is not documented for feature Voice in language [abq].
+[Line 796 Sent 63]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 801 Sent 63]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 801 Sent 63]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 802 Sent 63]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 802 Sent 63]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 802 Sent 63]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 802 Sent 63]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 803 Sent 63]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 803 Sent 63]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 804 Sent 63]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 792 Sent 63]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[4] is 'хiыбызшвала' but text is 'хIыбызшвала апхьарта апны тшазс...'
+[Line 805 Sent 63]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'хIыбызшвала апхьарта апны тшазсымрыхIазыруата санца асхъан гIвба гIазгын гIвба стетрадь йаныта хIпны сгIайхд'
+[Line 811 Sent 64]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 811 Sent 64]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 812 Sent 64]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 812 Sent 64]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 812 Sent 64]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 812 Sent 64]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 813 Sent 64]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 813 Sent 64]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 814 Sent 64]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 814 Sent 64]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 814 Sent 64]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 814 Sent 64]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 815 Sent 64]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 811 Sent 64]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'хiан' but text is 'хIан дгIасцIгIатI ари йа...'
+[Line 816 Sent 64]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'хIан дгIасцIгIатI ари йамгIаныйа лхIвад'
+[Line 822 Sent 65]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 822 Sent 65]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 822 Sent 65]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 822 Sent 65]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 824 Sent 65]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 824 Sent 65]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 825 Sent 65]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 825 Sent 65]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 826 Sent 65]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 822 Sent 65]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'йласхiвд' but text is 'йласхIвд мама ари хIыбызшвал...'
+[Line 827 Sent 65]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'йласхIвд мама ари хIыбызшвала акIваб'
+[Line 826 Sent 65 Node 5]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 3]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 833 Sent 66]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 834 Sent 66]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 835 Sent 66]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 835 Sent 66]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 835 Sent 66]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 837 Sent 66]: [L4 Morpho feature-value-upos-not-permitted] Value Conv of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 834 Sent 66]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is 'лхiвад' but text is 'лхIвад уыбызшвала гIвба гI...'
+[Line 838 Sent 66]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'лхIвад уыбызшвала гIвба гIаугныс'
+[Line 846 Sent 67]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 846 Sent 67]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 845 Sent 67]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is 'ачiвыйа' but text is 'ачIвыйа йысчпушыз...'
+[Line 847 Sent 67]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ачIвыйа йысчпушыз'
+[Line 854 Sent 68]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 854 Sent 68]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 855 Sent 68]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 854 Sent 68]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is 'йгiазгд' but text is 'йгIазгд схIвад...'
+[Line 856 Sent 68]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'йгIазгд схIвад'
+[Line 862 Sent 69]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 863 Sent 69]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 864 Sent 69]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 864 Sent 69]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 864 Sent 69]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 865 Sent 69]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 865 Sent 69]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 865 Sent 69]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 867 Sent 69]: [L4 Morpho feature-value-upos-not-permitted] Value Imp of feature Mood is not permitted with UPOS VERB in language [abq].
+[Line 867 Sent 69]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 867 Sent 69]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 868 Sent 69]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 862 Sent 69]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'уыджвылцiта' but text is 'уыджвылцIта лхIвад унапIсаргвыц...'
+[Line 869 Sent 69]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'уыджвылцIта лхIвад унапIсаргвыцIа азна бацацIахва сызгIагы лхIвад'
+[Line 876 Sent 70]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 876 Sent 70]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 877 Sent 70]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 877 Sent 70]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 877 Sent 70]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 878 Sent 70]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 879 Sent 70]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 879 Sent 70]: [L4 Morpho feature-unknown] Feature Int is not documented for language [abq].
+[Line 879 Sent 70]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 879 Sent 70]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 879 Sent 70]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 878 Sent 70]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[4] is 'сджвылцiд' but text is 'сджвылцIд йзылгвалищд ари бац...'
+[Line 883 Sent 70]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'сджвылцIд йзылгвалищд ари бацацIахва хIва'
+[Line 890 Sent 71]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 890 Sent 71]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 890 Sent 71]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 890 Sent 71]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 892 Sent 71]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 892 Sent 71]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 896 Sent 71]: [L4 Morpho feature-unknown] Feature Caus is not documented for language [abq].
+[Line 896 Sent 71]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 896 Sent 71]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 896 Sent 71]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 896 Sent 71]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 889 Sent 71]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'абацацiахваква' but text is 'абацацIахваква ансызгIалгыз асхъан...'
+[Line 897 Sent 71]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'абацацIахваква ансызгIалгыз асхъан сарманапIы гIалкIын бзита абацацIахваквала сагвылрцыд'
+[Line 903 Sent 72]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 904 Sent 72]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 907 Sent 72]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 907 Sent 72]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 907 Sent 72]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 910 Sent 72]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 904 Sent 72]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is 'лхiвад' but text is 'лхIвад уара йгьи убызшвата...'
+[Line 911 Sent 72]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'лхIвад уара йгьи убызшвата гIвба гIаугуата лхIвад'
+[Line 918 Sent 73]: [L4 Morpho feature-unknown] Feature Caus is not documented for language [abq].
+[Line 918 Sent 73]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 918 Sent 73]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 918 Sent 73]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 918 Sent 73]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 918 Sent 73]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 919 Sent 73]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 919 Sent 73]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 919 Sent 73]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 919 Sent 73]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 920 Sent 73]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 920 Sent 73]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 920 Sent 73]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 920 Sent 73]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 921 Sent 73]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 921 Sent 73]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 922 Sent 73]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 922 Sent 73]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 923 Sent 73]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 923 Sent 73]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 923 Sent 73]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 923 Sent 73]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 925 Sent 73]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 926 Sent 73]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 925 Sent 73]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[9] is 'сыкiвб' but text is 'сыкIвб лхIвад...'
+[Line 927 Sent 73]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'сыкIвб лхIвад'
+[Line 934 Sent 74]: [L2 Syntax invalid-deprel] Invalid DEPREL value '_'.
+[Line 934 Sent 74]: [L4 Morpho feature-unknown] Feature Caus is not documented for language [abq].
+[Line 934 Sent 74]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 934 Sent 74]: [L4 Syntax unknown-deprel] Unknown DEPREL label: '_'
+[Line 935 Sent 74]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 935 Sent 74]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 937 Sent 74]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 937 Sent 74]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 937 Sent 74]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 940 Sent 74]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 941 Sent 74]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 941 Sent 74]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 943 Sent 74]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 943 Sent 74]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 943 Sent 74]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 943 Sent 74]: [L4 Syntax unknown-deprel] Unknown DEPREL label: 'dep:repeat'
+[Line 944 Sent 74]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 944 Sent 74]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 944 Sent 74]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 945 Sent 74]: [L4 Morpho feature-unknown] Feature Caus is not documented for language [abq].
+[Line 945 Sent 74]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 945 Sent 74]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 945 Sent 74]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 946 Sent 74]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 946 Sent 74]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 947 Sent 74]: [L4 Morpho feature-unknown] Feature Caus is not documented for language [abq].
+[Line 947 Sent 74]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 947 Sent 74]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 947 Sent 74]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 934 Sent 74]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is 'йгiашiарышвта' but text is 'йгIашIарышвта хIан рыцхIа лхIатыр...'
+[Line 948 Sent 74]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'йгIашIарышвта хIан рыцхIа лхIатырла лара адуней дгьыквхым хIан рыцхIа лхIатырла лыбызшвагьи хIлырдырд хIыбызшвагьи хIлырдырд'
+[Line 948 Sent 74]: [L2 Format invalid-head] Invalid HEAD: '_'.
+[Line 948 Sent 74]: [L2 Syntax unknown-head] Undefined HEAD (no such ID): '_'.
+[Tree number 74 on line 933 Sent 74]: [L2 Format skipped-corrupt-tree] Skipping annotation tests because of corrupt tree structure.
+[Line 957 Sent 75]: [L4 Morpho feature-unknown] Feature Caus is not documented for language [abq].
+[Line 957 Sent 75]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 957 Sent 75]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 958 Sent 75]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 958 Sent 75]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 959 Sent 75]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 959 Sent 75]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 960 Sent 75]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 960 Sent 75]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 961 Sent 75]: [L2 Syntax invalid-deprel] Invalid DEPREL value '_'.
+[Line 961 Sent 75]: [L4 Morpho feature-upos-not-permitted] Feature Definite is not permitted with UPOS VERB in language [abq].
+[Line 961 Sent 75]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 961 Sent 75]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 961 Sent 75]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 961 Sent 75]: [L4 Syntax unknown-deprel] Unknown DEPREL label: '_'
+[Line 955 Sent 75]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is 'гiасахвта' but text is 'гIасахвта араса йшгIахъсрышвт...'
+[Line 962 Sent 75]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'гIасахвта араса йшгIахъсрышвтуа cан сыла дгIацIалид йанакIвызлакIгьи'
+[Line 962 Sent 75]: [L2 Format invalid-head] Invalid HEAD: '_'.
+[Line 962 Sent 75]: [L2 Syntax unknown-head] Undefined HEAD (no such ID): '_'.
+[Tree number 75 on line 954 Sent 75]: [L2 Format skipped-corrupt-tree] Skipping annotation tests because of corrupt tree structure.
+[Line 968 Sent 76]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 968 Sent 76]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 969 Sent 76]: [L4 Morpho feature-value-upos-not-permitted] Value Conv of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 970 Sent 76]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 970 Sent 76]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 970 Sent 76]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 971 Sent 76]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 971 Sent 76]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 971 Sent 76]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 973 Sent 76]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 973 Sent 76]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 975 Sent 76]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 975 Sent 76]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 975 Sent 76]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 977 Sent 76]: [L2 Syntax invalid-deprel] Invalid DEPREL value '_'.
+[Line 977 Sent 76]: [L4 Morpho feature-unknown] Feature Caus is not documented for language [abq].
+[Line 977 Sent 76]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 977 Sent 76]: [L4 Syntax unknown-deprel] Unknown DEPREL label: '_'
+[Tree number 76 on line 968 Sent 76]: [L1 Format word-id-sequence] Words do not form a sequence. Got '1,2,3,4,5,6,7,8,1,2'. Expected '1,2,3,4,5,6,7,8,9,10'.
+[Line 968 Sent 76]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'ауи' but text is 'квтIагъьгIважва гIатуры...'
+[Line 978 Sent 76]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'квтIагъьгIважва гIатурычIвитIта'
+[Line 978 Sent 76]: [L2 Format invalid-head] Invalid HEAD: '_'.
+[Line 978 Sent 76]: [L2 Syntax unknown-head] Undefined HEAD (no such ID): '_'.
+[Tree number 76 on line 968 Sent 76]: [L2 Format skipped-corrupt-tree] Skipping annotation tests because of corrupt tree structure.
+[Line 984 Sent 77]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 984 Sent 77]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 989 Sent 77]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 989 Sent 77]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 989 Sent 77]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 989 Sent 77]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 989 Sent 77]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 989 Sent 77]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[6] is 'йалаучвахитi' but text is 'йалаучвахитI...'
+[Line 990 Sent 77]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'йалаучвахитI'
+[Line 997 Sent 78]: [L4 Syntax unknown-deprel] Unknown DEPREL label: 'dep:repeat'
+[Line 1001 Sent 78]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1001 Sent 78]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 1001 Sent 78]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 1001 Sent 78]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 1001 Sent 78]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 996 Sent 78]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'мхiачiва' but text is 'мхIачIва мхIачIва столько мх...'
+[Line 1002 Sent 78]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'мхIачIва мхIачIва столько мхIачIва дзыта йалаучвахитI'
+[Line 1009 Sent 79]: [L4 Morpho feature-unknown] Feature Gender[psor] is not documented for language [abq].
+[Line 1009 Sent 79]: [L4 Morpho feature-unknown] Feature Number[psor] is not documented for language [abq].
+[Line 1009 Sent 79]: [L4 Morpho feature-unknown] Feature Person[psor] is not documented for language [abq].
+[Line 1010 Sent 79]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1010 Sent 79]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 1010 Sent 79]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 1010 Sent 79]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 1010 Sent 79]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 1012 Sent 79]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1012 Sent 79]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 1012 Sent 79]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 1012 Sent 79]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 1012 Sent 79]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 1013 Sent 79]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1013 Sent 79]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 1013 Sent 79]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 1013 Sent 79]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 1013 Sent 79]: [L4 Morpho feature-value-upos-not-permitted] Value Conv of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1015 Sent 79]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1015 Sent 79]: [L4 Morpho feature-value-upos-not-permitted] Value Imp of feature Mood is not permitted with UPOS VERB in language [abq].
+[Line 1016 Sent 79]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1016 Sent 79]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 1016 Sent 79]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 1016 Sent 79]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 1016 Sent 79]: [L4 Morpho feature-value-upos-not-permitted] Value Conv of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1008 Sent 79]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'афачыгiв' but text is 'афачыгIв угвы йшангIалуа уа ...'
+[Line 1017 Sent 79]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'афачыгIв угвы йшангIалуа уа йшутахъу йутахъызтын хъгIадзата йчпа йутахъызтын'
+[Line 1010 Sent 79 Node 3]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 2]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 1023 Sent 80]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 1023 Sent 80]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 1025 Sent 80]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1025 Sent 80]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1026 Sent 80]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1026 Sent 80]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1026 Sent 80]: [L4 Syntax unknown-deprel] Unknown DEPREL label: 'dep:repeat'
+[Line 1025 Sent 80]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[3] is 'йыугiватiитi' but text is 'йыугIватIитI йыугIватIитI...'
+[Line 1027 Sent 80]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'йыугIватIитI йыугIватIитI'
+[Line 1033 Sent 81]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 1033 Sent 81]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 1034 Sent 81]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1034 Sent 81]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1036 Sent 81]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1040 Sent 81]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1040 Sent 81]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1034 Sent 81]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is 'йгiватiитi' but text is 'йгIватIитI совсем йапцIхвхвауа...'
+[Line 1042 Sent 81]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'йгIватIитI совсем йапцIхвхвауата почти час можно йыугIватIуаштI сахIаткIдза'
+[Line 1041 Sent 81 Node 9]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 1049 Sent 82]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1049 Sent 82]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 1049 Sent 82]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 1049 Sent 82]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 1049 Sent 82]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1052 Sent 82]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1052 Sent 82]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1049 Sent 82]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is 'йалаупсахитi' but text is 'йалаупсахитI шыла шылала йыукIвх...'
+[Line 1053 Sent 82]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'йалаупсахитI шыла шылала йыукIвхIитIта'
+[Line 1060 Sent 83]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1060 Sent 83]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 1060 Sent 83]: [L4 Morpho feature-value-unknown] Value Fut2 is not documented for feature Tense in language [abq].
+[Line 1060 Sent 83]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 1062 Sent 83]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1060 Sent 83]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is 'йанукiвхiара' but text is 'йанукIвхIара асхъан йуымрыбагъьа...'
+[Line 1063 Sent 83]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'йанукIвхIара асхъан йуымрыбагъьан'
+[Line 1069 Sent 84]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1070 Sent 84]: [L2 Morpho unknown-upos] Unknown UPOS tag: 'RPON'.
+[Line 1070 Sent 84]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS RPON in language [abq].
+[Line 1070 Sent 84]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 1072 Sent 84]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1073 Sent 84]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1073 Sent 84]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 1073 Sent 84]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 1073 Sent 84]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 1073 Sent 84]: [L4 Morpho feature-value-upos-not-permitted] Value Conv of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1078 Sent 84]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 1079 Sent 84]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1079 Sent 84]: [L4 Morpho feature-value-upos-not-permitted] Value Imp of feature Mood is not permitted with UPOS VERB in language [abq].
+[Line 1075 Sent 84]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[7] is 'чiврыта' but text is 'чIврыта цIагIвта гIвмачвакI...'
+[Line 1083 Sent 84]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'чIврыта цIагIвта гIвмачвакI зквшвауала йрыгIв арса лентIа апшта'
+[Line 1089 Sent 85]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PART in language [abq].
+[Line 1089 Sent 85]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 1091 Sent 85]: [L4 Morpho feature-value-upos-not-permitted] Value Imp of feature Mood is not permitted with UPOS VERB in language [abq].
+[Line 1093 Sent 85]: [L4 Morpho feature-unknown] Feature Caus is not documented for language [abq].
+[Line 1093 Sent 85]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1093 Sent 85]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 1093 Sent 85]: [L4 Morpho feature-value-upos-not-permitted] Value Imp of feature Mood is not permitted with UPOS VERB in language [abq].
+[Line 1093 Sent 85]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 1093 Sent 85]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 1090 Sent 85]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is 'ачашврыгiвга' but text is 'ачашврыгIвга гIахв ауаъа йакIвыр...'
+[Line 1094 Sent 85]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ачашврыгIвга гIахв ауаъа йакIвыршата'
+[Line 1105 Sent 86]: [L4 Morpho feature-value-upos-not-permitted] Value Imp of feature Mood is not permitted with UPOS VERB in language [abq].
+[Line 1106 Sent 86]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 1106 Sent 86]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 1107 Sent 86]: [L4 Morpho feature-unknown] Feature Caus is not documented for language [abq].
+[Line 1107 Sent 86]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1107 Sent 86]: [L4 Morpho feature-value-upos-not-permitted] Value Imp of feature Mood is not permitted with UPOS VERB in language [abq].
+[Line 1108 Sent 86]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 1108 Sent 86]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 1109 Sent 86]: [L4 Morpho feature-value-unknown] Value Neut is not documented for feature Gender[erg] in language [abq].
+[Line 1109 Sent 86]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 1109 Sent 86]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 1109 Sent 86]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 1109 Sent 86]: [L4 Morpho feature-value-unknown] Value Rfl is not documented for feature Voice in language [abq].
+[Line 1110 Sent 86]: [L4 Morpho feature-value-unknown] Value Neut is not documented for feature Gender[erg] in language [abq].
+[Line 1110 Sent 86]: [L4 Morpho feature-unknown] Feature Gender[io] is not documented for language [abq].
+[Line 1110 Sent 86]: [L4 Morpho feature-unknown] Feature Number[io] is not documented for language [abq].
+[Line 1110 Sent 86]: [L4 Morpho feature-unknown] Feature Person[io] is not documented for language [abq].
+[Line 1110 Sent 86]: [L4 Morpho feature-value-upos-not-permitted] Value Conv of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1110 Sent 86]: [L4 Morpho feature-value-unknown] Value Rfl is not documented for feature Voice in language [abq].
+[Line 1112 Sent 86]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1112 Sent 86]: [L4 Morpho feature-upos-not-permitted] Feature Number[abs] is not permitted with UPOS ADJ in language [abq].
+[Line 1112 Sent 86]: [L4 Morpho feature-upos-not-permitted] Feature Person[abs] is not permitted with UPOS ADJ in language [abq].
+[Line 1113 Sent 86]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1113 Sent 86]: [L4 Morpho feature-upos-not-permitted] Feature Number[abs] is not permitted with UPOS ADJ in language [abq].
+[Line 1113 Sent 86]: [L4 Morpho feature-upos-not-permitted] Feature Person[abs] is not permitted with UPOS ADJ in language [abq].
+[Line 1114 Sent 86]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1114 Sent 86]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1101 Sent 86]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is 'цiолата' but text is 'цIолата хвша дына масло тач...'
+[Line 1115 Sent 86]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'цIолата хвша дына масло тачвата ауи йтаргылта ауи тшакIвнахуа тшакIвнахуамца арса йдута йбабадза йцитI'
+[Line 1123 Sent 87]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1123 Sent 87]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 1124 Sent 87]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 1124 Sent 87]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 1125 Sent 87]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1127 Sent 87]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1121 Sent 87]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'азджьакiгьи' but text is 'азджьакIгьи са йшсчпауа ауи акI...'
+[Line 1130 Sent 87]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'азджьакIгьи са йшсчпауа ауи акIвапI круглата кататьсчпитIта арса цIагъата'
+[Line 1125 Sent 87 Node 5]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+[Line 1136 Sent 88]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 1136 Sent 88]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 1139 Sent 88]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1139 Sent 88]: [L4 Morpho feature-unknown] Feature RcpType is not documented for language [abq].
+[Line 1139 Sent 88]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1139 Sent 88]: [L4 Morpho feature-value-upos-not-permitted] Value Rcp of feature Voice is not permitted with UPOS VERB in language [abq].
+[Line 1140 Sent 88]: [L4 Morpho feature-unknown] Feature Caus is not documented for language [abq].
+[Line 1140 Sent 88]: [L4 Morpho feature-unknown] Feature RcpType is not documented for language [abq].
+[Line 1140 Sent 88]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1140 Sent 88]: [L4 Morpho feature-value-upos-not-permitted] Value Rcp of feature Voice is not permitted with UPOS VERB in language [abq].
+[Line 1137 Sent 88]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is 'ахiвспала' but text is 'ахIвспала агвы йагIвсырсахитI...'
+[Line 1141 Sent 88]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ахIвспала агвы йагIвсырсахитIта йаквсырчIвитIта'
+[Line 1150 Sent 89]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1150 Sent 89]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1150 Sent 89]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[4] is 'йцахитiта' but text is 'йцахитIта...'
+[Line 1151 Sent 89]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'йцахитIта'
+[Line 1161 Sent 90]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1162 Sent 90]: [L4 Morpho feature-upos-not-permitted] Feature Number is not permitted with UPOS PRON in language [abq].
+[Line 1162 Sent 90]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 1165 Sent 90]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1165 Sent 90]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1158 Sent 90]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is 'закiта' but text is 'закIта хъгIа аъахым акIвап...'
+[Line 1166 Sent 90]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'закIта хъгIа аъахым акIвапI ауи са бзидздза йызбитI'
+[Line 1161 Sent 90 Node 5]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+[Line 1172 Sent 91]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1172 Sent 91]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1173 Sent 91]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 1175 Sent 91]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1175 Sent 91]: [L4 Syntax unknown-deprel] Unknown DEPREL label: 'dep:repeat'
+[Line 1176 Sent 91]: [L4 Morpho feature-unknown] Feature PronType is not documented for language [abq].
+[Line 1177 Sent 91]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1177 Sent 91]: [L4 Syntax unknown-deprel] Unknown DEPREL label: 'dep:repeat'
+[Line 1172 Sent 91]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'йсчпалитi' but text is 'йсчпалитI ауыгьи пироггьи счп...'
+[Line 1178 Sent 91]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'йсчпалитI ауыгьи пироггьи счпитI ауыгьи счпитI'
+[Line 1173 Sent 91 Node 2]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON'
+[Line 1176 Sent 91 Node 5]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON'
+[Line 1185 Sent 92]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1187 Sent 92]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1187 Sent 92]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 1187 Sent 92]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 1189 Sent 92]: [L4 Morpho feature-not-permitted] Feature Gender[abs] is not permitted in language [abq].
+[Line 1189 Sent 92]: [L4 Morpho feature-unknown] Feature RelType is not documented for language [abq].
+[Line 1189 Sent 92]: [L4 Morpho feature-value-unknown] Value NonFin is not documented for feature VerbForm in language [abq].
+[Line 1184 Sent 92]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[1] is 'ахiальыуагьи' but text is 'ахIальыуагьи рчпитI ауеб йшыъу з...'
+[Line 1190 Sent 92]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ахIальыуагьи рчпитI ауеб йшыъу зымгIвагьи йшыъу'
+[Line 1189 Sent 92 Node 6]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [3, 5]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 1199 Sent 93]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1202 Sent 93]: [L4 Morpho feature-value-upos-not-permitted] Value Fin of feature VerbForm is not permitted with UPOS VERB in language [abq].
+[Line 1197 Sent 93]: [L2 Metadata text-form-mismatch] Mismatch between the text attribute and the FORM field. Form[2] is 'хiара' but text is 'хIара дзырдза хIхIвитI ак...'
+[Line 1203 Sent 93]: [L2 Metadata text-extra-chars] Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'хIара дзырдза хIхIвитI акъабардийаква щыпс рхIвитI'
+Format errors: 19
+Metadata errors: 99
+Morpho errors: 772
+Syntax errors: 34
+*** FAILED *** with 924 errors
