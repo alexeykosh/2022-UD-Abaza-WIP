@@ -230,7 +230,7 @@
 # text_rus = Все делают халву, так принято (букв. это то, как всё есть).
 1	ахiальыуагьи	_	NOUN	_	Definite=Def	2	obj	_	Gloss=def-халва-add|_|_|def|add
 2	рчпитi	_	VERB	_	Number[erg]=Plur|Person[erg]=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=3pl.erg-делать-prs-dcl|_|_|3pl.erg|prs|dcl
-3	ауеб	_	PRON	_	_	6	nsubj	_	Gloss=dist+npst.dcl|_|_|distnpst.dcl
+3	ауеб	_	PRON	_	_	6	dislocated	_	Gloss=dist+npst.dcl|_|_|distnpst.dcl
 4	йшыъу	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|RelType=Mnr|Tense=Pres|VerbForm=NonFin	6	reparandum	_	Gloss=3sg.n.abs-rel.mnr-быть-prs.nfin|_|_|3sg.n.abs|rel.mnr|prs.nfin
 5	зымгiвагьи	_	PRON	_	_	6	nsubj	_	Gloss=все-add|_|_|add
 6	йшыъу	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|RelType=Mnr|Tense=Pres|VerbForm=NonFin	2	conj	_	Gloss=3sg.n.abs-rel.mnr-быть-prs.nfin|_|_|3sg.n.abs|rel.mnr|prs.nfin
