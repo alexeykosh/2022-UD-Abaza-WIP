@@ -61,9 +61,9 @@
 5	адына	дына	NOUN	_	Definite=Def	6	discourse	_	Gloss=def-filler|_|_|def|filler
 6	ангьи	аны	NOUN	_	_	7	nsubj	_	Gloss=мать-add|_|_|add
 7	дгIатыцIын	цIра	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=3sg.h.abs-csl-loc.elat-пройти-pst|_|_|3sg.h.abs|csl|loc.elat|pst
-8	аныла	аныла	PRON	_	PronType=Dem	9	advmod	_	Gloss=med-ins|_|_|med|ins
+8	аныла	аныла	ADV	_	PronType=Dem	9	advmod	_	Gloss=med-ins|_|_|med|ins
 9	дчIвыуид	чIвыуара	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Pres|VerbForm=Fin	7	conj	_	Gloss=3sg.h.abs-плакать-prs-dcl|_|_|3sg.h.abs|prs|dcl
-10	арыла	арыла	PRON	_	PronType=Dem	11	advmod	_	Gloss=prox-ins|_|_|prox|ins
+10	арыла	арыла	ADV	_	PronType=Dem	11	advmod	_	Gloss=prox-ins|_|_|prox|ins
 11	дчIвыуид	чIвыуара	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Pres|VerbForm=Fin	9	conj	_	Gloss=3sg.h.abs-плакать-prs-dcl|_|_|3sg.h.abs|prs|dcl
 12	дныкъвауамцара	ныкъвара	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|VerbForm=Conv	11	advcl	_	Gloss=3sg.h.abs-ходить-ipf-cvb|_|_|3sg.h.abs|ipf|cvb
 
