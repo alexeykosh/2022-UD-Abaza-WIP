@@ -265,7 +265,7 @@
 1	ауаъа	ауаъа	PRON	_	_	2	obl	_	Gloss=dist.loc|_|_|dist.loc
 2	йгIатахакваз	тахара	VERB	_	Number=Plur|RelType=Abs|Tense=Past|VerbForm=NonFin	3	nsubj	_	Gloss=rel.abs-csl-loc-оставаться-pl-pst.nfin|_|_|rel.abs|csl|loc|pl|pst.nfin
 3	абазаква	абаза	NOUN	_	Number=Plur	0	root	_	Gloss=абазин-pl|_|_|pl
-4	ракIвапI	акIвара	VERB	_	Number[io]=Plur|Person[io]=3|Tense=Pres|VerbForm=Fin	3	cop	_	Gloss=3pl.io-cop-npst.dcl|_|_|3pl.io|cop|npst.dcl
+4	ракIвапI	акIвара	AUX	_	Number[io]=Plur|Person[io]=3|Tense=Pres|VerbForm=Fin	3	cop	_	Gloss=3pl.io-cop-npst.dcl|_|_|3pl.io|cop|npst.dcl
 
 # sent_id = 23
 # text_name = Pro_jazyk_AsanaevaFM_09072017_checked.eaf
