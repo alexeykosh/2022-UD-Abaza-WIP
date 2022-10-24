@@ -40,7 +40,7 @@
 3	год	год	NOUN	_	_	4	nmod	_	Gloss=год|_|_
 4	агIан	агIан	NOUN	_	_	6	advmod	_	Gloss=тогда|_|_
 5	хъацIа	хъацIа	NOUN	_	_	6	iobj	_	Gloss=мужчина|_|_
-6	сйыццатI	цара	VERB	_	Gender[io]=Masc|Number[abs]=Sing|Number[io]=Sing|Person[abs]=1|Person[io]=3| Tense=Aor|VerbForm=Fin	0	root	_	Gloss=1sg.abs-3sg.m.io-com-идти-dcl|_|_|1sg.abs|3sg.m.io|com|dcl
+6	сйыццатI	цара	VERB	_	Gender[io]=Masc|Number[abs]=Sing|Number[io]=Sing|Person[abs]=1|Person[io]=3|Tense=Aor|VerbForm=Fin	0	root	_	Gloss=1sg.abs-3sg.m.io-com-идти-dcl|_|_|1sg.abs|3sg.m.io|com|dcl
 
 # sent_id = 4
 # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
