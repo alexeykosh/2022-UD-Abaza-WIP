@@ -38,7 +38,7 @@
 # text = афачыгIв угвы йшангIалуа уа йшутахъу йутахъызтын хъгIадзата йчпа йутахъызтын
 # text_init = афачЫгIв угвЫ йшангIАлуа уа йшутахъУ йутахъЫзтын хъгIадзАта йчпА йутахъЫзтын
 # text_rus = Сахар - как сердцу угодно, как хочешь, если хочешь, очень сладко сделай, если хочешь.
-1	афачыгiв	_	NOUN	_	Definite=Def	3	nsubj	_	Gloss=def-сахар|_|_|def
+1	афачыгiв	_	NOUN	_	Definite=Def	3	dislocated	_	Gloss=def-сахар|_|_|def
 2	угвы	_	NOUN	_	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=2	3	nsubj	_	Gloss=2sg.m.pr-сердце|_|_|2sg.m.pr
 3	йшангiалуа	_	VERB	_	Gender[abs]=Neut|Gender[io]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=3|RelType=Mnr	0	root	_	Gloss=3sg.n.abs-rel.mnr-3sg.n.io-loc-соглашаться-ipf|_|_|3sg.n.abs|rel.mnr|3sg.n.io|loc|ipf
 4	уа	_	PRON	_	_	5	iobj	_	Gloss=ты.m|_|_|.m
