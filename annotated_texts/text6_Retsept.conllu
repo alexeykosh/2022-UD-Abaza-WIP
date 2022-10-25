@@ -73,7 +73,7 @@
 6	час	_	NOUN	_	_	7	obl	_	Gloss=час|_|_
 7	можно	_	VERB	_	_	8	reparandum	_	Gloss=можно|_|_
 8	йыугiватiуаштi	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Tense=Fut|VerbForm=Fin	2	conj	_	Gloss=3sg.n.abs-2sg.m.erg-мешать-ipf-fut-dcl|_|_|3sg.n.abs|2sg.m.erg|ipf|fut|dcl
-9	сахiаткiдза	_	NOUN	_	Definite=Ind	8	advmod	_	Gloss=час-indf-lim|_|_|indf|lim
+9	сахiаткiдза	_	NOUN	_	Definite=Ind	8	obl	_	Gloss=час-indf-lim|_|_|indf|lim
 
 
 # sent_id = 7
@@ -164,7 +164,7 @@
 2	са	_	PRON	_	_	3	nsubj	_	Gloss=я|_|_
 3	йшсчпауа	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|RelType=Mnr	4	csubj	_	Gloss=3sg.n.abs-rel.mnr-1sg.erg-делать-ipf|_|_|3sg.n.abs|rel.mnr|1sg.erg|ipf
 4	ауи	_	PRON	_	Number=Sing|PronType=Dem	1	conj	_	Gloss=dist.sg|_|_|dist.sg
-5	акiвапi	_	VERB	_	Tense=Pres|VerbForm=Fin	4	cop	_	Gloss=3sg.n.io+cop-npst.dcl|_|_|3sg.n.iocop|npst.dcl
+5	акiвапi	_	AUX	_	Tense=Pres|VerbForm=Fin	4	cop	_	Gloss=3sg.n.io+cop-npst.dcl|_|_|3sg.n.iocop|npst.dcl
 6	круглата	_	ADJ	_	_	7	xcomp	_	Gloss=круглый-adv|_|_|adv
 7	кататьсчпитiта	_	VERB	_	Number[erg]=Sing|Person[erg]=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	Gloss=катать-1sg.erg-делать-prs-dcl-adv|_|_|1sg.erg|prs|dcl|adv
 8	арса	_	ADV	_	_	7	advmod	_	Gloss=так|_|_
@@ -203,7 +203,7 @@
 2	закiта	_	ADV	_	_	3	advmod	_	Gloss=один-adv|_|_|adv
 3	хъгiа	_	ADJ	_	_	4	xcomp	_	Gloss=сладкий|_|_
 4	аъахым	_	VERB	_	Polarity=Neg	1	conj	_	Gloss=быть-re-neg|_|_|re|neg
-5	акiвапi	_	VERB	_	Tense=Pres|VerbForm=Fin	4	cop	_	Gloss=3sg.n.io+cop-npst.dcl|_|_|3sg.n.iocop|npst.dcl
+5	акiвапi	_	AUX	_	Tense=Pres|VerbForm=Fin	4	cop	_	Gloss=3sg.n.io+cop-npst.dcl|_|_|3sg.n.iocop|npst.dcl
 6	ауи	_	PRON	_	Number=Sing|PronType=Dem	9	obj	_	Gloss=dist.sg|_|_|dist.sg
 7	са	_	PRON	_	_	9	nsubj	_	Gloss=1sg|_|_|1sg
 8	бзидздза	_	ADJ	_	_	9	xcomp	_	Gloss=хороший-int~int|_|_|int~int
@@ -216,10 +216,10 @@
 # text_init = йсчпалИтI ауыгьИ, пирОггьи счпИтI ауыгьИ счпИтI
 # text_rus = И пирог тоже часто делаю.
 1	йсчпалитi	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=3sg.n.abs-1sg.erg-делать-hab-prs-dcl|_|_|3sg.n.abs|1sg.erg|hab|prs|dcl
-2	ауыгьи	_	PRON	_	PronType=Dem	1	advmod	_	Gloss=dist-add|_|_|dist|add
+2	ауыгьи	_	ADV	_	PronType=Dem	1	advmod	_	Gloss=dist-add|_|_|dist|add
 3	пироггьи	_	NOUN	_	_	1	obj	_	Gloss=пирог-add|_|_|add
 4	счпитi	_	VERB	_	Number[erg]=Sing|Person[erg]=1|Tense=Pres|VerbForm=Fin	1	dep:repeat	_	Gloss=1sg.erg-делать-prs-dcl|_|_|1sg.erg|prs|dcl
-5	ауыгьи	_	PRON	_	PronType=Dem	6	advmod	_	Gloss=dist-add|_|_|dist|add
+5	ауыгьи	_	ADV	_	PronType=Dem	6	advmod	_	Gloss=dist-add|_|_|dist|add
 6	счпитi	_	VERB	_	Number[erg]=Sing|Person[erg]=1|Tense=Pres|VerbForm=Fin	1	dep:repeat	_	Gloss=1sg.erg-делать-prs-dcl|_|_|1sg.erg|prs|dcl
 
 
