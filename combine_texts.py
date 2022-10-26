@@ -1,7 +1,6 @@
 import pyconll
 import sys
-from os import (walk, 
-                remove)
+from os import walk
 
 def get_filenames(directory):
     files = []
