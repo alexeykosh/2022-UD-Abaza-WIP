@@ -106,7 +106,7 @@ _	_	hab	_	_	VERB	_	_
 _	_	ins	_	_	NOUN	Case=Ins	_
 _	_	cnс	_	_	VERB	_	_
 _	_	q	_	_	_	Int=Yes	_
-_	_	npot	_	_	NOUN	Derivation=npot	_
+_	_	npot	_	_	NOUN	Derivation=Npot	_
 _	_	cvb	_	_	VERB	VerbForm=Conv	_
 _	_	dprc	_	_	_	_	_
 _	_	pst.dcl	_	_	VERB	Tense=Pret|VerbForm=Fin	_
