@@ -5,7 +5,7 @@ from os import (walk,
 
 def get_filenames(directory):
     files = []
-    for (dirpath, dirnames, filenames) in walk(directory):
+    for (_, _, filenames) in walk(directory):
         files.extend([i for i in filenames if '.conllu' in i])
         break
     return sorted(files)
@@ -19,16 +19,18 @@ if __name__ == '__main__':
     out = sys.argv[2]
 
     fn = get_filenames(directory)
-    with open(directory + '/train.conllu', 'w') as outfile:
-        for fname in fn:
-            with open(directory + '/' + fname) as infile:
-                outfile.write(infile.read())
-    train = pyconll.load_from_file(directory + '/train.conllu')
+
+    sentences = []
     i = 1
-    for sentence in train:
-        sentence.id = i
-        i += 1
-    with open('train.conllu', 'w', encoding='utf-8') as f:
-        train.write(f)
-    print(f'Combination is completed: {out} has {i} sentences.')
-    remove(directory + '/train.conllu')
+
+    for fname in fn:
+        for sent in pyconll.iter_from_file(directory + '/' + fname):
+            sent.set_meta('sent_id', i)
+            sentences.append(sent.conll())
+            i += 1
+    
+    with open(out, 'w', encoding='utf-8') as f:
+        for s in sentences:
+            f.write(f'\n{s}\n')
+    
+    print(f'Combination is completed: {out} has {i-1} sentences.')
