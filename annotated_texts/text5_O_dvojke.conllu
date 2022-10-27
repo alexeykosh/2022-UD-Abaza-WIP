@@ -104,7 +104,7 @@
 11	гIазгын	гара	VERB	_	Number[erg]=Sing|Person[erg]=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=csl-1sg.erg-нести-pst
 12	гIвба	гIвба	NOUN	_	_	14	nsubj	_	Gloss=два
 13	стетрадь	тетрадь	NOUN	_	Number[psor]=Sing|Person[psor]=1	14	iobj	_	Gloss=1sg.pr-тетрадь
-14	йаныта	?	VERB	_	Gender[abs]=Neut|Gender[io]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=3|VerbForm=NonFin	11	conj	_	Gloss=3sg.n.abs-3sg.n.io-быть.в-adv
+14	йаныта	_	VERB	_	Gender[abs]=Neut|Gender[io]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=3|VerbForm=NonFin	11	conj	_	Gloss=3sg.n.abs-3sg.n.io-быть.в-adv
 15	хIпны	хIпны	ADP	_	Number[io]=Plur|Person[io]=1	16	obl	_	Gloss=1pl.io-возле
 16	сгIайхд	гIайра	VERB	_	Number[abs]=Sing|Person[abs]=1|Tense=Aor|VerbForm=Fin	11	conj	_	Gloss=1sg.abs-csl-идти-re-dcl
 
@@ -130,7 +130,7 @@
 2	мама	мама	NOUN	_	_	5	vocative	_	Gloss=мама
 3	ари	ари	PRON	_	Number=Sing|PronType=Dem	5	nsubj	_	Gloss=prox.sg
 4	хIыбызшвала	бызшва	NOUN	_	Number[psor]=Plur|Person[psor]=1	5	iobj	_	Gloss=1pl.pr-язык-ins
-5	акIваб	?	VERB	_	Person[io]=3|Number[io]=Sing|Gender[io]=Neut|Tense=Pres|VerbForm=Fin	1	ccomp	_	Gloss=3sg.n.io+cop-npst.dcl
+5	акIваб	_	VERB	_	Person[io]=3|Number[io]=Sing|Gender[io]=Neut|Tense=Pres|VerbForm=Fin	1	ccomp	_	Gloss=3sg.n.io+cop-npst.dcl
 
 # sent_id = 10
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
@@ -237,7 +237,7 @@
 6	сгвы	гвы	NOUN	_	Number[psor]=Sing|Person[psor]=1	7	iobj	_	Gloss=1sg.pr-сердце
 7	йасуа	асра	VERB	_	Gender[abs]=Neut|Gender[io]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=3|Tense=Pres|VerbForm=NonFin	3	conj	_	Gloss=3sg.n.abs-3sg.n.io-бить-ipf
 8	адуней	дуней	NOUN	_	Definite=Def	9	obl	_	Gloss=def-мир
-9	сыкIвб	?	VERB	_	Number[abs]=Sing|Person[abs]=1|Tense=Pres|VerbForm=Fin	3	conj	_	Gloss=1sg.abs-быть.на-npst.dcl
+9	сыкIвб	_	VERB	_	Number[abs]=Sing|Person[abs]=1|Tense=Pres|VerbForm=Fin	3	conj	_	Gloss=1sg.abs-быть.на-npst.dcl
 10	лхIвад	хIвара	VERB	_	Gender[erg]=Fem|Number[erg]=Sing|Person[erg]=3|Tense=Aor|VerbForm=Fin	9	parataxis	_	Gloss=3sg.f.erg-говорить-dcl
 
 # sent_id = 18
