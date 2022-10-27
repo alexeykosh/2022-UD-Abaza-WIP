@@ -1,9 +1,7 @@
-
 # sent_id = 1
 # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
 # text = саба йахща невинка йгIатыргунта ласа гIаргванта вязать йсчпатI наскьи афронт йаъакву йрыртуашта
-# text_orth = с-аба й-ахща невинка й-гIа-ты-р-г-у-н-та ласа гIа-р-г-ва-н-та вязать й-с-чпа-тI наскьи а-фрoнт й-аъа-кв-у й-ры-р-т-уа-ш-та
-# text_transcription = s-aba j-aχš’a nevinka j-ʕa-tə-r-g-əw-n-ta lasa ʕa-r-g-wa-n-ta vjazat’ j-s-č’pa-ṭ nask’i a-front j-aʔa-kʷ-əw j-rə-r-t-wa-š-ta
+# text_init = Саба йахща Невинка йгIатыргунта ласа гIаргванта вязать йсчпатI наскьи афронт йаъакву йрыртуашта.
 # text_rus = Моя тетя вывозила из Невинки и привозила мне шерсть, я вязала носки, чтобы передавать тем, кто находился на фронте.
 1	саба	аба	NOUN	_	Number[psor]=Sing|Person[psor]=1	2	nmod	_	Gloss=1sg.pr-отец
 2	йахща	ахща	NOUN	_	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	Gloss=3sg.m.pr-сестра
@@ -21,8 +19,7 @@
 # sent_id = 2
 # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
 # text = ауат счпауамца тшасрыщцан уыжвгIандзарагьи йсчпитI ауи наскьи уыжвгIандзарагьи
-# text_orth = ауат с-чпа-уа-мца тш-а-с-ры-щца-н уыжвгIан-дза-ра-гьи й-с-чп-и-тI ауи наскьи уыжвгiан-дза-ра-гьи
-# text_transcription = аwat s-č’pa-wa-mca č-a-s-rə-š’ca-n wəẑʕan-ʒa-ra-g’əj j-s-č’p-əj-ṭ awəj nask’i wəẑʕan-ʒa-ra-g’əj
+# text_init = Ауат счпауамца тшасрыщцан уыжвгIандзарагьи йсчпитI ауи наскьи. УыжвгIандзарагьи.
 # text_rus = Научившись вязать их, я до сих пор вяжу носки.
 1	ауат	ауат	PRON	_	_	2	obj	_	Gloss=dist.pl
 2	счпауамца	чпара	VERB	_	Number[erg]=Sing|Person[erg]=1|VerbForm=Conv	3	advcl	_	Gloss=1sg.erg-делать-ipf-cvb
@@ -36,8 +33,7 @@
 # sent_id = 3
 # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
 # text = пятьдесят пятый год агIан хъацIа сйыццатI
-# text_orth = пятьдесят пятый гoд агIан хъацIа с-йы-ц-ца-тI
-# text_transcription = pidisjat pjatəj god aʕan qac̣a s-jə-c-ca-ṭ
+# text_init = Пятьдесят пятый год агIан хъацIа сйыццатI.
 # text_rus = В пятьдесят пятом году я вышла замуж.
 1	пятьдесят	пятьдесят	NUM	_	_	3	nummod	_	Gloss=пятьдесят
 2	пятый	пятый	NUM	_	_	1	flat	_	Gloss=пятый
@@ -49,8 +45,7 @@
 # sent_id = 4
 # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
 # text = съацаз афронт далата аратквагьи хъагьи йырхвын
-# text_orth = с-ъа-ца-з а-фрoнт д-а-ла-та арат-ква-гьи хъа-гьи йы-р-хвы-н
-# text_transcription = s-ʔa-ca-z a-front d-a-la-ta arat-kʷa-g’əj qa-g’əj jə-r-χʷə-n
+# text_init = Съацаз афронт далата аратквагьи хъагьи йырхвын.
 # text_rus = Тот, за кого я вышла замуж, был на фронте и был ранен в этих и других местах [и в голову].
 1	съацаз	цара	VERB	_	Number[abs]=Sing|Person[abs]=1|RelType=Loc|Tense=Past|VerbForm=NonFin	6	nsubj	_	Gloss=1sg.abs-rel.loc-идти-pst.nfin
 2	афронт	фронт	NOUN	_	Definite=Def	3	obl	_	Gloss=def-фронт
@@ -62,8 +57,7 @@
 # sent_id = 5
 # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
 # text = йырхвын ауи йапшта дчмазагIвыта сйыццатI
-# text_orth = йы-р-хвы-н ауи й-апш-та д-чмазагIвы-та с-йы-ц-ца-тI
-# text_transcription = jə-r-χʷə-n awəj j-apš-ta d-č’mazaʕʷə-ta s-jə-c-ca-ṭ
+# text_init = Йырхвын. Ауи йапшта дчмазагIвыта сйыццатI.
 # text_rus = Ранили его. Так я вышла замуж за больного.
 1	йырхвын	хвра	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=3sg.n.abs-3pl.erg-ранить-pst
 2	ауи	ауи	PRON	_	Number=Sing|PronType=Dem	3	obj	_	Gloss=dist.sg
@@ -74,8 +68,7 @@
 # sent_id = 6
 # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
 # text = йщапIы араъа хIскIолкIакI йалата йгвы араъа йташваз ахы арыла йыхъвда йагIалцIхын
-# text_orth = й-щапIы араъа х-скIoлкIа-кI й-а-ла-та й-гвы араъа й-та-шва-з а-хы ары-ла йы-хъвда йа-гIа-л-цI-хы-н
-# text_transcription = j-š’aṗə araʔa χ-sḳolḳa-ḳ j-a-la-ta j-gʷə araʔa j-ta-ŝa-z a-χə arə-la jə-qʷda ja-ʕa-l-c̣-χə-n
+# text_init = ЙщапIы араъа хIскIолкIакI йалата йгвы араъа йташваз ахы арыла йыхъвда йагIалцIхын.
 # text_rus = В ногу вот сюда попали три осколка и пуля, которая попала в сердце, вышла через шею.
 1	йщапIы	щапIы	NOUN	_	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3	4	obl	_	Gloss=3sg.m.pr-нога
 2	араъа	араъа	PRON	_	_	4	obl	_	Gloss=prox.loc
@@ -92,8 +85,7 @@
 # sent_id = 7
 # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
 # text = йыпыцква йыцIырхуамцара аскIолкIаква гIахъаргылхтI закIгьи гьйымахмызтI
-# text_orth = йы-пыц-ква йы-цIы-р-х-уа-мцара а-скIoлкIа-ква гIа-хъа-р-гыл-х-тI закI-гьи гь-йы-ма-х-мы-з-тI
-# text_transcription = jə-pəc-kʷa jə-c̣ə-r-χ-wa-mcara a-sḳolḳa-kʷa ʕa-qa-r-gəl-χ-ṭ zaḳ-g’əj g’-jə-ma-χ-mə-z-ṭ
+# text_init = Йыпыцква йыцIырхуамцара аскIолкIаква гIахъаргылхтI закIгьи гьйымахмызтI.
 # text_rus = Удаляя зубы, вытаскивали (поднимали) осколки, и так он остался без зубов (ни одного больше у него не было).
 1	йыпыцква	пыц	NOUN	_	Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=3	2	obj	_	Gloss=3sg.m.pr-зуб-pl
 2	йыцIырхуамцара	цIыхра	VERB	_	Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Conv	4	advcl	_	Gloss=3pl.abs-loc.elat-3pl.erg-брать-ipf-cvb
@@ -105,8 +97,7 @@
 # sent_id = 8
 # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
 # text = йшйымахымзымцара дпсыхтI йаргьи
-# text_orth = й-ш-йы-ма-хы-м-зы-мцара д-псы-х-тI йар-гьи
-# text_transcription = j-š-jə-ma-χə-m-zə-mcara d-psə-χ-ṭ jar-g’əj
+# text_init = Йшйымахымзымцара дпсыхтI йаргьи.
 # text_rus = Уже не имея зубов, он умер.
 1	йшйымахымзымцара	амазлара	VERB	_	Gender[io]=Masc|Number[abs]=Plur|Number[io]=Sing|Person[abs]=3|Person[io]=3|Polarity=Neg|RelType=Mnr|Tense=Past|VerbForm=Conv	2	advcl	_	Gloss=3pl.abs-rel.mnr-3sg.m.io-иметься-re-neg-pst.nfin-cvb
 2	дпсыхтI	псра	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Aor|VerbForm=Fin	0	root	_	Gloss=3sg.h.abs-умереть-re-dcl
@@ -115,8 +106,7 @@
 # sent_id = 9
 # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
 # text = дпсыхтI дгьсымахым ауыгьи дгьсымахым
-# text_orth = д-псы-х-тI д-гь-сы-ма-хы-м ауы-гьи д-гь-сы-ма-хы-м
-# text_transcription = d-psə-χ-ṭ d-g’-sə-ma-χə-m awə-g’əj d-g’-sə-ma-χə-m
+# text_init = ДпсыхтI дгьсымахым. Ауыгьи дгьсымахым…
 # text_rus = Он уже умер, уже его нет со мной (отца). И его уже нет со мной (мужа).
 1	дпсыхтI	псра	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Aor|VerbForm=Fin	0	root	_	Gloss=3sg.h.abs-умереть-re-dcl
 2	дгьсымахым	амазлара	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	1	conj	_	Gloss=3sg.h.abs-neg.emp-1sg.io-иметься-re-neg
@@ -126,8 +116,7 @@
 # sent_id = 10
 # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
 # text = па заджвыкI дсыман
-# text_orth = па заджвы-кI д-сы-ма-н
-# text_transcription = pa zaʒ̂ə-ḳ d-sə-ma-n
+# text_init = Па заджвыкI дсыман.
 # text_rus = У меня был единственный сын.
 1	па	па	NOUN	_	_	3	nsubj	_	Gloss=сын
 2	заджвыкI	заджвы	NUM	_	_	1	nummod	_	Gloss=один-unit
@@ -136,8 +125,7 @@
 # sent_id = 11
 # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
 # text = ари ахыгIвхIвсысакIищти пакIи дсыман
-# text_orth = ари а-хы-гIв-хIвсыса-кI-йы-щти па-кI-и д-сы-ма-н
-# text_transcription = arəj a-χə-ʕʷ-hʷsəsa-ḳ-jə-š’təj pa-ḳ-əj d-sə-ma-n
+# text_init = Ари ахыгIвхIвсысакIищти пакIи дсыман.
 # text_rus = У меня три дочки и сын.
 1	ари	ари	PRON	_	Number=Sing|PronType=Dem	2	reparandum	_	Gloss=prox.sg
 2	ахыгIвхIвсысакIищти	пхIвыспа	NOUN	_	Definite=Def	4	nsubj	_	Gloss=def-три-clh-девушка.pl-unit-add-emp
@@ -147,8 +135,7 @@
 # sent_id = 12
 # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
 # text = спа акъарчаква дырщын дсызгIаргхтI
-# text_orth = с-па а-къарча-ква ды-р-щы-н д-сы-з-гIа-р-г-х-тI
-# text_transcription = s-pa a-q̇arč’a-kʷa də-r-š’ə-n d-sə-z-ʕa-r-g-χ-ṭ
+# text_init = Спа акъарчаква дырщын дсызгIаргхтI.
 # text_rus = Сына убили карачаевцы и привезли.
 1	спа	па	NOUN	_	Number[psor]=Sing|Person[psor]=1	3	obj	_	Gloss=1sg.pr-сын
 2	акъарчаква	къарча	NOUN	_	Definite=Def|Number=Plur	3	nsubj	_	Gloss=def-карачаевец-pl
@@ -158,8 +145,7 @@
 # sent_id = 13
 # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
 # text = ахча ахъазла
-# text_orth = ахча а-хъаз-ла
-# text_transcription = aχč’a a-qaz-la
+# text_init = Ахча ахъазла.
 # text_rus = Из-за денег.
 1	ахча	ахча	NOUN	_	_	0	root	_	Gloss=деньги
 2	ахъазла	ахъазла	ADP	_	Gender[io]=Neut|Number[io]=Sing|Person[io]=3	1	case	_	Gloss=3sg.n.io-ради-ins
@@ -167,8 +153,7 @@
 # sent_id = 14
 # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
 # text = вот ауат зымгIва са сылагвы йыцIстI зымгIва
-# text_orth = вoт ауат зымгIва са сы-лагвы йы-цI-с-тI зымгIва
-# text_transcription = vot awat zəmʕʷa sa sə-lagʷə jə-c̣-s-ṭ zəmʕʷa
+# text_init = Вот ауат зымгIва са сылагвы йыцIстI. ЗымгIва.
 # text_rus = Вот это все прошло через мой зрачок [пережила, прошла через это]. Все.
 1	вот	вот	PART	_	_	6	discourse	_	Gloss=вот
 2	ауат	ауат	PRON	_	PronType=Dem|Number=Plur	6	nsubj	_	Gloss=dist.pl
@@ -181,11 +166,9 @@
 # sent_id = 15
 # text_name = O_muzhe_SanashokovaCKh_13072017_checked.eaf
 # text = ужвы здоровагьи гьсымахым сгIанхахтI
-# text_orth = ужвы здорoва-гьи гь-сы-ма-хы-м с-гIа-н-ха-х-тI
-# text_transcription = wəẑə zdarova-g’əj g’-sə-ma-χə-m s-ʕa-n-χa-χ-ṭ
+# text_init = Ужвы здоровагьи гьсымахым. СгIанхахтI.
 # text_rus = Теперь здоровья нету, так и осталась.
 1	ужвы	ужвы	ADV	_	_	3	advmod	_	Gloss=сейчас
 2	здоровагьи	здорова	NOUN	_	_	3	nsubj	_	Gloss=здоровье-add
 3	гьсымахым	амазлара	VERB	_	Number[io]=Sing|Person[io]=1|Polarity=Neg	0	root	_	Gloss=neg.emp-1sg.io-иметься-re-neg
 4	сгIанхахтI	гIанхара	VERB	_	Number[abs]=Sing|Person[abs]=1|Tense=Aor|VerbForm=Fin	3	conj	_	Gloss=1sg.abs-csl-loc-остаться-re-dcl
-

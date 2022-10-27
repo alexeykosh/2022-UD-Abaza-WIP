@@ -1,9 +1,7 @@
-
 # sent_id = 1
 # text_name = 2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
 # text = квтIагъьгIважва гIатурычIвитIта
-# text_orth = квтIАгъьгIважва гIатурЫчIвитIта
-# text_transcription = kʷṭáʁ’-ʕʷa-ẑa ʕa-tə-w-rə́-ĉ̣-əj-ṭ-ta
+# text_init = квтIАгъьгIважва гIатурЫчIвитIта
 # text_rus = Слив двадцать яиц
 1	квтIагъьгIважва	квтIагъь	NOUN	_	_	2	obj	_	Gloss=яйцо-два-десять
 2	гIатурычIвитIта	тачIвара	VERB	_	Caus=Yes|Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=2|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=csl-loc-2sg.m.erg-caus-литься-prs-dcl-adv
@@ -11,8 +9,7 @@
 # sent_id = 2
 # text_name = 2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
 # text = ауи аъара столовая ложка дзыта йалаучвахитI
-# text_orth = ауи аъарА столовая ложка дзЫ-та й-А-ла-у-чва-х-и-тI
-# text_transcription = awə́j aʔará столовая ложка ʒə́-ta j-á-la-w-ĉa-χ-əj-ṭ
+# text_init = ауИ аъарА столОвая лОжка дзЫта йАлаучвахитI
 # text_rus = Туда вливаешь столько же столовых ложек воды.
 1	ауи	ауи	PRON	_	Number=Sing|PronType=Dem	6	obl	_	Gloss=dist.sg
 2	аъара	аъара	NUM	_	_	4	nummod	_	Gloss=столько
@@ -24,8 +21,7 @@
 # sent_id = 3
 # text_name = 2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
 # text = мхIачIва мхIачIва столько мхIачIва дзыта йалаучвахитI
-# text_orth = мхIАчIва мхIАчIва столько мхIАчIва дзЫ-та й-А-ла-у-чва-х-и-тI
-# text_transcription = mháĉ̣a mháĉ̣a столько mháĉ̣a ʒə́-ta j-á-la-w-ĉa-χ-əj-ṭ
+# text_init = мхIАчIва мхIАчIва столько мхIАчIва дзЫта йАлаучвахитI
 # text_rus = Вливаешь столько же ложек воды.
 1	мхIачIва	мхIачIва	NOUN	_	_	4	reparandum	_	Gloss=ложка
 2	мхIачIва	мхIачIва	NOUN	_	_	1	dep:repeat	_	Gloss=ложка
@@ -37,8 +33,7 @@
 # sent_id = 4
 # text_name = 2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
 # text = афачыгIв угвы йшангIалуа уа йшутахъу йутахъызтын хъгIадзата йчпа йутахъызтын
-# text_orth = а-фачЫгIв у-гвЫ й-ш-а-н-гIАл-уа уа й-ш-у-тахъ-У й-у-тахъЫ-зтын хъгIа-дзА-та й-чпА й-у-тахъЫ-зтын
-# text_transcription = a-fač’ə́ʕʷ w-gʷə́ j-š-a-n-ʕál-wa wa j-šə-w-taq-ə́w jə-w-taqə́-ztən qʕa-ʒá-ta j-č’pá jə-w-taqə́-ztən
+# text_init = афачЫгIв угвЫ йшангIАлуа уа йшутахъУ йутахъЫзтын хъгIадзАта йчпА йутахъЫзтын
 # text_rus = Сахар - как сердцу угодно, как хочешь, если хочешь, очень сладко сделай, если хочешь.
 1	афачыгIв	фачыгIв	NOUN	_	Definite=Def	3	dislocated	_	Gloss=def-сахар
 2	угвы	гвы	NOUN	_	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=2	3	iobj	_	Gloss=2sg.m.pr-сердце
@@ -53,8 +48,7 @@
 # sent_id = 5
 # text_name = 2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
 # text = ауи чвгьата йыугIватIитI йыугIватIитI
-# text_orth = ауи чвгьА-та йы-у-гIватI-И-тI йы-у-гIватI-И-тI
-# text_transcription = awə́j ĉg’á-ta jə-w-ʕʷaṭ-ə́j-ṭ jə-w-ʕʷaṭ-ə́j-ṭ
+# text_init = ауИ чвгьАта йыугIватIИтI йыугIватIИтI
 # text_rus = Это сильно мешаешь.
 1	ауи	ауи	PRON	_	Number=Sing|PronType=Dem	3	obj	_	Gloss=dist.sg
 2	чвгьата	чвгьа	ADV	_	_	3	advmod	_	Gloss=злой-adv
@@ -64,8 +58,7 @@
 # sent_id = 6
 # text_name = 2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
 # text = ари йгIватIитI совсем йапцIхвхвауата почти час можно йыугIватIуаштI сахIаткIдза
-# text_orth = арИ й-гIватI-И-тI совсем йа-п-цI-хвхва-уА-та почти час можно йы-у-гIватI-уА-ш-тI сахIАт-кI-дза
-# text_transcription = arə́j j-ʕʷaṭ-ə́j-ṭ совсем ja-p-c̣-χʷχʷa-wá-ta почти час можно jə-w-ʕʷaṭ-wá-š-ṭ sahát-ḳ-ʒa
+# text_init = арИ йгIватIИтI совсем йапцIхвхвауАта почти час можно йыугIватIуАштI сахIАткIдза
 # text_rus = Мешаешь, пока тесто совсем не растянется, можно мешать до часа.
 1	ари	ари	PRON	_	Number=Sing|PronType=Dem	2	obj	_	Gloss=prox.sg
 2	йгIватIитI	гIватIра	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=3sg.n.abs-мешать-prs-dcl
@@ -80,8 +73,7 @@
 # sent_id = 7
 # text_name = 2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
 # text = ауаъа йалаупсахитI шыла шылала йыукIвхIитIта
-# text_orth = ауАъа й-А-ла-у-пса-х-и-тI шЫла шЫла-ла йы-у-кIвхI-И-тI-та
-# text_transcription = awáʔa j-á-la-w-psa-χ-əj-ṭ šə́la šə́la-la jə-w-ḳʷh-ə́j-ṭ-ta
+# text_init = ауАъа йАлаупсахитI шЫла шЫлала йыукIвхIИтIта
 # text_rus = Туда добавляешь муку, мукой замешиваешь.
 1	ауаъа	ауаъа	PRON	_	_	2	obl	_	Gloss=dist.loc
 2	йалаупсахитI	алапсара	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Gender[io]=Neut|Number[abs]=Sing|Number[erg]=Sing|Number[io]=Sing|Person[abs]=3|Person[erg]=2|Person[io]=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=3sg.n.abs-3sg.n.io-loc-2sg.m.erg-класть-re-prs-dcl
@@ -92,8 +84,7 @@
 # sent_id = 8
 # text_name = 2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
 # text = ашылала йанукIвхIара асхъан йуымрыбагъьан
-# text_orth = а-шЫла-ла й-анЫ-у-кIвхIа-ра Асхъан й-уы-м-рЫбагъьа-н
-# text_transcription = a-šə́la-la j-anə́-w-ḳʷha-ra ásqan j-wə-m-rə́baʁ’a-n
+# text_init = ашЫлала йанУкIвхIара Асхъан йуымрЫбагъьан
 # text_rus = Когда замешиваешь мукой, не делай [тесто] тугим.
 1	ашылала	шыла	NOUN	_	Definite=Def	2	obl	_	Gloss=def-мука-ins
 2	йанукIвхIара	кIвхIара	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|RelType=Tmp|Tense=Fut2|VerbForm=NonFin	4	advcl	_	Gloss=3sg.n.abs-rel.tmp-2sg.m.erg-месить-fut.nfin
@@ -103,8 +94,7 @@
 # sent_id = 9
 # text_name = 2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
 # text = йуымрыбагъьауата ауи дыната йчпата йутахъызтын арса чIврыта цIагIвта гIвмачвакI зквшвауала йрыгIв арса лентIа апшта
-# text_orth = й-уы-м-рЫбагъьа-уа-та ауИ дЫна-та й-чпА-та й-у-тахъЫ-зтын Арса чIврЫ-та цIАгIв-та гIв-мАчва-кI з-кв-шва-уА-ла й-рЫгIв Арса лЕнтIа Апш-та
-# text_transcription = j-wə-m-rə́baʁ’a-wa-ta awə́j də́na-ta j-č’pá-ta jə-w-taqə́-ztən ársa ĉ̣rə́-ta c̣áʕʷ-ta ʕʷ-máĉa-ḳ z-kʷ-ŝa-wá-la j-rə́ʕʷ ársa lenṭa ápš-ta
+# text_init = йуымрЫбагъьауата ауИ дЫната йчпАта йутахъЫзтын Арса чIврЫта цIАгIвта гIвмАчвакI зквшвауАла йрЫгIв Арса лЕнтIа Апшта
 # text_rus = Не замешивай туго, если хочешь, раскатай вот так длинно и тонко, так что два пальца помещаются, как ленту.
 1	йуымрыбагъьауата	рыбагъьара	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polarity=Neg|Tense=Pres|VerbForm=NonFin	0	root	_	Gloss=3sg.n.abs-2sg.m.erg-neg-укреплять-ipf-adv
 2	ауи	ауи	PRON	_	Number=Sing|PronType=Dem	4	obl	_	Gloss=dist.sg
@@ -124,8 +114,7 @@
 # sent_id = 10
 # text_name = 2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
 # text = ауи ачашврыгIвга гIахв ауаъа йакIвыршата
-# text_orth = ауи а-чашв-рЫгIв-га гIА-хв ауАъа й-А-кIвы-р-ша-та
-# text_transcription = awə́j a-č’aŝ-rə́ʕʷ-ga ʕá-χʷ awáʔa j-á-ḳʷə-r-ša-ta
+# text_init = ауИ ачашврЫгIвга гIАхв ауАъа йАкIвыршата
 # text_rus = Возьми скалку и намотай.
 1	ауи	ауи	PART	_	_	3	discourse	_	Gloss=dist.sg
 2	ачашврыгIвга	чашврыгIвга	NOUN	_	Definite=Def	3	obj	_	Gloss=def-пирожок-раскатать-nobj
@@ -136,8 +125,7 @@
 # sent_id = 11
 # text_name = 2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
 # text = акастрюль цIолата хвша дына масло тачвата ауи йтаргылта ауи тшакIвнахуа тшакIвнахуамца арса йдута йбабадза йцитI
-# text_orth = а-кастрЮль цIолА-та хвшА дЫна мАсло та-чвА-та ауИ й-та-р-гЫл-та ауИ тш-А-кIв-на-х-уа тш-А-кIв-на-х-уа-мца Арса й-дУ-та й-бАба-дза й-ц-И-тI
-# text_transcription = a-kastrjúɮ c̣awlá-ta χʷšá də́na масло ta-ĉá-ta awə́j j-ta-r-gə́l-ta awə́j č-á-ḳʷ-na-χ-wa č-á-ḳʷ-na-χ-wa-mca ársa j-də́w-ta j-bába-ʒa j-c-ə́j-ṭ
+# text_init = акастрЮль цIолАта хвшА дЫна мАсло тачвАта ауИ йтаргЫлта ауИ тшАкIвнахуа тшАкIвнахуамца Арса йдУта йбАбадза йцИтI
 # text_rus = В глубокую кастрюлю налей масло, поставь это [скалку с тестом], оно вот так отслаивается, получается большим и пышным.
 1	акастрюль	кастрюль	NOUN	_	Definite=Def	6	obl	_	Gloss=def-кастрюля
 2	цIолата	цIола	ADJ	_	_	1	amod	_	Gloss=глубокий-adv
@@ -158,8 +146,7 @@
 # sent_id = 12
 # text_name = 2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
 # text = азджьакIгьи са йшсчпауа ауи акIвапI круглата кататьсчпитIта арса цIагъата
-# text_orth = А-зджьа-кI-гьи сА й-ш-с-чпа-уА ауи А-кIва-пI крУгла-та катАть-с-чп-и-тI-та Арса цIагъА-та
-# text_transcription = á-zǯ’a-ḳ-g’əj sá j-š-s-č’pa-wá awə́j á-ḳʷa-ṗ krugla-ta katát’-s-č’p-əj-ṭ-ta ársa c̣aʁá-ta
+# text_init = АзджьакIгьи сА йшсчпауА ауИ АкIвапI крУглата катАтьсчпитIта Арса цIагъАта
 # text_rus = Другие... Вот как я делаю: катаю круглую, такую тонкую.
 1	азджьакIгьи	заджвы	NOUN	_	Definite=Def|Definite=Ind	0	root	_	Gloss=def-один-indf-add
 2	са	сара	PRON	_	_	3	nsubj	_	Gloss=я
@@ -174,8 +161,7 @@
 # sent_id = 13
 # text_name = 2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
 # text = ауи ахIвспала агвы йагIвсырсахитIта йаквсырчIвитIта
-# text_orth = ауи А-хIвспа-ла а-гвЫ й-а-гIв-сы-рса-х-И-тI-та й-а-кв-сы-р-чIв-И-тI-та
-# text_transcription = áwə́j á-hʷspa-la a-gʷə́ j-a-ʕʷ-sə-rsa-χ-ə́j-ṭ-ta j-a-kʷ-sə-r-ĉ̣-ə́j-ṭ-ta
+# text_init = АуИ АхIвспала агвЫ йагIвсырсахИтIта йаквсырчIвИтIта
 # text_rus = Разрезаю ножом посередине, прижимаю друг к другу.
 1	ауи	ауи	PRON	_	Number=Sing|PronType=Dem	4	obj	_	Gloss=dist.sg
 2	ахIвспала	хIваспа	NOUN	_	Definite=Def	4	obl	_	Gloss=def-нож-ins
@@ -186,8 +172,7 @@
 # sent_id = 14
 # text_name = 2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
 # text = крупно бабадута арса йцахитIта
-# text_orth = крупнo баба-дУ-та Арса й-цА-х-и-тI-та
-# text_transcription = krupno baba-də́w-ta ársa j-cá-χ-əj-ṭ-ta
+# text_init = крУпно бабадУта Арса йцАхитIта
 # text_rus = Получается вот так крупно и пышно.
 1	крупно	крупно	ADJ	_	_	4	xcomp	_	Gloss=крупно
 2	бабадута	баба	ADJ	_	_	1	conj	_	Gloss=пышный-большой-adv
@@ -197,8 +182,7 @@
 # sent_id = 15
 # text_name = 2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
 # text = вкусно закIта хъгIа аъахым акIвапI ауи са бзидздза йызбитI
-# text_orth = вкусно зАкI-та хъгIА Аъа-х-ым АкIва-пI ауи сА бзи-дз-дзА йы-з-б-И-тI
-# text_transcription = вкусно záḳ-ta qʕá áʔa-χ-əm áḳʷa-ṗ awə́j sá bzəj-ʒ-ʒá jə-z-b-ə́j-ṭ
+# text_init = вкУсно зАкIта хъгIА Аъахым АкIвапI ауИ сА бзидздзА йызбИтI
 # text_rus = Вкусно, очень сладко, я это очень люблю.
 1	вкусно	вкусно	ADJ	_	_	0	root	_	Gloss=вкусно
 2	закIта	закIы	ADV	_	_	3	advmod	_	Gloss=один-adv
@@ -213,8 +197,7 @@
 # sent_id = 16
 # text_name = 2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
 # text = йсчпалитI ауыгьи пироггьи счпитI ауыгьи счпитI
-# text_orth = й-с-чпа-л-И-тI ауы-гьИ пирОг-гьи с-чп-И-тI ауы-гьИ с-чп-И-тI
-# text_transcription = j-s-č’pa-l-ə́j-ṭ awə-g’ə́j pirog-g’əj s-č’p-ə́j-ṭ awə-g’ə́j s-č’p-ə́j-ṭ
+# text_init = йсчпалИтI ауыгьИ, пирОггьи счпИтI ауыгьИ счпИтI
 # text_rus = И пирог тоже часто делаю.
 1	йсчпалитI	чпара	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=3sg.n.abs-1sg.erg-делать-hab-prs-dcl
 2	ауыгьи	ауи	ADV	_	PronType=Dem	1	advmod	_	Gloss=dist-add
@@ -226,8 +209,7 @@
 # sent_id = 17
 # text_name = 2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
 # text = ахIальыуагьи рчпитI ауеб йшыъу зымгIвагьи йшыъу
-# text_orth = а-хIальЫуа-гьи р-чп-и-тI ауЕб й-шы-ъЫ-у зымгIва-гьИ й-шы-ъЫ-у
-# text_transcription = a-haɮə́wa-g’əj r-č’p-ə́j-ṭ awájb j-šə-ʔə́-w zəmʕʷa-g’ə́j j-šə-ʔə́-w
+# text_init = ахIальЫуагьи рчпИтI ауЕб йшыъУ зымгIвагьИ йшыъУ
 # text_rus = Все делают халву, так принято (букв. это то, как всё есть).
 1	ахIальыуагьи	хIальыуа	NOUN	_	Definite=Def	2	obj	_	Gloss=def-халва-add
 2	рчпитI	чпара	VERB	_	Number[erg]=Plur|Person[erg]=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=3pl.erg-делать-prs-dcl
@@ -239,8 +221,7 @@
 # sent_id = 18
 # text_name = 2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
 # text = адзырдзагьи хIара дзырдза хIхIвитI акъабардийаква щыпс рхIвитI
-# text_orth = а-дзЫрдза-гьи хIарА дзЫрдза хI-хIв-И-тI а-къАбардийа-ква щЫпс р-хIв-И-тI
-# text_transcription = a-ʒə́rʒa-g’əj hará ʒə́rʒa h-hʷ-ə́j-ṭ a-q̇ábardəja-kʷa š’ə́ps r-hʷ-ə́j-ṭ
+# text_init = адзЫрдзагьи хIарА дзЫрдза хIхIвИтI акъАбардийаква щЫпс рхIвИтI
 # text_rus = Мы называем "дзырдза", а черкесы называют "щипс".
 1	адзырдзагьи	дзырдза	NOUN	_	Definite=Def	4	dislocated	_	Gloss=def-дзырдза-add
 2	хIара	хIара	PRON	_	_	4	nsubj	_	Gloss=мы
@@ -249,4 +230,3 @@
 5	акъабардийаква	къабард	NOUN	_	Definite=Def|Number=Plur	7	nsubj	_	Gloss=def-кабардинец-pl
 6	щыпс	щыпс	NOUN	_	_	7	obj	_	Gloss=щипс
 7	рхIвитI	хIвара	VERB	_	Number[erg]=Plur|Person[erg]=3|Tense=Pres|VerbForm=Fin	4	conj	_	Gloss=3pl.erg-говорить-prs-dcl
-

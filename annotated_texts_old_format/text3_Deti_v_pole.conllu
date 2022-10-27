@@ -1,9 +1,7 @@
-
 # sent_id = 1
 # text_name = Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
 # text = асабиква анахь архъа апны йышнаргуаз апхIвысква йрабымхIвума
-# text_orth = а-сабИ-ква анАхь А-рхъа а-пнЫ йы-ш-нА-р-г-уа-з а-пхIвЫс-ква й-р-А-бы-м-хIв-у-ма
-# text_transcription = a-sabə́j-kʷa aná-χ’ á-rqa a-pnə́ jǝ-š-ná-r-g-wa-z a-phʷə́s-kʷa j-r-á-bə-m-hʷ-ǝw-ma
+# text_init = Асабиква анахь архъа апны йышнаргуаз апхIвысква, йрабымхIвума?
 # text_rus = Не поговоришь ли с ними о том, как женщины относили детей на поле?
 1	асабиква	саби	NOUN	_	Definite=Def|Number=Plur	5	obj	_	Gloss=def-дети-pl
 2	анахь	анахь	PRON	_	PronType=Dem	5	obl	_	Gloss=med-lat
@@ -16,8 +14,7 @@
 # sent_id = 2
 # text_name = Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
 # text = апхIвысква рхъачваква арма йаъанта асабихвыц змакву архъа йнаргуанта абари апш ашIуна адына амашаква гIаржуанта асабиква ауаъа йдыргылуанта дара рашвун
-# text_orth = а-пхIвЫс-ква р-хъАчва-ква Арма й-Аъа-н-та а-сабИ-хвыц з-мА-кв-у А-рхъа й-нА-р-г-уа-н-та аб-арИ апш а-шIУна а-дЫна А-маша-ква гIа-р-ж-уА-н-та а-сабИ-ква ауАъа ды-р-гЫл-уа-н-та дарА рашв-У-н
-# text_transcription = a-phʷə́s-kʷa r-qə́ĉa-kʷa árma j-áʔa-n-ta a-sabə́j-χʷǝc z-má-kʷ-ǝw á-rqa j-ná-r-g-wa-n-ta ab-arə́j apš a-č̣ə́wna a-də́na á-maša-kʷa ʕa-r-ž-wá-n-ta a-sabə́j-kʷa awáʔa dǝ-r-gə́l-wa-n-ta dará raŝ-ə́w-n
+# text_init = АпхIвысква рхъачваква арма йаъанта, асабихвыц змакву архъа йнаргуанта, абари апш ашIуна адына амашаква гIаржуанта, асабиква ауаъа йдыргылуанта, дара рашвун.
 # text_rus = Когда у женщин мужья в армии были, маленьких детей, которые у них были, они в поле приносили и такие углубления, значит, такие ямы выкапывали, детей туда помещали, а сами работали.
 1	апхIвысква	пхIвыс	NOUN	_	Definite=Def|Number=Plur	2	nmod	_	Gloss=def-женщина-pl
 2	рхъачваква	хъачва	NOUN	_	Number=Plur|Number[psor]=Plur|Person[psor]=3	4	nsubj	_	Gloss=3pl.pr-мужчина.pl-pl
@@ -42,8 +39,7 @@
 # sent_id = 3
 # text_name = Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
 # text = уадыргIвана пхIвыскI лсаби дгIалхъаштылын йхъвлан йгIаталхд архъа
-# text_orth = уадыргIвАна пхIвыс-кI л-сабИ д-гIа-л-хъ-Аштылы-н й-хъвла-н й-гIа-тАл-х-д А-рхъа
-# text_transcription = wadǝrʕʷána phʷǝs-ḳ l-sabə́j d-ʕa-l-q-áštǝlǝ-n j-qʷla-n j-ʕa-tál-χ-d á-rqa
+# text_init = УадыргIвана пхIвыскI лсаби дгIалхъаштылын, йхъвлан йгIаталхд архъа.
 # text_rus = Потом одна женщина про своего ребенка забыла, а, когда стемнело, они спустились с поля.
 1	уадыргIвана	уадыргIвана	ADV	_	_	4	advmod	_	Gloss=потом
 2	пхIвыскI	пхIвыс	NOUN	_	Definite=Ind	4	nsubj	_	Gloss=женщина-indf
@@ -56,8 +52,7 @@
 # sent_id = 4
 # text_name = Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
 # text = асаби дчIвыуа дчIвыуа дчIвыуамцара адына ангьи дгIатыцIын аныла дчIвыуид арыла дчIвыуид дныкъвауамцара
-# text_orth = а-сабИ д-чIвЫ-уа д-чIвЫуа д-чIвЫуа-мцарА а-дЫна Ан-гьи д-гIа-тЫ-цIы-н анЫ-ла д-чIвыУ-и-д арЫ-ла д-чIвыУ-и-д д-ныкъва-уА-мцара
-# text_transcription = a-sabə́j d-ĉ̣ə́-wa d-ĉ̣ə́wa d-ĉ̣ə́wa-mcará a-də́na án-g’ǝj d-ʕa-tə́-c̣ǝ-n anə́-la d-ĉ̣ə́w-əj-d arə́-la d-ĉ̣ə́w-ǝj-d d-nǝq̇ʷa-wá-mcara
+# text_init = Асаби дчIвыуа дчIвыуа дчIвыуамцара, адына ангьи дгIатыцIын, аныла дчIвыуид, арыла дчIвыуид, дныкъвауамцара.
 # text_rus = А ребенок плачет-плачет-плачет все время, значит, его мать бросила, а он и так плачет, и сяк плачет, ходит все время.
 1	асаби	саби	NOUN	_	Definite=Def	4	nsubj	_	Gloss=def-ребенок
 2	дчIвыуа	чIвыуара	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|VerbForm=NonFin	4	advcl	_	Gloss=3sg.h.abs-плакать
@@ -75,8 +70,7 @@
 # sent_id = 5
 # text_name = Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
 # text = лан дангIайх асхъан асаби дгьлымдырхд дгIаргхдзылщан
-# text_orth = л-ан д-ан-гIА-й-х Асхъан а-сабИ д-гь-лы-м-дЫр-х-д д-гIА-р-г-х-дзЫ-л-ща-н
-# text_transcription = l-an d-an-ʕá-j-χ ásqan a-sabə́j d-g’-lǝ-m-də́r-χ-d d-ʕá-r-g-χ-ʒə́-l-š’a-n
+# text_init = Лан дангIайх асхъан, асаби дгьлымдырхд, дгIаргхдзылщан.
 # text_rus = Ее (девочки) мать, когда возвращалась, про ребенка не знала, думала что (другие) его несут, уже темно было.
 1	лан	аны	NOUN	_	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	Gloss=3sg.f.pr-мать
 2	дангIайх	гIайра	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|RelType=Tmp|Tense=Aor|VerbForm=NonFin	5	advcl	_	Gloss=3sg.h.abs-rel.tmp-csl-приходить-re
@@ -88,8 +82,7 @@
 # sent_id = 6
 # text_name = Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
 # text = йхъвлата йатахъалхын архъа асаби дчIвыуата дгIащтIырхын дгIаргхд ауандырла даквдырчIван
-# text_orth = й-хъвлА-та й-атА-хъал-хы-н А-рхъа а-сабИ д-чIвЫ-уа-та д-гIа-щтIЫ-р-хы-н д-гIа-р-г-х-д а-уандЫр-ла д-А-квды-р-чIв-а-н
-# text_transcription = j-qʷlá-ta j-atá-qal-χǝ-n á-rqa a-sabə́j d-ĉ̣ə́-wa-ta d-ʕa-š’ṭə́-r-χǝ-n d-ʕa-r-g-χ-d a-wandə́r-la d-á-kʷdǝ-r-ĉ̣-wa-n
+# text_init = Йхъвлата, йатахъалхын архъа, асаби дчIвыуата дгIащтIырхын, дгIаргхд ауандырла даквдырчIван.
 # text_rus = И снова поднялись на поле, ребенка достали, привезли назад, посадив на телегу.
 1	йхъвлата	хъвлара	VERB	_	Person[abs]=3|Number[abs]=Sing|Animacy[abs]=Nhum	2	advcl	_	Gloss=3sg.n.abs-смеркаться-adv
 2	йатахъалхын	хъалра	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=3pl.abs-rep-подняться-re-pst
@@ -104,8 +97,7 @@
 # sent_id = 7
 # text_name = Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
 # text = абарауи апшта йбзазаквад ауагIа швабыжта швабыжта йгIапсад ауагIа
-# text_orth = абар-ауИ Апш-та й-бзАза-ква-д а-уагIА швАбыж-та швАбыж-та й-гIа-псА-д а-уагIА
-# text_transcription = abar-awə́j ápš-ta j-bzáza-kʷa-d a-waʕá ŝábǝž-ta ŝábǝž-ta j-ʕa-psá-d a-waʕá
+# text_init = Абарауи апшта йбзазаквад ауагIа. Швабыжта, швабыжта йгIапсад ауагIа.
 # text_rus = Вот так и жили люди. Сильно, сильно уставали люди.
 1	абарауи	абарауи	ADV	_	PronType=Dem	2	obl	_	Gloss=вот.так-dist
 2	апшта	апш	ADV	_	_	3	advmod	_	Gloss=подобный-adv
@@ -119,8 +111,7 @@
 # sent_id = 8
 # text_name = Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
 # text = ужвы ужвы закIы гьырчпум
-# text_orth = ужвЫ ужвЫ закIЫ гьы-р-чп-У-м
-# text_transcription = uẑə́ uẑə́ zaḳə́ g’ǝ-r-čp-ə́w-m
+# text_init = Ужвы? Ужвы закIы гьырчпум.
 # text_rus = А сейчас? Сейчас ничего не делают.
 1	ужвы	ужвы	ADV	_	_	4	advmod	_	Gloss=сейчас
 2	ужвы	ужвы	ADV	_	_	1	dep:repeat	_	Gloss=сейчас
@@ -130,8 +121,7 @@
 # sent_id = 9
 # text_name = Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
 # text = ужвы йырчпауа мачIпI ауи
-# text_orth = ужвЫ йы-р-чпа-уА мачI-пI ауи
-# text_transcription = uẑə́ jǝ-r-čpa-wá mač̣’-ṗ awə́j
+# text_init = Ужвы йырчпауа мачIпI ауи.
 # text_rus = Теперь то, что делают — это мало.
 1	ужвы	ужвы	ADV	_	_	2	advmod	_	Gloss=сейчас
 2	йырчпауа	чпара	VERB	_	Number[erg]=Plur|Person[erg]=3|RelType=Abs|Tense=Pres|VerbForm=NonFin	3	dislocated	_	Gloss=rel.abs-3pl.erg-делать-ipf
@@ -141,8 +131,7 @@
 # sent_id = 10
 # text_name = Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
 # text = псори зымгIвадзуги гIарыквырпсид
-# text_orth = псОри зымгIва-дзУ-ги гIа-ры-квы-р-пс-И-д
-# text_transcription = pséwrjǝ zǝmʕʷa-ʒə́w-g’ǝj ʕa-rǝ-kʷǝ-r-ps-ə́j-d
+# text_init = Псори зымгIвадзуги гIарыквырпсид.
 # text_rus = Всё целиком на них бросают (всё разбрасывают (?)).
 1	псори	псори	PRON	_	_	3	obj	_	Gloss=всё
 2	зымгIвадзуги	зымгIва	PRON	_	_	1	conj	_	Gloss=всё-int-add
@@ -151,8 +140,7 @@
 # sent_id = 11
 # text_name = Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
 # text = барахлоквагьи хъаги зымгIва йрымаб
-# text_orth = барахлО-ква-гьи хъа-гьИ зымгIвА й-рЫ-ма-б
-# text_transcription = baraχló-kʷa-g’ǝj qa-g’ə́j zǝmʕʷá j-rə́-ma-b
+# text_init = Барахлоквагьи хъаги зымгIва йрымаб.
 # text_rus = И барахло, и всё прочее у них есть.
 1	барахлоквагьи	барахло	NOUN	_	Number=Plur	4	nsubj	_	Gloss=барахло-pl-add
 2	хъаги	хъа	NOUN	_	_	1	conj	_	Gloss=прочее-add
@@ -162,8 +150,7 @@
 # sent_id = 12
 # text_name = Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
 # text = барахлокIгьи гьхIымамызтI хIара
-# text_orth = барахлО-кI-гьи гь-хIЫ-ма-мы-з-тI хIарА
-# text_transcription = baraχló-ḳ-g’ǝj g’-hə́-ma-mǝ-z-ṭ hará
+# text_init = БарахлокIгьи гьхIымамызтI хIара.
 # text_rus = Барахла не было у нас.
 1	барахлокIгьи	барахло	NOUN	_	Definite=Ind	2	nsubj	_	Gloss=барахло-indf-add
 2	гьхIымамызтI	амазлара	VERB	_	Number[io]=Plur|Person[io]=1|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	Gloss=neg.emp-1pl.io-иметься-neg-pst.nfin-dcl
@@ -172,8 +159,7 @@
 # sent_id = 13
 # text_name = Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
 # text = ахвтан заджвыкI хIымазтын хIара йхIшвахIцIунта архъа хIцун
-# text_orth = ъахвтАн заджвЫ-кI хIЫ-ма-зтын хIарА й-хI-швА-хI-цI-у-н-та А-рхъа хI-ц-у-н
-# text_transcription = ʔaχʷtán zaʒ̂ə́-ḳ hə́-ma-ztǝn hará j-h-ŝá-h-c̣-ǝw-n-ta á-rqa h-c-ǝw-n
+# text_init = Ахвтан заджвыкI хIымазтын хIара йхIшвахIцIунта архъа хIцун.
 # text_rus = Единственное платье, которое у нас было, мы надевали и шли в поле.
 1	ахвтан	ъахвтан	NOUN	_	_	5	obj	_	Gloss=платье
 2	заджвыкI	заджвы	NOUN	_	Definite=Ind	3	obj	_	Gloss=один-indf
@@ -182,4 +168,3 @@
 5	йхIшвахIцIунта	швыцIара	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Number[io]=Plur|Person[abs]=3|Person[erg]=1|Person[io]=1|Tense=Imp	0	root	_	Gloss=3sg.n.abs-1pl.io-loc-1pl.erg-класть-ipf-pst-adv
 6	архъа	рхъа	NOUN	_	Definite=Def	7	obl	_	Gloss=def-поле
 7	хIцун	цара	VERB	_	Number[abs]=Plur|Person[abs]=1|Tense=Imp|VerbForm=Fin	5	conj	_	Gloss=1pl.abs-идти-ipf-pst
-

@@ -1,9 +1,7 @@
-
 # sent_id = 1
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = сара сан дадыгьаб
-# text_orth = сарА с-ан д-адыгьА-б
-# text_transcription = sará s-an d-adəg’á-b
+# text_init = Сара сан дадыгьаб.
 # text_rus = Моя мама черкешенка.
 1	сара	сара	PRON	_	_	2	nmod	_	Gloss=я
 2	сан	аны	NOUN	_	Number[psor]=Sing|Person[psor]=1	3	nsubj	_	Gloss=1sg.pr-мама
@@ -12,8 +10,7 @@
 # sent_id = 2
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = ауи асквшы зкьи жвшви гIважвы жвба аcхъан дгIадрид
-# text_orth = ауИ а-сквшы зкь-и жв-шв-и гIважвы жв-ба асхъан д-гIа-д-р-и-д
-# text_transcription = awəj a-skʷšə zk’-əj ẑ-ŝ-əj ʕʷaẑə ẑ-ba asqan d-ʕa-d-rə-j-d
+# text_init = Ауи асквшы зкьи жвшви гIважвы жвба аcхъан дгIадрид.
 # text_rus = Она родилась в 1929-ом году.
 1	ауи	ауи	PRON	_	Number=Sing|PronType=Dem	8	obj	_	Gloss=dist.sg
 2	асквшы	сквшы	NOUN	_	Definite=Def	8	obl	_	Gloss=def-год
@@ -27,8 +24,7 @@
 # sent_id = 3
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = лаба зкьи жвшви гIважвыжвах асхъан дырщитI
-# text_orth = л-абА зкь-и жв-шв-и гIважвЫ-жва-х Асхъан ды-р-щ-И-тI
-# text_transcription = l-abá zk’-əj ẑ-ŝ-əj ʕʷaẑə́-ẑa-χ ásqan də-r-š’-ə́j-ṭ
+# text_init = Лаба зкьи жвшви гIважвыжвах асхъан дырщитI.
 # text_rus = Её отца убили в 1933-ом году.
 1	лаба	аба	NOUN	_	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=2	6	obj	_	Gloss=2sg.f.pr-отец
 2	зкьи	зкьы	NUM	_	_	6	obl	_	Gloss=тысяча-coord
@@ -40,8 +36,7 @@
 # sent_id = 4
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = лангьи асквшы зкьи жвшви гIвынгIважва хвба асхъан  абольница апны атиф дагад
-# text_orth = л-Ан-гьи А-сквшы зкь-и жв-шв-и гIвЫн-гIважва хв-ба Асхъан албыргIАн а-больнИца а-пнЫ а-тиф д-а-гА-д
-# text_transcription = l-án-g’əj á-skʷšə zk’-əj ẑ-ŝ-əj ʕʷə́n-ʕʷaẑa χʷ-ba ásqan albərʕán a-bal’níca a-pnə́ a-tíf d-a-gá-d
+# text_init = Лангьи асквшы зкьи жвшви гIвынгIважва хвба асхъан [албыргIан] абольница апны атиф дагад.
 # text_rus = В 1945-ом году её мать умерла от тифа.
 1	лангьи	аны	NOUN	_	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3	12	obj	_	Gloss=3sg.f.pr-мать-add
 2	асквшы	сквшы	NOUN	_	Definite=Def	12	obl	_	Gloss=def-год
@@ -59,8 +54,7 @@
 # sent_id = 5
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = ауат йгIарылцIла дампхьауата дгIанхатI
-# text_orth = ауат й-гIа-ры-л-цI-ла д-а-м-пхьа-уа-та д-гIа-н-ха-тI
-# text_transcription = awat j-ʕa-rə-l-c̣-la d-a-m-pχ’a-wa-ta d-ʕa-n-χa-ṭ
+# text_init = Ауат йгIарылцIла дампхьауата дгIанхатI.
 # text_rus = В связи с этими событиями она (мать) не училась (букв. осталась не учившейся).
 1	ауат	ауат	PRON	_	Number=Plur|PronType=Dem	2	nsubj	_	Gloss=dist.pl
 2	йгIарылцIла	цIра	VERB	_	Number[erg]=Plur|Person[erg]=3|RelType=Abs|VerbForm=NonFin	4	advcl	_	Gloss=rel.abs-csl-3pl.erg-loc.elat-проходить-ins
@@ -70,8 +64,7 @@
 # sent_id = 6
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = хIара хIнапхьуз асхъан хIхвыцквата хIнапхьуз асхъан ахIарыфква ллырдырын псайспадза зджьакI гIанылхквун
-# text_orth = хIара хI-н-а-пхь-у-з асхъан хI-хвыц-ква-та хI-н-а-пхь-у-з асхъан а-хIарыф-ква л-лы-р-дыры-н псайспа-дза зджьа-кI гIа-ны-л-х-кв-у-н
-# text_transcription = hara h-n-a-pχ’-əw-z asqan h-χʷəc-kʷa-ta h-n-a-pχ’-əw-z asqan a-harəf-kʷa l-lə-r-dərə-n psajspa-ʒa zǯ’a-ḳ ʕa-nə-l-χ-kʷ-əw-n
+# text_init = хIара хIнапхьуз асхъан хIхвыцквата хIнапхьуз асхъан ахIарыфква ллырдырын псайспадза зджьакI гIанылхквун.
 # text_rus = Когда мы учились, когда маленькими были, учились, она сама понемногу выучила буквы. Некоторые могла записывать.
 1	хIара	хIара	PRON	_	_	2	nsubj	_	Gloss=мы
 2	хIнапхьуз	апхьара	VERB	_	Gender[io]=Neut|Number[abs]=Plur|Number[io]=Sing|Person[abs]=1|Person[io]=3|Tense=Imp|VerbForm=NonFin	8	advcl	_	Gloss=1pl.abs-rel.temp-3sg.n.io-учиться-ipf-pst.nfin
@@ -88,8 +81,7 @@
 # sent_id = 7
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = ауи апшта зны хIыбызшвала апхьарта апны тшазсымрыхIазыруата санца асхъан гIвба гIазгын гIвба стетрадь йаныта хIпны сгIайхд
-# text_orth = ауИ апш-та зны хIы-бызшва-ла апхьарта а-пны тш-а-з-сы-м-ры-хIазыр-уа-та с-ан-ца асхъан гIв-ба гIа-з-гы-н гIвба с-тетрадь й-а-ны-та хI-пны с-гIа-й-х-д
-# text_transcription = awəj apš-ta znə hə-bəzŝa-la apχ’arta a-pnə č-a-z-sə-m-rə-hazər-wa-ta s-an-ca asqan ʕʷ-ba ʕa-z-gə-n ʕʷba s-tetrad' j-a-nə-ta h-pnə s-ʕa-j-χ-d
+# text_init = Ауи апшта зны хIыбызшвала апхьарта апны тшазсымрыхIазыруата санца асхъан гIвба гIазгын гIвба стетрадь йаныта хIпны сгIайхд.
 # text_rus = Однажды, когда я пошёл в школу, не подготовившись по родному языку, я получил двойку, двойку в тетрадь, и пошёл домой.
 1	ауи	ауи	ADV	_	Number=Sing|PronType=Dem	8	advmod	_	Gloss=dist.sg
 2	апшта	апш	ADV	_	_	1	fixed	_	Gloss=подобный-adv
@@ -111,8 +103,7 @@
 # sent_id = 8
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = хIан дгIасцIгIатI ари йамгIаныйа лхIвад
-# text_orth = хI-ан д-гIа-с-цIгIа-тI ари й-а-мгIаны-йа л-хIва-д
-# text_transcription = h-an d-ʕa-s-c̣ʕa-ṭ arəj j-a-mʕanə-ja l-hʷa-d
+# text_init = хIан дгIасцIгIатI, ари йамгIаныйа? лхIвад.
 # text_rus = Мама спросила меня, что это значит.
 1	хIан	аны	NOUN	_	Number[psor]=Plur|Person[psor]=1	2	nsubj	_	Gloss=1pl.pr-мать
 2	дгIасцIгIатI	цIгIара	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=1|Tense=Aor|VerbForm=Fin	0	root	_	Gloss=3sg.h.abs-csl-1sg.io-спрашивать-dcl
@@ -123,8 +114,7 @@
 # sent_id = 9
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = йласхIвд мама ари хIыбызшвала акIваб
-# text_orth = й-л-а-с-хIв-д мама ари хIы-бызшва-ла акIва-б
-# text_transcription = j-l-a-s-hʷ-d mama arəj hə-bəzŝa-la aḳʷa-b
+# text_init = ЙласхIвд, мама, ари хIыбызшвала акIваб.
 # text_rus = Я cказал, мама, это по родному языку.
 1	йласхIвд	хIвара	VERB	_	Gender[abs]=Neut|Gender[io]=Fem|Number[abs]=Sing|Number[erg]=Sing|Number[io]=Sing|Person[abs]=3|Person[erg]=1|Person[io]=3|Tense=Aor|VerbForm=Fin	0	root	_	Gloss=3sg.n.abs-3sg.f.io-dat-1sg.erg-говорить-dcl
 2	мама	мама	NOUN	_	_	5	vocative	_	Gloss=мама
@@ -135,8 +125,7 @@
 # sent_id = 10
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = угьымпхащума лхIвад уыбызшвала гIвба гIаугныс
-# text_orth = уы-гьы-м-пхащ-у-ма л-хIва-д уы-бызшва-ла гIв-ба гIа-уы-г-ныс
-# text_transcription = wə-g’ə-m-pχaš’-əw-ma l-hʷa-d wə́-bəzŝa-la ʕʷ-ba ʕa-wə-g-nəs
+# text_init = Угьымпхащума, лхIвад, уыбызшвала гIвба гIаугныс.
 # text_rus = Не стыдно тебе,  говорит, по твоему языку получать двойку.
 1	угьымпхащума	пхащара	VERB	_	Gender[abs]=Masc|Number[abs]=Sing|Person[abs]=2|Polarity=Neg|Tense=Pres|Int=Yes	0	root	_	Gloss=2sg.m.abs-neg.emp-neg-стыдиться-ipf-q
 2	лхIвад	хIвара	VERB	_	Gender[erg]=Fem|Number[erg]=Sing|Person[erg]=3|Tense=Aor|VerbForm=Fin	1	parataxis	_	Gloss=3sg.f.erg-говорить-dcl
@@ -147,8 +136,7 @@
 # sent_id = 11
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = сара ачIвыйа йысчпушыз
-# text_orth = сара ачIвы-йа йы-с-чп-у-шы-з
-# text_transcription = sara aĉ̣ʷə-ja jə-s-č’p-əw-šə-z
+# text_init = Сара ачIвыйа йысчпушыз?
 # text_rus = Что мне было делать?
 1	сара	сара	PRON	_	_	3	nsubj	_	Gloss=я
 2	ачIвыйа	ачIвыйа	VERB	_	_	0	root	_	Gloss=что-q.n
@@ -157,8 +145,7 @@
 # sent_id = 12
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = щта йгIазгд схIвад
-# text_orth = щта й-гIа-з-г-д с-хIва-д
-# text_transcription = š’ta j-ʕa-z-g-d s-hʷa-d
+# text_init = Щта, йгIазгд, схIвад.
 # text_rus = Да, говорю, получил.
 1	щта	щта	PART	_	_	2	discourse	_	Gloss=да
 2	йгIазгд	гара	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Aor|VerbForm=Fin	3	ccomp	_	Gloss=3sg.n.abs-csl-1sg.erg-нести-dcl
@@ -167,8 +154,7 @@
 # sent_id = 13
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = уыджвылцIта лхIвад унапIсаргвыцIа азна бацацIахва сызгIагы лхIвад
-# text_orth = уы-джвыл-цI-та л-хIва-д у-напIсаргвыцIа а-зна бацацIахва сы-з-гIа-гы л-хIва-д
-# text_transcription = wə-ʒ̂əl-c̣-ta l-hʷa-d wə-naṗsargʷəc̣a a-zna bacac̣aχʷa sə-z-ʕa-gə l-hʷa-d
+# text_init = УыджвылцIта, лхIвад, унапIсаргвыцIа азна бацацIахва сызгIагы лхIвад.
 # text_rus = Иди, сказала она. И принеси мне полную ладонь хворостины.
 1	уыджвылцIта	цIра	VERB	_	Gender[abs]=Masc|Number[abs]=Sing|Person[abs]=2	0	root	_	Gloss=2sg.m.abs-loc-проходить-adv
 2	лхIвад	хIвара	VERB	_	Gender[erg]=Fem|Number[erg]=Sing|Person[erg]=3|Tense=Aor|VerbForm=Fin	1	parataxis	_	Gloss=3sg.f.erg-говорить-dcl
@@ -181,8 +167,7 @@
 # sent_id = 14
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = саргьи ауи сазхъвыцуа сджвылцIд йзылгвалищд ари бацацIахва хIва
-# text_orth = сар-гьи ауи с-а-з-хъвыц-уа с-джвыл-цI-д й-зы-л-гвал-и-щд ари бацацIахва хIва
-# text_transcription = sar-g’əj awəj s-a-z-qʷəc-wa s-ʒ̂əl-c̣-d j-zə-l-gʷal-əj-š’d arəj bacac̣aχʷa hʷa
+# text_init = Саргьи ауи сазхъвыцуа сджвылцIд йзылгвалищд ари бацацIахва хIва.
 # text_rus = Я вышел, думая,  зачем же ей нужен этот хворост.
 1	саргьи	сара	PRON	_	_	4	nsubj	_	Gloss=я-add
 2	ауи	ауи	PRON	_	Number=Sing|PronType=Dem	3	iobj	_	Gloss=dist.sg
@@ -196,8 +181,7 @@
 # sent_id = 15
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = абацацIахваква ансызгIалгыз асхъан сарманапIы гIалкIын бзита абацацIахваквала сагвылрцыд
-# text_orth = а-бацацIахIва-ква ан-сы-з-гIа-л-г-(ыз) асхъан с-арма-напIы гIа-л-кIы-н бзи-та а-бацацIахва-ква-ла с-а-гвы-л-р-цы-д
-# text_transcription = a-bacac̣ahʷa-kʷa an-sə-z-ʕa-l-g-(əz) asqan s-arma-naṗə ʕa-l-ḳə-n bzəj-ta a-bacac̣aχʷa-kʷa-la s-a-gʷə-l-r-cə-d
+# text_init = АбацацIахваква ансызгIалг(ыз) асхъан сарманапIы гIалкIын, бзита абацацIахваквала сагвылрцыд.
 # text_rus = Когда я принес ей хворост, она взяла мою левую руку, и этими прутиками хвороста хорошо меня отлупила.
 1	абацацIахваква	бацацIахва	NOUN	_	Definite=Def|Number=Plur	2	obj	_	Gloss=def-хворост-pl
 2	ансызгIалгыз	гара	VERB	_	Gender[erg]=Fem|Number[erg]=Sing|Number[io]=Sing|Person[erg]=3|Person[io]=1|RelType=Tmp|Tense=Past|VerbForm=NonFin	5	advcl	_	Gloss=rel.tmp-1sg.io-ben-csl-3sg.f.erg-нести-pst.nfin
@@ -211,8 +195,7 @@
 # sent_id = 16
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = угьымпхьащума лхIвад уара йгьи убызшвата гIвба гIаугуата лхIвад
-# text_orth = у-гьы-м-пхьащ-у-ма л-хIва-д уара йгьи у-бызшва-та гIв-ба гIа-у-г-уа-та л-хIва-д
-# text_transcription = wə-g’ə-m-pχ’aš’-əw-ma l-hʷa-d wara jg’əj wə-bəzŝa-ta ʕʷ-ba ʕa-əw-g-wa-ta l-hʷa-d
+# text_init = Угьымпхьащума лхIвад уара йгьи убызшвата гIвба гIаугуата лхIвад
 # text_rus = Не стыдно тебе? – говорит, -- по родному языку получать двойку?
 1	угьымпхьащума	пхащара	VERB	_	Gender[abs]=Masc|Number[abs]=Sing|Person[abs]=2|Polarity=Neg|Int=Yes	0	root	_	Gloss=2sg.m.abs-neg.emp-neg-стыдиться-ipf-q
 2	лхIвад	хIвара	VERB	_	Gender[erg]=Fem|Number[erg]=Sing|Person[erg]=3|Tense=Aor|VerbForm=Fin	1	parataxis	_	Gloss=3sg.f.erg-говорить-dcl
@@ -226,8 +209,7 @@
 # sent_id = 17
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = сара сазрыпхьарыз дыгьсымамызд сгьампхьазд ауи сгвы йасуа адуней сыкIвб лхIвад
-# text_orth = сара с-а-з-ры-пхьа-ры-з ды-гь-сы-ма-мы-з-д с-гь-а-м-пхьа-з-д ауи с-гвы й-а-с-уа а-дуней сы-кIв-б л-хIва-д
-# text_transcription = sara s-a-z-rə-pχ’a-rə-z də-g’-sə-ma-mə-z-d s-g’-a-m-pχ’a-z-d awəj s-gʷə j-a-s-wa a-dəwnaj sə-kʷ-b l-hʷa-d
+# text_init = Сара сазрыпхьарыз дыгьсымамызд, сгьампхьазд ауи сгвы йасуа адуней сыкIвб лхIвад.
 # text_rus = Меня некому было учить, и я не училась -- с этой болью я существую на свете – сказала она.
 1	сара	сара	PRON	_	_	3	iobj	_	Gloss=я
 2	сазрыпхьарыз	апхьара	VERB	_	Caus=Yes|Gender[io]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=1|Person[io]=3|RelType=Erg|Tense=Subj2|VerbForm=NonFin	3	csubj	_	Gloss=1sg.abs-3sg.n.io-rel.erg-caus-учиться-fut.nfin-pst.nfin
@@ -243,9 +225,8 @@
 # sent_id = 18
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = ауаъа йгIашIарышвта хIан рыцхIа лхIатырла лара адуней дгьыквхым хIан рыцхIа лхIатырла лыбызшвагьи хIлырдырд хIыбызшвагьи хIлырдырд
-# text_orth = ауаъа й-гIа-шIа-ры-шв-та хI-ан рыцхIа л-хIатыр-ла лара а-дуней д-гьы-кв-хы-м хI-ан рыцхIа л-хIатыр-ла лы-бызшва-гьи хI-лы-р-дыр-д хIы-бызшва-гьи хI-лы-р-дыр-д
-# text_transcription = awaʔa j-ʕa-č̣a-rə-ŝ-ta h-an rəcha l-hatər-la lara a-dəwnaj d-g’ə-kʷ-χə-m h-an rəcha l-hatər-la lə-bəzŝa-g’əj h-lə-r-dər-d hə-bəzŝa-g’əj h-lə-r-dər-d
-# text_rus = С  того дня, благодаря нашей бедной маме, которой уже нет на свете, благодаря нашей бедной маме, мы изучали и её язык, и наш язык. 
+# text_init = Ауаъа йгIашIарышвта хIан рыцхIа лхIатырла, лара адуней дгьыквхым, хIан рыцхIа лхIатырла, лыбызшвагьи хIлырдырд, хIыбызшвагьи хIлырдырд.
+# text_rus = С того дня, благодаря нашей бедной маме, которой уже нет на свете, благодаря нашей бедной маме, мы изучали и её язык, и наш язык.
 1	ауаъа	ауаъа	PRON	_	_	2	obl	_	Gloss=dist.loc
 2	йгIашIарышвта	шIарышвра	VERB	_	Caus=Yes|Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Tense=Aor|VerbForm=NonFin	13	advcl	_	Gloss=3sg.n.abs-csl-loc-caus-падать-adv
 3	хIан	аны	NOUN	_	Number[psor]=Plur|Person[psor]=1	5	nmod	_	Gloss=1pl.pr-мать
@@ -265,8 +246,7 @@
 # sent_id = 19
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = апхьага гIасахвта араса йшгIахъсрышвтуа cан сыла дгIацIалид йанакIвызлакIгьи
-# text_orth = апхьага гIа-с-ахв-та араса й-ш-гIа-хъ-с-ры-швт-уа с-ан сы-ла д-гIа-цIа-л-и-д й-ан-акIвы-з-лакI-гьи
-# text_transcription = apχ’aga ʕa-s-aχʷ-ta arasa j-š-ʕa-q-s-rə-ŝt-wa s-an sə-la d-ʕa-c̣a-l-əj-d j-an-aḳʷə-z-la-ḳ-g’əj
+# text_init = Апхьага гIасахвта араса йшгIахъсрышвтуа cан сыла дгIацIалид йанакIвызлакIгьи.
 # text_rus = Как только беру книгу, мать всегда встает глазами.
 1	апхьага	апхьага	NOUN	_	Definite=Def	2	obj	_	Gloss=def+книга
 2	гIасахвта	гIахвра	VERB	_	Number[erg]=Sing|Person[erg]=1|VerbForm=NonFin	4	advcl	_	Gloss=csl-1sg.erg-брать-adv
@@ -280,8 +260,7 @@
 # sent_id = 20
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
 # text = ауи спсыхындзкIьа йгьсхъаштылхуашым йсзыгIанхатI тынхата сан рыцIха йылчIвыта
-# text_orth = ауи с-псы-хы-ндзкIьа й-гь-с-хъа-штыл-х-уа-шы-м й-с-зы-гIа-н-ха-тI тынха-та с-ан рыцхIа йы-л-чIвы-та
-# text_transcription = awəj s-psə-χə-nʒḳ’a j-g’-s-qa-štəl-χ-wa-šə-m j-s-zə-ʕa-n-χa-ṭ tənχa-ta s-an rəcha jə-l-ĉ̣ə-ta
+# text_init = Ауи спсыхындзкIьа йгьсхъаштылхуашым йсзыгIанхатI тынхата сан рыцIха йылчIвыта.
 # text_rus = ‘До конца смерти этого не забуду.  Это от матери навсегда остается.'
 1	ауи	ауи	PRON	_	Number=Sing|PronType=Dem	3	obj	_	Gloss=dist.sg
 2	спсыхындзкIьа	псра	VERB	_	Number[abs]=Sing|Person[abs]=1|VerbForm=Conv	3	advcl	_	Gloss=1sg.abs-умереть-re-until
@@ -291,4 +270,3 @@
 6	сан	аны	NOUN	_	Number[psor]=Sing|Person[psor]=1	8	iobj	_	Gloss=1sg.pr-мать
 7	рыцIха	рыцхIа	ADJ	_	_	6	amod	_	Gloss=бедный
 8	йылчIвыта	чIвыра	VERB	_	Gender[abs]=Com|Gender[io]=Fem|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=3|VerbForm=NonFin	4	advcl	_	Gloss=3sg.n.abs-3sg.f.io-принадлежать-adv
-

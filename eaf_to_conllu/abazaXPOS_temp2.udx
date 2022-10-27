@@ -66,6 +66,7 @@ _	_	mal	_	_	VERB	_	_
 _	_	rel.mnr	_	_	VERB	RelType=Mnr	_
 _	_	rel.loc	_	_	VERB	RelType=Loc	_
 _	_	imp	_	_	VERB	Mood=Imp	_
+_	_	imp.neg	_	_	VERB	Mood=Imp	_
 _	_	aor	_	_	VERB	Tense=Aor	_
 _	_	res	_	_	VERB	_	_
 _	_	cln	_	_	_	_	_

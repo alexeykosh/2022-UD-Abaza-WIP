@@ -1,0 +1,293 @@
+
+# sent_id = 1
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = сара сан дадыгьаб
+# text_orth = сарА с-ан д-адыгьА-б
+# text_transcription = sará s-an d-adəg’á-b
+# text_rus = Моя мама черкешенка.
+1	сара	_	_	_	_	_	_	_	Gloss=я
+2	сан	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	_	_	_	Gloss=1sg.pr-мама
+3	дадыгьаб	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.h.abs-черкес-npst.dcl
+
+# sent_id = 2
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = ауи асквшы зкьи жвшви гIважвы жвба аcхъан дгIадрид
+# text_orth = ауИ а-сквшы зкь-и жв-шв-и гIважвы жв-ба асхъан д-гIа-д-р-и-д
+# text_transcription = awəj a-skʷšə zk’-əj ẑ-ŝ-əj ʕʷaẑə ẑ-ba asqan d-ʕa-d-rə-j-d
+# text_rus = Она родилась в 1929-ом году.
+1	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+2	асквшы	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-год
+3	зкьи	_	_	_	_	_	_	_	Gloss=тысяча-coord
+4	жвшви	_	_	_	_	_	_	_	Gloss=девять-сто-coord
+5	гIважвы	_	_	_	_	_	_	_	Gloss=двадцать
+6	жвба	_	_	_	_	_	_	_	Gloss=девять-cl.n
+7	аcхъан	_	_	_	_	_	_	_	Gloss=время
+8	дгIадрид	_	VERB	_	Caus=Yes|Gender[abs]=Com|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin	_	_	_	Gloss=3sg.h.abs-csl-3pl.erg-caus-рождаться-dcl
+
+# sent_id = 3
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = лаба зкьи жвшви гIважвыжвах асхъан дырщитI
+# text_orth = л-абА зкь-и жв-шв-и гIважвЫ-жва-х Асхъан ды-р-щ-И-тI
+# text_transcription = l-abá zk’-əj ẑ-ŝ-əj ʕʷaẑə́-ẑa-χ ásqan də-r-š’-ə́j-ṭ
+# text_rus = Её отца убили в 1933-ом году.
+1	лаба	_	NOUN	_	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=2	_	_	_	Gloss=2sg.f.pr-отец
+2	зкьи	_	_	_	_	_	_	_	Gloss=тысяча-coord
+3	жвшви	_	_	_	_	_	_	_	Gloss=девять-сто-coord
+4	гIважвыжвах	_	_	_	_	_	_	_	Gloss=двадцать-десять-три
+5	асхъан	_	_	_	_	_	_	_	Gloss=время
+6	дырщитI	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.h.abs-3pl.erg-убивать-prs-dcl
+
+# sent_id = 4
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = лангьи асквшы зкьи жвшви гIвынгIважва хвба асхъан  абольница апны атиф дагад
+# text_orth = л-Ан-гьи А-сквшы зкь-и жв-шв-и гIвЫн-гIважва хв-ба Асхъан албыргIАн а-больнИца а-пнЫ а-тиф д-а-гА-д
+# text_transcription = l-án-g’əj á-skʷšə zk’-əj ẑ-ŝ-əj ʕʷə́n-ʕʷaẑa χʷ-ba ásqan albərʕán a-bal’níca a-pnə́ a-tíf d-a-gá-d
+# text_rus = В 1945-ом году её мать умерла от тифа.
+1	лангьи	_	NOUN	_	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3	_	_	_	Gloss=3sg.f.pr-мать-add
+2	асквшы	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-год
+3	зкьи	_	_	_	_	_	_	_	Gloss=тысяча-coord
+4	жвшви	_	_	_	_	_	_	_	Gloss=девять-сто-coord
+5	гIвынгIважва	_	_	_	_	_	_	_	Gloss=дважды-двадцать
+6	хвба	_	_	_	_	_	_	_	Gloss=пять-cl.n
+7	асхъан	_	_	_	_	_	_	_	Gloss=время
+8	албыргIан	_	_	_	_	_	_	_	Gloss=Эльбурган
+9	абольница	_	NOUN	_	Gender[psor]=Neut|Number[psor]=Sing|Person[psor]=3	_	_	_	Gloss=3sg.n.pr-больница
+10	апны	_	VERB	_	Gender[io]=Neut|Number[io]=Sing|Person[io]=3	_	_	_	Gloss=3sg.n.io-возле
+11	атиф	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-тиф
+12	дагад	_	VERB	_	Gender[abs]=Com|Gender[erg]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin	_	_	_	Gloss=3sg.h.abs-3sg.n.erg-нести-dcl
+
+# sent_id = 5
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = ауат йгIарылцIла дампхьауата дгIанхатI
+# text_orth = ауат й-гIа-ры-л-цI-ла д-а-м-пхьа-уа-та д-гIа-н-ха-тI
+# text_transcription = awat j-ʕa-rə-l-c̣-la d-a-m-pχ’a-wa-ta d-ʕa-n-χa-ṭ
+# text_rus = В связи с этими событиями она (мать) не училась (букв. осталась не учившейся).
+1	ауат	_	_	_	Number=Plur|PronType=Dem	_	_	_	Gloss=dist.pl
+2	йгIарылцIла	_	VERB	_	Number[erg]=Plur|Person[erg]=3|RelType=Abs	_	_	_	Gloss=rel.abs-csl-3pl.erg-loc.elat-проходить-ins
+3	дампхьауата	_	VERB	_	Gender[abs]=Com|Gender[io]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=3|Polarity=Neg	_	_	_	Gloss=3sg.h.abs-3sg.n.io-neg-учиться-ipf-adv
+4	дгIанхатI	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin	_	_	_	Gloss=3sg.h.abs-csl-loc-оставаться-dcl
+
+# sent_id = 6
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = хIара хIнапхьуз асхъан хIхвыцквата хIнапхьуз асхъан ахIарыфква ллырдырын псайспадза зджьакI гIанылхквун
+# text_orth = хIара хI-н-а-пхь-у-з асхъан хI-хвыц-ква-та хI-н-а-пхь-у-з асхъан а-хIарыф-ква л-лы-р-дыры-н псайспа-дза зджьа-кI гIа-ны-л-х-кв-у-н
+# text_transcription = hara h-n-a-pχ’-əw-z asqan h-χʷəc-kʷa-ta h-n-a-pχ’-əw-z asqan a-harəf-kʷa l-lə-r-dərə-n psajspa-ʒa zǯ’a-ḳ ʕa-nə-l-χ-kʷ-əw-n
+# text_rus = Когда мы учились, когда маленькими были, учились, она сама понемногу выучила буквы. Некоторые могла записывать.
+1	хIара	_	_	_	_	_	_	_	Gloss=мы
+2	хIнапхьуз	_	VERB	_	Gender[io]=Neut|Number[abs]=Plur|Number[io]=Sing|Person[abs]=1|Person[io]=3|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=1pl.abs-rel.temp-3sg.n.io-учиться-ipf-pst.nfin
+3	асхъан	_	_	_	_	_	_	_	Gloss=время
+4	хIхвыцквата	_	VERB	_	Number=Plur|Number[abs]=Plur|Person[abs]=1	_	_	_	Gloss=1pl.abs-маленький-pl-adv
+5	хIнапхьуз	_	VERB	_	Gender[io]=Neut|Number[abs]=Plur|Number[io]=Sing|Person[abs]=1|Person[io]=3|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=1pl.abs-rel.temp-3sg.n.io-учиться-ipf-pst.nfin
+6	асхъан	_	_	_	_	_	_	_	Gloss=время
+7	ахIарыфква	_	NOUN	_	Definite=Def|Number=Plur	_	_	_	Gloss=def-буква-pl
+8	ллырдырын	_	VERB	_	Caus=Yes|Gender[erg]=Fem|Gender[io]=Fem|Number[erg]=Sing|Number[io]=Sing|Person[erg]=3|Person[io]=3	_	_	_	Gloss=3sg.f.io-3sg.f.erg-caus-знать-pst
+9	псайспадза	_	_	_	_	_	_	_	Gloss=медленный-int
+10	зджьакI	_	NOUN	_	Definite=Ind	_	_	_	Gloss=один-indf
+11	гIанылхквун	_	VERB	_	Gender[erg]=Fem|Number=Plur|Number[erg]=Sing|Person[erg]=3	_	_	_	Gloss=csl-loc-3sg.f.erg-брать-pl-ipf-pst
+
+# sent_id = 7
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = ауи апшта зны хIыбызшвала апхьарта апны тшазсымрыхIазыруата санца асхъан гIвба гIазгын гIвба стетрадь йаныта хIпны сгIайхд
+# text_orth = ауИ апш-та зны хIы-бызшва-ла апхьарта а-пны тш-а-з-сы-м-ры-хIазыр-уа-та с-ан-ца асхъан гIв-ба гIа-з-гы-н гIвба с-тетрадь й-а-ны-та хI-пны с-гIа-й-х-д
+# text_transcription = awəj apš-ta znə hə-bəzŝa-la apχ’arta a-pnə č-a-z-sə-m-rə-hazər-wa-ta s-an-ca asqan ʕʷ-ba ʕa-z-gə-n ʕʷba s-tetrad' j-a-nə-ta h-pnə s-ʕa-j-χ-d
+# text_rus = Однажды, когда я пошёл в школу, не подготовившись по родному языку, я получил двойку, двойку в тетрадь, и пошёл домой.
+1	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+2	апшта	_	_	_	_	_	_	_	Gloss=подобный-adv
+3	зны	_	_	_	_	_	_	_	Gloss=один.раз
+4	хIыбызшвала	_	VERB	_	Number[psor]=Plur|Person[psor]=1	_	_	_	Gloss=1pl.pr-язык-ins
+5	апхьарта	_	NOUN	_	Definite=Def	_	_	_	Gloss=def+школа
+6	апны	_	VERB	_	Gender[io]=Neut|Number[io]=Sing|Person[io]=3	_	_	_	Gloss=3sg.n.io-возле
+7	тшазсымрыхIазыруата	_	VERB	_	Caus=Yes|Gender[io]=Neut|Number[erg]=Sing|Number[io]=Sing|Person[erg]=1|Person[io]=3|Polarity=Neg|Voice=Rfl	_	_	_	Gloss=rfl.abs-3sg.n.io-ben-1sg.erg-neg-caus-готовый-ipf-adv
+8	санца	_	VERB	_	Number[abs]=Sing|Person[abs]=1|RelType=Tmp	_	_	_	Gloss=1sg.abs-rel.tmp-идти
+9	асхъан	_	_	_	_	_	_	_	Gloss=время
+10	гIвба	_	_	_	_	_	_	_	Gloss=два-cl.n
+11	гIазгын	_	VERB	_	Number[erg]=Sing|Person[erg]=1	_	_	_	Gloss=csl-1sg.erg-нести-pst
+12	гIвба	_	_	_	_	_	_	_	Gloss=два
+13	стетрадь	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	_	_	_	Gloss=1sg.pr-тетрадь
+14	йаныта	_	VERB	_	Gender[abs]=Neut|Gender[io]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=3	_	_	_	Gloss=3sg.n.abs-3sg.n.io-быть.в-adv
+15	хIпны	_	VERB	_	Number[io]=Plur|Person[io]=1	_	_	_	Gloss=1pl.io-возле
+16	сгIайхд	_	VERB	_	Number[abs]=Sing|Person[abs]=1|VerbForm=Fin	_	_	_	Gloss=1sg.abs-csl-идти-re-dcl
+
+# sent_id = 8
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = хIан дгIасцIгIатI ари йамгIаныйа лхIвад
+# text_orth = хI-ан д-гIа-с-цIгIа-тI ари й-а-мгIаны-йа л-хIва-д
+# text_transcription = h-an d-ʕa-s-c̣ʕa-ṭ arəj j-a-mʕanə-ja l-hʷa-d
+# text_rus = Мама спросила меня, что это значит.
+1	хIан	_	NOUN	_	Number[psor]=Plur|Person[psor]=1	_	_	_	Gloss=1pl.pr-мать
+2	дгIасцIгIатI	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=1|VerbForm=Fin	_	_	_	Gloss=3sg.h.abs-csl-1sg.io-спрашивать-dcl
+3	ари	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=prox.sg
+4	йамгIаныйа	_	VERB	_	Gender[psor]=Neut|Number[psor]=Sing|Person[psor]=3|RelType=Abs	_	_	_	Gloss=rel.abs-3sg.n.pr-значение-q.n
+5	лхIвад	_	VERB	_	Gender[erg]=Fem|Number[erg]=Sing|Person[erg]=3|VerbForm=Fin	_	_	_	Gloss=3sg.f.erg-говорить-dcl
+
+# sent_id = 9
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = йласхIвд мама ари хIыбызшвала акIваб
+# text_orth = й-л-а-с-хIв-д мама ари хIы-бызшва-ла акIва-б
+# text_transcription = j-l-a-s-hʷ-d mama arəj hə-bəzŝa-la aḳʷa-b
+# text_rus = Я cказал, мама, это по родному языку.
+1	йласхIвд	_	VERB	_	Gender[abs]=Neut|Gender[io]=Fem|Number[abs]=Sing|Number[erg]=Sing|Number[io]=Sing|Person[abs]=3|Person[erg]=1|Person[io]=3|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-3sg.f.io-dat-1sg.erg-говорить-dcl
+2	мама	_	_	_	_	_	_	_	Gloss=мама
+3	ари	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=prox.sg
+4	хIыбызшвала	_	VERB	_	Number[psor]=Plur|Person[psor]=1	_	_	_	Gloss=1pl.pr-язык-ins
+5	акIваб	_	VERB	_	Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.n.io+cop-npst.dcl
+
+# sent_id = 10
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = угьымпхащума лхIвад уыбызшвала гIвба гIаугныс
+# text_orth = уы-гьы-м-пхащ-у-ма л-хIва-д уы-бызшва-ла гIв-ба гIа-уы-г-ныс
+# text_transcription = wə-g’ə-m-pχaš’-əw-ma l-hʷa-d wə́-bəzŝa-la ʕʷ-ba ʕa-wə-g-nəs
+# text_rus = Не стыдно тебе,  говорит, по твоему языку получать двойку.
+1	угьымпхащума	_	VERB	_	Gender[abs]=Masc|Int=Yes|Number[abs]=Sing|Person[abs]=2|Polarity=Neg	_	_	_	Gloss=2sg.m.abs-neg.emp-neg-стыдиться-ipf-q
+2	лхIвад	_	VERB	_	Gender[erg]=Fem|Number[erg]=Sing|Person[erg]=3|VerbForm=Fin	_	_	_	Gloss=3sg.f.erg-говорить-dcl
+3	уыбызшвала	_	VERB	_	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=2	_	_	_	Gloss=2sg.m.pr-язык-ins
+4	гIвба	_	_	_	_	_	_	_	Gloss=два-cl.n
+5	гIаугныс	_	VERB	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=2|VerbForm=Conv	_	_	_	Gloss=csl-2sg.m.erg-нести-purp
+
+# sent_id = 11
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = сара ачIвыйа йысчпушыз
+# text_orth = сара ачIвы-йа йы-с-чп-у-шы-з
+# text_transcription = sara aĉ̣ʷə-ja jə-s-č’p-əw-šə-z
+# text_rus = Что мне было делать?
+1	сара	_	_	_	_	_	_	_	Gloss=я
+2	ачIвыйа	_	_	_	_	_	_	_	Gloss=что-q.n
+3	йысчпушыз	_	VERB	_	Number[erg]=Sing|Person[erg]=1|RelType=Abs|Tense=Fut|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=rel.abs-1sg.erg-делать-ipf-fut-pst.nfin
+
+# sent_id = 12
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = щта йгIазгд схIвад
+# text_orth = щта й-гIа-з-г-д с-хIва-д
+# text_transcription = š’ta j-ʕa-z-g-d s-hʷa-d
+# text_rus = Да, говорю, получил.
+1	щта	_	_	_	_	_	_	_	Gloss=да
+2	йгIазгд	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-csl-1sg.erg-нести-dcl
+3	схIвад	_	VERB	_	Number[erg]=Sing|Person[erg]=1|VerbForm=Fin	_	_	_	Gloss=1sg.erg-говорить-dcl
+
+# sent_id = 13
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = уыджвылцIта лхIвад унапIсаргвыцIа азна бацацIахва сызгIагы лхIвад
+# text_orth = уы-джвыл-цI-та л-хIва-д у-напIсаргвыцIа а-зна бацацIахва сы-з-гIа-гы л-хIва-д
+# text_transcription = wə-ʒ̂əl-c̣-ta l-hʷa-d wə-naṗsargʷəc̣a a-zna bacac̣aχʷa sə-z-ʕa-gə l-hʷa-d
+# text_rus = Иди, сказала она. И принеси мне полную ладонь хворостины.
+1	уыджвылцIта	_	VERB	_	Gender[abs]=Masc|Number[abs]=Sing|Person[abs]=2	_	_	_	Gloss=2sg.m.abs-loc-проходить-adv
+2	лхIвад	_	VERB	_	Gender[erg]=Fem|Number[erg]=Sing|Person[erg]=3|VerbForm=Fin	_	_	_	Gloss=3sg.f.erg-говорить-dcl
+3	унапIсаргвыцIа	_	NOUN	_	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=2	_	_	_	Gloss=2sg.m.pr-ладонь
+4	азна	_	VERB	_	Gender[io]=Neut|Number[io]=Sing|Person[io]=3	_	_	_	Gloss=3sg.n.io-полный
+5	бацацIахва	_	_	_	_	_	_	_	Gloss=хворост
+6	сызгIагы	_	VERB	_	Mood=Imp|Number[io]=Sing|Person[io]=1	_	_	_	Gloss=1sg.io-ben-csl-нести(imp)|_|_|1sg.io|ben|csl|imp
+7	лхIвад	_	VERB	_	Gender[erg]=Fem|Number[erg]=Sing|Person[erg]=3|VerbForm=Fin	_	_	_	Gloss=3sg.f.erg-говорить-dcl
+
+# sent_id = 14
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = саргьи ауи сазхъвыцуа сджвылцIд йзылгвалищд ари бацацIахва хIва
+# text_orth = сар-гьи ауи с-а-з-хъвыц-уа с-джвыл-цI-д й-зы-л-гвал-и-щд ари бацацIахва хIва
+# text_transcription = sar-g’əj awəj s-a-z-qʷəc-wa s-ʒ̂əl-c̣-d j-zə-l-gʷal-əj-š’d arəj bacac̣aχʷa hʷa
+# text_rus = Я вышел, думая,  зачем же ей нужен этот хворост.
+1	саргьи	_	_	_	_	_	_	_	Gloss=я-add
+2	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+3	сазхъвыцуа	_	VERB	_	Gender[io]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=1|Person[io]=3	_	_	_	Gloss=1sg.abs-3sg.n.io-ben-думать-ipf
+4	сджвылцIд	_	VERB	_	Number[abs]=Sing|Person[abs]=1|VerbForm=Fin	_	_	_	Gloss=1sg.abs-loc-проходить-dcl
+5	йзылгвалищд	_	VERB	_	Gender[abs]=Neut|Gender[io]=Fem|Int=Yes|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=3|RelType=Rsn	_	_	_	Gloss=3sg.n.abs-rel.rsn-3sg.f.io-надеяться-qn-emp
+6	ари	_	_	_	_	_	_	_	Gloss=proх
+7	бацацIахва	_	_	_	_	_	_	_	Gloss=хворост
+8	хIва	_	_	_	_	_	_	_	Gloss=quot
+
+# sent_id = 15
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = абацацIахваква ансызгIалгыз асхъан сарманапIы гIалкIын бзита абацацIахваквала сагвылрцыд
+# text_orth = а-бацацIахIва-ква ан-сы-з-гIа-л-г-(ыз) асхъан с-арма-напIы гIа-л-кIы-н бзи-та а-бацацIахва-ква-ла с-а-гвы-л-р-цы-д
+# text_transcription = a-bacac̣ahʷa-kʷa an-sə-z-ʕa-l-g-(əz) asqan s-arma-naṗə ʕa-l-ḳə-n bzəj-ta a-bacac̣aχʷa-kʷa-la s-a-gʷə-l-r-cə-d
+# text_rus = Когда я принес ей хворост, она взяла мою левую руку, и этими прутиками хвороста хорошо меня отлупила.
+1	абацацIахваква	_	NOUN	_	Definite=Def|Number=Plur	_	_	_	Gloss=def-хворост-pl
+2	ансызгIалгыз	_	VERB	_	Gender[erg]=Fem|Number[erg]=Sing|Number[io]=Sing|Person[erg]=3|Person[io]=1|RelType=Tmp|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=rel.tmp-1sg.io-ben-csl-3sg.f.erg-нести-pst.nfin
+3	асхъан	_	_	_	_	_	_	_	Gloss=время
+4	сарманапIы	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	_	_	_	Gloss=1sg.pr-левый-рука
+5	гIалкIын	_	VERB	_	Gender[erg]=Fem|Number[erg]=Sing|Person[erg]=3	_	_	_	Gloss=csl-3sg.f.erg-ловить-pst
+6	бзита	_	_	_	_	_	_	_	Gloss=хороший-adv
+7	абацацIахваквала	_	VERB	_	Definite=Def|Number=Plur	_	_	_	Gloss=def-хворост-pl-ins
+8	сагвылрцыд	_	VERB	_	Caus=Yes|Gender[erg]=Fem|Gender[io]=Neut|Number[abs]=Sing|Number[erg]=Sing|Number[io]=Sing|Person[abs]=1|Person[erg]=3|Person[io]=3|VerbForm=Fin	_	_	_	Gloss=1sg.abs-3sg.n.io-loc-3sg.f.erg-caus-раскалываться-dcl
+
+# sent_id = 16
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = угьымпхьащума лхIвад уара йгьи убызшвата гIвба гIаугуата лхIвад
+# text_orth = у-гьы-м-пхьащ-у-ма л-хIва-д уара йгьи у-бызшва-та гIв-ба гIа-у-г-уа-та л-хIва-д
+# text_transcription = wə-g’ə-m-pχ’aš’-əw-ma l-hʷa-d wara jg’əj wə-bəzŝa-ta ʕʷ-ba ʕa-əw-g-wa-ta l-hʷa-d
+# text_rus = Не стыдно тебе? – говорит, -- по родному языку получать двойку?
+1	угьымпхьащума	_	VERB	_	Gender[abs]=Masc|Int=Yes|Number[abs]=Sing|Person[abs]=2|Polarity=Neg	_	_	_	Gloss=2sg.m.abs-neg.emp-neg-стыдиться-ipf-q
+2	лхIвад	_	VERB	_	Gender[erg]=Fem|Number[erg]=Sing|Person[erg]=3|VerbForm=Fin	_	_	_	Gloss=3sg.f.erg-говорить-dcl
+3	уара	_	_	_	_	_	_	_	Gloss=ты.m
+4	йгьи	_	_	_	_	_	_	_	Gloss=и
+5	убызшвата	_	NOUN	_	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=2	_	_	_	Gloss=2sg.m.pr-язык-adv
+6	гIвба	_	_	_	_	_	_	_	Gloss=два-cl.n
+7	гIаугуата	_	VERB	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=2	_	_	_	Gloss=csl-2sg.m.erg-нести-ipf-adv
+8	лхIвад	_	VERB	_	Gender[erg]=Fem|Number[erg]=Sing|Person[erg]=3|VerbForm=Fin	_	_	_	Gloss=3sg.f.erg-говорить-dcl
+
+# sent_id = 17
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = сара сазрыпхьарыз дыгьсымамызд сгьампхьазд ауи сгвы йасуа адуней сыкIвб лхIвад
+# text_orth = сара с-а-з-ры-пхьа-ры-з ды-гь-сы-ма-мы-з-д с-гь-а-м-пхьа-з-д ауи с-гвы й-а-с-уа а-дуней сы-кIв-б л-хIва-д
+# text_transcription = sara s-a-z-rə-pχ’a-rə-z də-g’-sə-ma-mə-z-d s-g’-a-m-pχ’a-z-d awəj s-gʷə j-a-s-wa a-dəwnaj sə-kʷ-b l-hʷa-d
+# text_rus = Меня некому было учить, и я не училась -- с этой болью я существую на свете – сказала она.
+1	сара	_	_	_	_	_	_	_	Gloss=я
+2	сазрыпхьарыз	_	VERB	_	Caus=Yes|Gender[io]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=1|Person[io]=3|RelType=Erg|Tense=Fut2|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=1sg.abs-3sg.n.io-rel.erg-caus-учиться-fut.nfin-pst.nfin
+3	дыгьсымамызд	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=1|Polarity=Neg|Tense=Past|VerbForm=Fin|VerbForm=NonFin	_	_	_	Gloss=3sg.h.abs-neg.emp-1sg.io-иметься-neg-pst.nfin-dcl
+4	сгьампхьазд	_	VERB	_	Gender[io]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=1|Person[io]=3|Polarity=Neg|Tense=Past|VerbForm=Fin|VerbForm=NonFin	_	_	_	Gloss=1sg.abs-neg.emp-3sg.n.io-neg-учиться-pst.nfin-dcl
+5	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+6	сгвы	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	_	_	_	Gloss=1sg.pr-сердце
+7	йасуа	_	VERB	_	Gender[abs]=Neut|Gender[io]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=3	_	_	_	Gloss=3sg.n.abs-3sg.n.io-бить-ipf
+8	адуней	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-мир
+9	сыкIвб	_	VERB	_	Number[abs]=Sing|Person[abs]=1|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=1sg.abs-быть.на-npst.dcl
+10	лхIвад	_	VERB	_	Gender[erg]=Fem|Number[erg]=Sing|Person[erg]=3|VerbForm=Fin	_	_	_	Gloss=3sg.f.erg-говорить-dcl
+
+# sent_id = 18
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = ауаъа йгIашIарышвта хIан рыцхIа лхIатырла лара адуней дгьыквхым хIан рыцхIа лхIатырла лыбызшвагьи хIлырдырд хIыбызшвагьи хIлырдырд
+# text_orth = ауаъа й-гIа-шIа-ры-шв-та хI-ан рыцхIа л-хIатыр-ла лара а-дуней д-гьы-кв-хы-м хI-ан рыцхIа л-хIатыр-ла лы-бызшва-гьи хI-лы-р-дыр-д хIы-бызшва-гьи хI-лы-р-дыр-д
+# text_transcription = awaʔa j-ʕa-č̣a-rə-ŝ-ta h-an rəcha l-hatər-la lara a-dəwnaj d-g’ə-kʷ-χə-m h-an rəcha l-hatər-la lə-bəzŝa-g’əj h-lə-r-dər-d hə-bəzŝa-g’əj h-lə-r-dər-d
+# text_rus = С  того дня, благодаря нашей бедной маме, которой уже нет на свете, благодаря нашей бедной маме, мы изучали и её язык, и наш язык. 
+1	ауаъа	_	_	_	_	_	_	_	Gloss=dist.loc
+2	йгIашIарышвта	_	VERB	_	Caus=Yes|Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Gloss=3sg.n.abs-csl-loc-caus-падать-adv
+3	хIан	_	NOUN	_	Number[psor]=Plur|Person[psor]=1	_	_	_	Gloss=1pl.pr-мать
+4	рыцхIа	_	_	_	_	_	_	_	Gloss=бедный
+5	лхIатырла	_	VERB	_	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3	_	_	_	Gloss=3sg.f.pr-услуга-ins
+6	лара	_	_	_	_	_	_	_	Gloss=она
+7	адуней	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-мир
+8	дгьыквхым	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Polarity=Neg	_	_	_	Gloss=3sg.h.abs-neg.emp-быть.на-re-neg
+9	хIан	_	NOUN	_	Number[psor]=Plur|Person[psor]=1	_	_	_	Gloss=1pl.pr-мать
+10	рыцхIа	_	_	_	_	_	_	_	Gloss=бедный
+11	лхIатырла	_	VERB	_	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3	_	_	_	Gloss=3sg.f.pr-услуга-ins
+12	лыбызшвагьи	_	NOUN	_	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3	_	_	_	Gloss=3sg.f.pr-язык-add
+13	хIлырдырд	_	VERB	_	Caus=Yes|Gender[erg]=Fem|Number[erg]=Sing|Number[io]=Plur|Person[erg]=3|Person[io]=1|VerbForm=Fin	_	_	_	Gloss=1pl.io-3sg.f.erg-caus-знать-dcl
+14	хIыбызшвагьи	_	NOUN	_	Number[psor]=Plur|Person[psor]=1	_	_	_	Gloss=1pl.pr-язык-add
+15	хIлырдырд	_	VERB	_	Caus=Yes|Gender[erg]=Fem|Number[erg]=Sing|Number[io]=Plur|Person[erg]=3|Person[io]=1|VerbForm=Fin	_	_	_	Gloss=1pl.io-3sg.f.erg-caus-знать-dcl
+
+# sent_id = 19
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = апхьага гIасахвта араса йшгIахъсрышвтуа cан сыла дгIацIалид йанакIвызлакIгьи
+# text_orth = апхьага гIа-с-ахв-та араса й-ш-гIа-хъ-с-ры-швт-уа с-ан сы-ла д-гIа-цIа-л-и-д й-ан-акIвы-з-лакI-гьи
+# text_transcription = apχ’aga ʕa-s-aχʷ-ta arasa j-š-ʕa-q-s-rə-ŝt-wa s-an sə-la d-ʕa-c̣a-l-əj-d j-an-aḳʷə-z-la-ḳ-g’əj
+# text_rus = Как только беру книгу, мать всегда встает глазами.
+1	апхьага	_	NOUN	_	Definite=Def	_	_	_	Gloss=def+книга
+2	гIасахвта	_	VERB	_	Number[erg]=Sing|Person[erg]=1	_	_	_	Gloss=csl-1sg.erg-брать-adv
+3	араса	_	_	_	_	_	_	_	Gloss=prox.adv
+4	йшгIахъсрышвтуа	_	VERB	_	Caus=Yes|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|RelType=Mnr	_	_	_	Gloss=3sg.n.abs-rel.mnr-csl-loc.elat-1sg.erg-caus-падать-ipf
+5	cан	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	_	_	_	Gloss=1sg.pr-мать
+6	сыла	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	_	_	_	Gloss=1sg.pr-глаз
+7	дгIацIалид	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.h.abs-csl-loc-войти-prs-dcl
+8	йанакIвызлакIгьи	_	VERB	_	Definite=Ind|Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|RelType=Tmp|Tense=Past|VerbForm=Conv|VerbForm=NonFin	_	_	_	Gloss=3sg.n.abs-rel.tmp-cop-pst.nfin-cnc-indf-add
+
+# sent_id = 20
+# text_name = ELAN/O_dvojke_DzhuzhuevKM_09072017_checked.eaf
+# text = ауи спсыхындзкIьа йгьсхъаштылхуашым йсзыгIанхатI тынхата сан рыцIха йылчIвыта
+# text_orth = ауи с-псы-хы-ндзкIьа й-гь-с-хъа-штыл-х-уа-шы-м й-с-зы-гIа-н-ха-тI тынха-та с-ан рыцхIа йы-л-чIвы-та
+# text_transcription = awəj s-psə-χə-nʒḳ’a j-g’-s-qa-štəl-χ-wa-šə-m j-s-zə-ʕa-n-χa-ṭ tənχa-ta s-an rəcha jə-l-ĉ̣ə-ta
+# text_rus = ‘До конца смерти этого не забуду.  Это от матери навсегда остается.'
+1	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+2	спсыхындзкIьа	_	VERB	_	Number[abs]=Sing|Person[abs]=1|VerbForm=Conv	_	_	_	Gloss=1sg.abs-умереть-re-until
+3	йгьсхъаштылхуашым	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=1|Polarity=Neg|Tense=Fut	_	_	_	Gloss=3sg.n.abs-neg.emp-1sg.io-loc-забывать-re-ipf-fut-neg
+4	йсзыгIанхатI	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=1|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-1sg.io-ben-csl-loc-оставаться-dcl
+5	тынхата	_	_	_	_	_	_	_	Gloss=наследие-adv
+6	сан	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	_	_	_	Gloss=1sg.pr-мать
+7	рыцIха	_	_	_	_	_	_	_	Gloss=бедный
+8	йылчIвыта	_	VERB	_	Gender[abs]=Neut|Gender[io]=Fem|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=3	_	_	_	Gloss=3sg.n.abs-3sg.f.io-принадлежать-adv
