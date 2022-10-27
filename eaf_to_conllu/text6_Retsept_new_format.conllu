@@ -1,0 +1,251 @@
+
+# sent_id = 1
+# text_name = ELAN/2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
+# text = квтIагъьгIважва гIатурычIвитIта
+# text_orth = квтIАгъьгIважва гIатурЫчIвитIта
+# text_transcription = kʷṭáʁ’-ʕʷa-ẑa ʕa-tə-w-rə́-ĉ̣-əj-ṭ-ta
+# text_rus = Слив двадцать яиц
+1	квтIагъьгIважва	_	_	_	_	_	_	_	Gloss=яйцо-два-десять
+2	гIатурычIвитIта	_	VERB	_	Caus=Yes|Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=2|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=csl-loc-2sg.m.erg-caus-литься-prs-dcl-adv
+
+# sent_id = 2
+# text_name = ELAN/2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
+# text = ауи аъара столовая ложка дзыта йалаучвахитI
+# text_orth = ауи аъарА столовая ложка дзЫ-та й-А-ла-у-чва-х-и-тI
+# text_transcription = awə́j aʔará столовая ложка ʒə́-ta j-á-la-w-ĉa-χ-əj-ṭ
+# text_rus = Туда вливаешь столько же столовых ложек воды.
+1	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+2	аъара	_	_	_	_	_	_	_	Gloss=столько
+3	столовая	_	_	_	_	_	_	_	Gloss=столовая
+4	ложка	_	_	_	_	_	_	_	Gloss=ложка
+5	дзыта	_	_	_	_	_	_	_	Gloss=вода-adv
+6	йалаучвахитI	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Gender[io]=Neut|Number[abs]=Sing|Number[erg]=Sing|Number[io]=Sing|Person[abs]=3|Person[erg]=2|Person[io]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-3sg.n.io-loc-2sg.m.erg-вливать-re-prs-dcl
+
+# sent_id = 3
+# text_name = ELAN/2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
+# text = мхIачIва мхIачIва столько мхIачIва дзыта йалаучвахитI
+# text_orth = мхIАчIва мхIАчIва столько мхIАчIва дзЫ-та й-А-ла-у-чва-х-и-тI
+# text_transcription = mháĉ̣a mháĉ̣a столько mháĉ̣a ʒə́-ta j-á-la-w-ĉa-χ-əj-ṭ
+# text_rus = Вливаешь столько же ложек воды.
+1	мхIачIва	_	_	_	_	_	_	_	Gloss=ложка
+2	мхIачIва	_	_	_	_	_	_	_	Gloss=ложка
+3	столько	_	_	_	_	_	_	_	Gloss=столько
+4	мхIачIва	_	_	_	_	_	_	_	Gloss=ложка
+5	дзыта	_	_	_	_	_	_	_	Gloss=вода-adv
+6	йалаучвахитI	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Gender[io]=Neut|Number[abs]=Sing|Number[erg]=Sing|Number[io]=Sing|Person[abs]=3|Person[erg]=2|Person[io]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-3sg.n.io-loc-2sg.m.erg-вливать-re-prs-dcl
+
+# sent_id = 4
+# text_name = ELAN/2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
+# text = афачыгIв угвы йшангIалуа уа йшутахъу йутахъызтын хъгIадзата йчпа йутахъызтын
+# text_orth = а-фачЫгIв у-гвЫ й-ш-а-н-гIАл-уа уа й-ш-у-тахъ-У й-у-тахъЫ-зтын хъгIа-дзА-та й-чпА й-у-тахъЫ-зтын
+# text_transcription = a-fač’ə́ʕʷ w-gʷə́ j-š-a-n-ʕál-wa wa j-šə-w-taq-ə́w jə-w-taqə́-ztən qʕa-ʒá-ta j-č’pá jə-w-taqə́-ztən
+# text_rus = Сахар - как сердцу угодно, как хочешь, если хочешь, очень сладко сделай, если хочешь.
+1	афачыгIв	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-сахар
+2	угвы	_	NOUN	_	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=2	_	_	_	Gloss=2sg.m.pr-сердце
+3	йшангIалуа	_	VERB	_	Gender[abs]=Neut|Gender[io]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=3|RelType=Mnr	_	_	_	Gloss=3sg.n.abs-rel.mnr-3sg.n.io-loc-соглашаться-ipf
+4	уа	_	_	_	_	_	_	_	Gloss=ты.m
+5	йшутахъу	_	VERB	_	Gender[abs]=Neut|Gender[io]=Masc|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=2|RelType=Mnr	_	_	_	Gloss=3sg.n.abs-rel.mnr-2sg.m.io-нужно-ipf
+6	йутахъызтын	_	VERB	_	Gender[abs]=Neut|Gender[io]=Masc|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=2|VerbForm=Conv	_	_	_	Gloss=3sg.n.abs-2sg.m.io-нужно-cond.real
+7	хъгIадзата	_	_	_	_	_	_	_	Gloss=сладкий-int-adv
+8	йчпа	_	VERB	_	Gender[abs]=Neut|Mood=Imp|Number[abs]=Sing|Person[abs]=3	_	_	_	Gloss=3sg.n.abs-делать(imp)|_|_|3sg.n.abs|imp
+9	йутахъызтын	_	VERB	_	Gender[abs]=Neut|Gender[io]=Masc|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=2|VerbForm=Conv	_	_	_	Gloss=3sg.n.abs-2sg.m.io-нужно-cond.real
+
+# sent_id = 5
+# text_name = ELAN/2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
+# text = ауи чвгьата йыугIватIитI йыугIватIитI
+# text_orth = ауи чвгьА-та йы-у-гIватI-И-тI йы-у-гIватI-И-тI
+# text_transcription = awə́j ĉg’á-ta jə-w-ʕʷaṭ-ə́j-ṭ jə-w-ʕʷaṭ-ə́j-ṭ
+# text_rus = Это сильно мешаешь.
+1	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+2	чвгьата	_	_	_	_	_	_	_	Gloss=злой-adv
+3	йыугIватIитI	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-2sg.m.erg-мешать-prs-dcl
+4	йыугIватIитI	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-2sg.m.erg-мешать-prs-dcl
+
+# sent_id = 6
+# text_name = ELAN/2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
+# text = ари йгIватIитI совсем йапцIхвхвауата почти час можно йыугIватIуаштI сахIаткIдза
+# text_orth = арИ й-гIватI-И-тI совсем йа-п-цI-хвхва-уА-та почти час можно йы-у-гIватI-уА-ш-тI сахIАт-кI-дза
+# text_transcription = arə́j j-ʕʷaṭ-ə́j-ṭ совсем ja-p-c̣-χʷχʷa-wá-ta почти час можно jə-w-ʕʷaṭ-wá-š-ṭ sahát-ḳ-ʒa
+# text_rus = Мешаешь, пока тесто совсем не растянется, можно мешать до часа.
+1	ари	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=prox.sg
+2	йгIватIитI	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-мешать-prs-dcl
+3	совсем	_	_	_	_	_	_	_	Gloss=совсем
+4	йапцIхвхвауата	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Gloss=3sg.n.abs-loc-loc-растягиваться-ipf-adv
+5	почти	_	_	_	_	_	_	_	Gloss=почти
+6	час	_	_	_	_	_	_	_	Gloss=час
+7	можно	_	_	_	_	_	_	_	Gloss=можно
+8	йыугIватIуаштI	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Tense=Fut|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-2sg.m.erg-мешать-ipf-fut-dcl
+9	сахIаткIдза	_	NOUN	_	Definite=Ind	_	_	_	Gloss=час-indf-lim
+
+# sent_id = 7
+# text_name = ELAN/2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
+# text = ауаъа йалаупсахитI шыла шылала йыукIвхIитIта
+# text_orth = ауАъа й-А-ла-у-пса-х-и-тI шЫла шЫла-ла йы-у-кIвхI-И-тI-та
+# text_transcription = awáʔa j-á-la-w-psa-χ-əj-ṭ šə́la šə́la-la jə-w-ḳʷh-ə́j-ṭ-ta
+# text_rus = Туда добавляешь муку, мукой замешиваешь.
+1	ауаъа	_	_	_	_	_	_	_	Gloss=dist.loc
+2	йалаупсахитI	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Gender[io]=Neut|Number[abs]=Sing|Number[erg]=Sing|Number[io]=Sing|Person[abs]=3|Person[erg]=2|Person[io]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-3sg.n.io-loc-2sg.m.erg-класть-re-prs-dcl
+3	шыла	_	_	_	_	_	_	_	Gloss=мука
+4	шылала	_	VERB	_	_	_	_	_	Gloss=мука-ins
+5	йыукIвхIитIта	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-2sg.m.erg-месить-prs-dcl-adv
+
+# sent_id = 8
+# text_name = ELAN/2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
+# text = ашылала йанукIвхIара асхъан йуымрыбагъьан
+# text_orth = а-шЫла-ла й-анЫ-у-кIвхIа-ра Асхъан й-уы-м-рЫбагъьа-н
+# text_transcription = a-šə́la-la j-anə́-w-ḳʷha-ra ásqan j-wə-m-rə́baʁ’a-n
+# text_rus = Когда замешиваешь мукой, не делай [тесто] тугим.
+1	ашылала	_	VERB	_	Definite=Def	_	_	_	Gloss=def-мука-ins
+2	йанукIвхIара	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|RelType=Tmp|Tense=Fut2|VerbForm=NonFin	_	_	_	Gloss=3sg.n.abs-rel.tmp-2sg.m.erg-месить-fut.nfin
+3	асхъан	_	_	_	_	_	_	_	Gloss=время
+4	йуымрыбагъьан	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Mood=Imp|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polarity=Neg	_	_	_	Gloss=3sg.n.abs-2sg.m.erg-neg-укреплять-imp.neg
+
+# sent_id = 9
+# text_name = ELAN/2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
+# text = йуымрыбагъьауата ауи дыната йчпата йутахъызтын арса чIврыта цIагIвта гIвмачвакI зквшвауала йрыгIв арса лентIа апшта
+# text_orth = й-уы-м-рЫбагъьа-уа-та ауИ дЫна-та й-чпА-та й-у-тахъЫ-зтын Арса чIврЫ-та цIАгIв-та гIв-мАчва-кI з-кв-шва-уА-ла й-рЫгIв Арса лЕнтIа Апш-та
+# text_transcription = j-wə-m-rə́baʁ’a-wa-ta awə́j də́na-ta j-č’pá-ta jə-w-taqə́-ztən ársa ĉ̣rə́-ta c̣áʕʷ-ta ʕʷ-máĉa-ḳ z-kʷ-ŝa-wá-la j-rə́ʕʷ ársa lenṭa ápš-ta
+# text_rus = Не замешивай туго, если хочешь, раскатай вот так длинно и тонко, так что два пальца помещаются, как ленту.
+1	йуымрыбагъьауата	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polarity=Neg	_	_	_	Gloss=3sg.n.abs-2sg.m.erg-neg-укреплять-ipf-adv
+2	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+3	дыната	_	_	_	_	_	_	_	Gloss=filler-adv
+4	йчпата	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Gloss=3sg.n.abs-делать-adv
+5	йутахъызтын	_	VERB	_	Gender[abs]=Neut|Gender[io]=Masc|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=2|VerbForm=Conv	_	_	_	Gloss=3sg.n.abs-2sg.m.io-нужно-cond.real
+6	арса	_	_	_	_	_	_	_	Gloss=так
+7	чIврыта	_	_	_	_	_	_	_	Gloss=длинный-adv
+8	цIагIвта	_	_	_	_	_	_	_	Gloss=тонкий-adv
+9	гIвмачвакI	_	_	_	_	_	_	_	Gloss=два-палец-unit
+10	зквшвауала	_	VERB	_	RelType=Io	_	_	_	Gloss=rel.io-loc-поместиться-ipf-ins
+11	йрыгIв	_	VERB	_	Gender[abs]=Neut|Mood=Imp|Number[abs]=Sing|Person[abs]=3	_	_	_	Gloss=3sg.n.abs-раскатать(imp)|_|_|3sg.n.abs|imp
+12	арса	_	_	_	_	_	_	_	Gloss=так
+13	лентIа	_	_	_	_	_	_	_	Gloss=лента
+14	апшта	_	_	_	_	_	_	_	Gloss=подобный-adv
+
+# sent_id = 10
+# text_name = ELAN/2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
+# text = ауи ачашврыгIвга гIахв ауаъа йакIвыршата
+# text_orth = ауи а-чашв-рЫгIв-га гIА-хв ауАъа й-А-кIвы-р-ша-та
+# text_transcription = awə́j a-č’aŝ-rə́ʕʷ-ga ʕá-χʷ awáʔa j-á-ḳʷə-r-ša-ta
+# text_rus = Возьми скалку и намотай.
+1	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+2	ачашврыгIвга	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-пирожок-раскатать-nobj
+3	гIахв	_	VERB	_	Mood=Imp	_	_	_	Gloss=csl-взять(imp)|_|_|csl|imp
+4	ауаъа	_	_	_	_	_	_	_	Gloss=dist.loc
+5	йакIвыршата	_	VERB	_	Caus=Yes|Gender[abs]=Neut|Gender[io]=Neut|Mood=Imp|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=3	_	_	_	Gloss=3sg.n.abs-3sg.n.io-loc-caus-окружать(imp)-adv|_|_|3sg.n.abs|3sg.n.io|loc|caus|imp|adv
+
+# sent_id = 11
+# text_name = ELAN/2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
+# text = акастрюль цIолата хвша дына масло тачвата ауи йтаргылта ауи тшакIвнахуа тшакIвнахуамца арса йдута йбабадза йцитI
+# text_orth = а-кастрЮль цIолА-та хвшА дЫна мАсло та-чвА-та ауИ й-та-р-гЫл-та ауИ тш-А-кIв-на-х-уа тш-А-кIв-на-х-уа-мца Арса й-дУ-та й-бАба-дза й-ц-И-тI
+# text_transcription = a-kastrjúɮ c̣awlá-ta χʷšá də́na масло ta-ĉá-ta awə́j j-ta-r-gə́l-ta awə́j č-á-ḳʷ-na-χ-wa č-á-ḳʷ-na-χ-wa-mca ársa j-də́w-ta j-bába-ʒa j-c-ə́j-ṭ
+# text_rus = В глубокую кастрюлю налей масло, поставь это [скалку с тестом], оно вот так отслаивается, получается большим и пышным.
+1	акастрюль	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-кастрюля
+2	цIолата	_	_	_	_	_	_	_	Gloss=глубокий-adv
+3	хвша	_	_	_	_	_	_	_	Gloss=масло
+4	дына	_	_	_	_	_	_	_	Gloss=filler
+5	масло	_	_	_	_	_	_	_	Gloss=масло
+6	тачвата	_	VERB	_	Mood=Imp	_	_	_	Gloss=loc-лить(imp)-adv|_|_|loc|imp|adv
+7	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+8	йтаргылта	_	VERB	_	Caus=Yes|Gender[abs]=Neut|Mood=Imp|Number[abs]=Sing|Person[abs]=3	_	_	_	Gloss=3sg.n.abs-loc-caus-ставить(imp)-adv|_|_|3sg.n.abs|loc|caus|imp|adv
+9	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+10	тшакIвнахуа	_	VERB	_	Gender[erg]=Neut|Gender[io]=Neut|Number[erg]=Sing|Number[io]=Sing|Person[erg]=3|Person[io]=3|Voice=Rfl	_	_	_	Gloss=rfl.abs-3sg.n.io-loc-3sg.n.erg-брать-ipf
+11	тшакIвнахуамца	_	VERB	_	Gender[erg]=Neut|Gender[io]=Neut|Number[erg]=Sing|Number[io]=Sing|Person[erg]=3|Person[io]=3|VerbForm=Conv|Voice=Rfl	_	_	_	Gloss=rfl.abs-3sg.n.io-loc-3sg.n.erg-брать-ipf-cvb
+12	арса	_	_	_	_	_	_	_	Gloss=так
+13	йдута	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Gloss=3sg.n.abs-большой-adv
+14	йбабадза	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Gloss=3sg.n.abs-пышный-int
+15	йцитI	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-идти-prs-dcl
+
+# sent_id = 12
+# text_name = ELAN/2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
+# text = азджьакIгьи са йшсчпауа ауи акIвапI круглата кататьсчпитIта арса цIагъата
+# text_orth = А-зджьа-кI-гьи сА й-ш-с-чпа-уА ауи А-кIва-пI крУгла-та катАть-с-чп-и-тI-та Арса цIагъА-та
+# text_transcription = á-zǯ’a-ḳ-g’əj sá j-š-s-č’pa-wá awə́j á-ḳʷa-ṗ krugla-ta katát’-s-č’p-əj-ṭ-ta ársa c̣aʁá-ta
+# text_rus = Другие... Вот как я делаю: катаю круглую, такую тонкую.
+1	азджьакIгьи	_	NOUN	_	Definite=Def|Definite=Ind	_	_	_	Gloss=def-один-indf-add
+2	са	_	_	_	_	_	_	_	Gloss=я
+3	йшсчпауа	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|RelType=Mnr	_	_	_	Gloss=3sg.n.abs-rel.mnr-1sg.erg-делать-ipf
+4	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+5	акIвапI	_	VERB	_	Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.n.io+cop-npst.dcl
+6	круглата	_	_	_	_	_	_	_	Gloss=круглый-adv
+7	кататьсчпитIта	_	VERB	_	Number[erg]=Sing|Person[erg]=1|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=катать-1sg.erg-делать-prs-dcl-adv
+8	арса	_	_	_	_	_	_	_	Gloss=так
+9	цIагъата	_	_	_	_	_	_	_	Gloss=тонкий-adv
+
+# sent_id = 13
+# text_name = ELAN/2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
+# text = ауи ахIвспала агвы йагIвсырсахитIта йаквсырчIвитIта
+# text_orth = ауи А-хIвспа-ла а-гвЫ й-а-гIв-сы-рса-х-И-тI-та й-а-кв-сы-р-чIв-И-тI-та
+# text_transcription = áwə́j á-hʷspa-la a-gʷə́ j-a-ʕʷ-sə-rsa-χ-ə́j-ṭ-ta j-a-kʷ-sə-r-ĉ̣-ə́j-ṭ-ta
+# text_rus = Разрезаю ножом посередине, прижимаю друг к другу.
+1	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+2	ахIвспала	_	VERB	_	Definite=Def	_	_	_	Gloss=def-нож-ins
+3	агвы	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-сердце
+4	йагIвсырсахитIта	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|RcpType=Io|Tense=Pres|VerbForm=Fin|Voice=Rcp	_	_	_	Gloss=3sg.n.abs-rec.io-loc-1sg.erg-разрезать-re-prs-dcl-adv
+5	йаквсырчIвитIта	_	VERB	_	Caus=Yes|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|RcpType=Io|Tense=Pres|VerbForm=Fin|Voice=Rcp	_	_	_	Gloss=3pl.abs-rec.io-loc.elat-1sg.erg-caus-сидеть-prs-dcl-adv
+
+# sent_id = 14
+# text_name = ELAN/2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
+# text = крупно бабадута арса йцахитIта
+# text_orth = крупнo баба-дУ-та Арса й-цА-х-и-тI-та
+# text_transcription = krupno baba-də́w-ta ársa j-cá-χ-əj-ṭ-ta
+# text_rus = Получается вот так крупно и пышно.
+1	крупно	_	_	_	_	_	_	_	Gloss=крупно
+2	бабадута	_	_	_	_	_	_	_	Gloss=пышный-большой-adv
+3	арса	_	_	_	_	_	_	_	Gloss=так
+4	йцахитIта	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-идти-re-prs-dcl-adv
+
+# sent_id = 15
+# text_name = ELAN/2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
+# text = вкусно закIта хъгIа аъахым акIвапI ауи са бзидздза йызбитI
+# text_orth = вкусно зАкI-та хъгIА Аъа-х-ым АкIва-пI ауи сА бзи-дз-дзА йы-з-б-И-тI
+# text_transcription = вкусно záḳ-ta qʕá áʔa-χ-əm áḳʷa-ṗ awə́j sá bzəj-ʒ-ʒá jə-z-b-ə́j-ṭ
+# text_rus = Вкусно, очень сладко, я это очень люблю.
+1	вкусно	_	_	_	_	_	_	_	Gloss=вкусно
+2	закIта	_	_	_	_	_	_	_	Gloss=один-adv
+3	хъгIа	_	_	_	_	_	_	_	Gloss=сладкий
+4	аъахым	_	VERB	_	Polarity=Neg	_	_	_	Gloss=быть-re-neg
+5	акIвапI	_	VERB	_	Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.n.io+cop-npst.dcl
+6	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+7	са	_	_	_	_	_	_	_	Gloss=1sg
+8	бзидздза	_	_	_	_	_	_	_	Gloss=хороший-int~int|_|_|int~int
+9	йызбитI	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-1sg.erg-видеть-prs-dcl
+
+# sent_id = 16
+# text_name = ELAN/2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
+# text = йсчпалитI ауыгьи пироггьи счпитI ауыгьи счпитI
+# text_orth = й-с-чпа-л-И-тI ауы-гьИ пирОг-гьи с-чп-И-тI ауы-гьИ с-чп-И-тI
+# text_transcription = j-s-č’pa-l-ə́j-ṭ awə-g’ə́j pirog-g’əj s-č’p-ə́j-ṭ awə-g’ə́j s-č’p-ə́j-ṭ
+# text_rus = И пирог тоже часто делаю.
+1	йсчпалитI	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-1sg.erg-делать-hab-prs-dcl
+2	ауыгьи	_	_	_	PronType=Dem	_	_	_	Gloss=dist-add
+3	пироггьи	_	_	_	_	_	_	_	Gloss=пирог-add
+4	счпитI	_	VERB	_	Number[erg]=Sing|Person[erg]=1|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=1sg.erg-делать-prs-dcl
+5	ауыгьи	_	_	_	PronType=Dem	_	_	_	Gloss=dist-add
+6	счпитI	_	VERB	_	Number[erg]=Sing|Person[erg]=1|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=1sg.erg-делать-prs-dcl
+
+# sent_id = 17
+# text_name = ELAN/2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
+# text = ахIальыуагьи рчпитI ауеб йшыъу зымгIвагьи йшыъу
+# text_orth = а-хIальЫуа-гьи р-чп-и-тI ауЕб й-шы-ъЫ-у зымгIва-гьИ й-шы-ъЫ-у
+# text_transcription = a-haɮə́wa-g’əj r-č’p-ə́j-ṭ awájb j-šə-ʔə́-w zəmʕʷa-g’ə́j j-šə-ʔə́-w
+# text_rus = Все делают халву, так принято (букв. это то, как всё есть).
+1	ахIальыуагьи	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-халва-add
+2	рчпитI	_	VERB	_	Number[erg]=Plur|Person[erg]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3pl.erg-делать-prs-dcl
+3	ауеб	_	_	_	_	_	_	_	Gloss=dist+npst.dcl
+4	йшыъу	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|RelType=Mnr|Tense=Pres|VerbForm=NonFin	_	_	_	Gloss=3sg.n.abs-rel.mnr-быть-prs.nfin
+5	зымгIвагьи	_	_	_	_	_	_	_	Gloss=все-add
+6	йшыъу	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|RelType=Mnr|Tense=Pres|VerbForm=NonFin	_	_	_	Gloss=3sg.n.abs-rel.mnr-быть-prs.nfin
+
+# sent_id = 18
+# text_name = ELAN/2018.07.16_BidzhevaTA_1932_retsept_checked.eaf
+# text = адзырдзагьи хIара дзырдза хIхIвитI акъабардийаква щыпс рхIвитI
+# text_orth = а-дзЫрдза-гьи хIарА дзЫрдза хI-хIв-И-тI а-къАбардийа-ква щЫпс р-хIв-И-тI
+# text_transcription = a-ʒə́rʒa-g’əj hará ʒə́rʒa h-hʷ-ə́j-ṭ a-q̇ábardəja-kʷa š’ə́ps r-hʷ-ə́j-ṭ
+# text_rus = Мы называем "дзырдза", а черкесы называют "щипс".
+1	адзырдзагьи	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-дзырдза-add
+2	хIара	_	_	_	_	_	_	_	Gloss=мы
+3	дзырдза	_	_	_	_	_	_	_	Gloss=дзырдза
+4	хIхIвитI	_	VERB	_	Number[erg]=Plur|Person[erg]=1|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=1pl.erg-говорить-prs-dcl
+5	акъабардийаква	_	NOUN	_	Definite=Def|Number=Plur	_	_	_	Gloss=def-кабардинец-pl
+6	щыпс	_	_	_	_	_	_	_	Gloss=щипс
+7	рхIвитI	_	VERB	_	Number[erg]=Plur|Person[erg]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3pl.erg-говорить-prs-dcl

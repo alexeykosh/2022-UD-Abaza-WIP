@@ -1,0 +1,303 @@
+
+# sent_id = 1
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = щарда цIитI ари агIаншижьтара
+# text_orth = щАрда цI-и-тI арИ а-гIан.ш-ижьтАра
+# text_transcription = š’árda c̣-əj-ṭ arə́j a-ʕan.š-əjž’tára
+# text_rus = С тех пор прошло много времени.
+1	щарда	_	_	_	_	_	_	_	Gloss=много
+2	цIитI	_	VERB	_	Tense=Pres|VerbForm=Fin	_	_	_	Gloss=проходить-prs-dcl
+3	ари	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=prox.sg
+4	агIаншижьтара	_	VERB	_	Definite=Def|VerbForm=Conv	_	_	_	Gloss=def-происшествие-since
+
+# sent_id = 2
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = апхъа азаман уагIахъата адунай йыквыз шабгаз йазкIкIыта зджьара йбзазун
+# text_orth = апхъА а-замАн уагIахъА-та а-дунай йы-квЫ-з ш-абгА-з й-а-з-кIкIЫ-та зджьАра й-бзАз-у-н
+# text_transcription = apqá a-zamán waʕaqá-ta a-dəwnáj jə-kʷə́-z š-abgá-z j-a-z-ḳḳə́-ta zǯ’ára j-bzáz-əw-n
+# text_rus = В то время люди, которые находились на свете, собравшись, жили где-то.
+1	апхъа	_	_	_	_	_	_	_	Gloss=раньше
+2	азаман	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-время
+3	уагIахъата	_	_	_	_	_	_	_	Gloss=народ-adv
+4	адунай	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-мир
+5	йыквыз	_	VERB	_	RelType=Abs|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=rel.abs-быть.на-pst.nfin
+6	шабгаз	_	VERB	_	RelType=Mnr|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=rel.mnr-целый-pst.nfin
+7	йазкIкIыта	_	VERB	_	Gender[io]=Neut|Number[abs]=Plur|Number[io]=Sing|Person[abs]=3|Person[io]=3	_	_	_	Gloss=3pl.abs-3sg.n.io-ben-собираться-adv
+8	зджьара	_	_	_	_	_	_	_	Gloss=где-то
+9	йбзазун	_	VERB	_	Number[abs]=Plur|Person[abs]=3	_	_	_	Gloss=3pl.abs-жить-ipf-pst
+
+# sent_id = 3
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = ауат зымгIва йщардачвахатI йъатаз
+# text_orth = ауАт зымгIвА й-щарда-чва-хА-тI й-ъа-тА-з
+# text_transcription = awát zəmʕʷá j-š’arda-ĉa-χá-ṭ j-ʔa-tá-z
+# text_rus = Их слишком много стало там, где они жили.
+1	ауат	_	_	_	Number=Plur|PronType=Dem	_	_	_	Gloss=dist.pl
+2	зымгIва	_	_	_	_	_	_	_	Gloss=все
+3	йщардачвахатI	_	VERB	_	Number[abs]=Plur|Person[abs]=3|VerbForm=Fin	_	_	_	Gloss=3pl.abs-много-exc-inc-dcl
+4	йъатаз	_	VERB	_	Number[abs]=Plur|Person[abs]=3|RelType=Loc|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=3pl.abs-rel.loc-быть.в-pst.nfin
+
+# sent_id = 4
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = йасын йхъвыцын унашва рчпатI
+# text_orth = й-а-сЫ-н й-хъвЫцы-н уынАшва р-чпа-тI
+# text_transcription = j-a-sə́-n j-qʷə́cə-n wənáŝa r-č’pa-ṭ
+# text_rus = Они подумали и пришли к решению.
+1	йасын	_	VERB	_	Gender[io]=Neut|Number[abs]=Plur|Number[io]=Sing|Person[abs]=3|Person[io]=3	_	_	_	Gloss=3pl.abs-3sg.n.io-бить-pst
+2	йхъвыцын	_	VERB	_	Number[abs]=Plur|Person[abs]=3	_	_	_	Gloss=3pl.abs-думать-pst
+3	унашва	_	_	_	_	_	_	_	Gloss=решение
+4	рчпатI	_	VERB	_	Number[erg]=Plur|Person[erg]=3|VerbForm=Fin	_	_	_	Gloss=3pl.erg-делать-dcl
+
+# sent_id = 5
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = араъа апны хъалырта хIчпапIта анчва спсы зкъвырману йпны хIхъалпIта хIицIгIапI араъа хIтищтырныс
+# text_orth = араъА а-пнЫ хъалЫрта хI-чпА-пI-та а-нчвА с-псы з-къвырмАн-у й-пны хI-хъАл-пI-та хI-и-цIгIА-пI арАъа хI-т-И-щты-рныс
+# text_transcription = araʔá a-pnə́ qalə́rta h-č’pá-ṗ-ta a-nĉá s-psə z-q̇ʷərmán-əw j-pnə h-qál-ṗ-ta hə-j-c̣ʕá-ṗ aráʔa h-t-ə́j-š’tə-rnəs
+# text_rus = Мы сделаем здесь лестницу и поднимемся к Богу, чья жертва - моя душа, и спросим, чтобы отсюда нас выпустил.
+1	араъа	_	_	_	_	_	_	_	Gloss=prox.loc
+2	апны	_	VERB	_	Gender[io]=Neut|Number[io]=Sing|Person[io]=3	_	_	_	Gloss=3sg.n.io-возле
+3	хъалырта	_	_	_	_	_	_	_	Gloss=лестница
+4	хIчпапIта	_	VERB	_	Number[erg]=Plur|Person[erg]=1|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=1pl.erg-делать-npst.dcl-adv
+5	анчва	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-бог
+6	спсы	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	_	_	_	Gloss=1sg.pr-душа
+7	зкъвырману	_	VERB	_	RelType=Pr|Tense=Pres|VerbForm=NonFin	_	_	_	Gloss=rel.pr-жертва-prs.nfin
+8	йпны	_	VERB	_	Gender[io]=Masc|Number[io]=Sing|Person[io]=3	_	_	_	Gloss=3sg.m.io-возле
+9	хIхъалпIта	_	VERB	_	Number[abs]=Plur|Person[abs]=1|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=1pl.abs-подниматься-npst.dcl-adv
+10	хIицIгIапI	_	VERB	_	Gender[io]=Masc|Number[abs]=Plur|Number[io]=Sing|Person[abs]=1|Person[io]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=1pl.abs-3sg.m.io-спрашивать-npst.dcl
+11	араъа	_	_	_	_	_	_	_	Gloss=prox.loc
+12	хIтищтырныс	_	VERB	_	Gender[erg]=Masc|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=1|Person[erg]=3|VerbForm=Conv	_	_	_	Gloss=1pl.abs-loc.elat-3sg.m.erg-пустить-purp
+
+# sent_id = 6
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = йалагатI чвымла ауыра рчпауа йалагатI
+# text_orth = й-А-ла-га-тI чвЫмла ауы́ра р-чпА-уа й-А-ла-га-тI
+# text_transcription = j-á-la-ga-ṭ ĉə́mla awə́ra r-č’pá-wa j-á-la-ga-ṭ
+# text_rus = Они начали делать длинную лестницу.
+1	йалагатI	_	VERB	_	Gender[io]=Neut|Number[abs]=Plur|Number[io]=Sing|Person[abs]=3|Person[io]=3|VerbForm=Fin	_	_	_	Gloss=3pl.abs-3sg.n.io-loc-начинать-dcl
+2	чвымла	_	_	_	_	_	_	_	Gloss=лестница
+3	ауыра	_	_	_	_	_	_	_	Gloss=длинный
+4	рчпауа	_	VERB	_	Number[erg]=Plur|Person[erg]=3	_	_	_	Gloss=3pl.erg-делать-ipf
+5	йалагатI	_	VERB	_	Gender[io]=Neut|Number[abs]=Plur|Number[io]=Sing|Person[abs]=3|Person[io]=3|VerbForm=Fin	_	_	_	Gloss=3pl.abs-3sg.n.io-loc-начинать-dcl
+
+# sent_id = 7
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = ачвымла рчпатI йдыргылын унадзума ажвгIванд ахъахь
+# text_orth = Ачвымла р-чпА-тI й-ды-р-гЫлы-н у-на-дз-У-ма а-жвгIвАнд а-хъАхь
+# text_transcription = áĉəmla r-č’pá-ṭ j-də-r-gə́lə-n w-na-ʒ-ə́w-ma a-ẑʕʷánd a-qáχ’
+# text_rus = Сделали лестницу и поставили, но разве дойдешь до неба?
+1	ачвымла	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-лестница
+2	рчпатI	_	VERB	_	Number[erg]=Plur|Person[erg]=3|VerbForm=Fin	_	_	_	Gloss=3pl.erg-делать-dcl
+3	йдыргылын	_	VERB	_	Caus=Yes|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	_	_	_	Gloss=3sg.n.abs-3pl.erg-caus-стоять-pst
+4	унадзума	_	VERB	_	Gender[abs]=Masc|Int=Yes|Number[abs]=Sing|Person[abs]=2	_	_	_	Gloss=2sg.m.abs-trl-достичь-ipf-q
+5	ажвгIванд	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-небо
+6	ахъахь	_	NOUN	_	Gender[psor]=Neut|Number[psor]=Sing|Person[psor]=3	_	_	_	Gloss=3sg.n.pr-поверхность
+
+# sent_id = 8
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = йгьзынамдзатI йагIакIашвахын йкIахIатI
+# text_orth = й-гь-зЫ-на-м-дза-тI йа-гIа-кIа-швА-хы-н й-кIА-хIа-тI
+# text_transcription = j-g’-zə́-na-m-ʒa-ṭ ja-ʕa-ḳa-ŝá-χə-n j-ḳá-ha-ṭ
+# text_rus = Не дошли, упали.
+1	йгьзынамдзатI	_	VERB	_	Number[abs]=Plur|Person[abs]=3|Polarity=Neg|VerbForm=Fin	_	_	_	Gloss=3pl.abs-neg.emp-pot-trl-neg-достичь-dcl
+2	йагIакIашвахын	_	VERB	_	Number[abs]=Plur|Person[abs]=3	_	_	_	Gloss=3pl.abs-csl-loc-падать-re-pst
+3	йкIахIатI	_	VERB	_	Number[abs]=Plur|Person[abs]=3|VerbForm=Fin	_	_	_	Gloss=3pl.abs-loc-падать-dcl
+
+# sent_id = 9
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = уадыргIвана апегIамбар дгIаразцIгIатI йачIвыйа йшвтахъху
+# text_orth = уадыргIвАна а-пегIамбАр д-гIа-рЫ-з-цIгIа-тI йачIвЫ-йа й-шв-тахъ-х-у
+# text_transcription = wadərʕʷána a-pajʕambár d-ʕa-rə́-z-c̣ʕa-ṭ jaĉ̣ə́-ja j-ŝ-taq-χ-əw
+# text_rus = Потом спросил пророк их: "Чего вы хотите?".
+1	уадыргIвана	_	_	_	_	_	_	_	Gloss=потом
+2	апегIамбар	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-пророк
+3	дгIаразцIгIатI	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Number[io]=Plur|Person[abs]=3|Person[io]=3|VerbForm=Fin	_	_	_	Gloss=3sg.h.abs-csl-3pl.io-ben-спрашивать-dcl
+4	йачIвыйа	_	VERB	_	Int=Yes	_	_	_	Gloss=что-qn
+5	йшвтахъху	_	VERB	_	Number[io]=Plur|Person[io]=2|RelType=Abs|Tense=Pres|VerbForm=NonFin	_	_	_	Gloss=rel.abs-2pl.io-хотеть-re-prs.nfin
+
+# sent_id = 10
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = хIара анчва спсы зкъвырману хIйыхIвата араъа хIтыцIырныс
+# text_orth = хIарА а-нчвА с-псЫ з-къвырмАн-у хI-йЫ-хIва-та арАъа хI-тЫ-цIы-рныс
+# text_transcription = hará a-nĉá s-psə́ z-q̇ʷərmán-əw h-jə́-hʷa-ta aráʔa h-tə́-c̣ə-rnəs
+# text_rus = "Мы попросили Бога, которому приносим свою душу в жертву [букв. чья жертва — моя душа], чтобы мы отсюда ушли,
+1	хIара	_	_	_	_	_	_	_	Gloss=мы
+2	анчва	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-бог
+3	спсы	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	_	_	_	Gloss=1sg.pr-душа
+4	зкъвырману	_	VERB	_	RelType=Pr	_	_	_	Gloss=rel.pr-жертва-npst.nfin
+5	хIйыхIвата	_	VERB	_	Gender[io]=Masc|Number[abs]=Plur|Number[io]=Sing|Person[abs]=1|Person[io]=3	_	_	_	Gloss=1pl.abs-3sg.m.io-говорить/просить-adv|_|_|1pl.abs|3sg.m.io|/|adv
+6	араъа	_	_	_	_	_	_	_	Gloss=prox.loc
+7	хIтыцIырныс	_	VERB	_	Number[abs]=Plur|Person[abs]=1|VerbForm=Conv	_	_	_	Gloss=1pl.abs-loc-пройти-purp
+
+# sent_id = 11
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = ауыла хIйыхIвушын рхIватI щта
+# text_orth = ауы́-ла хI-йЫ-хIв-у-шы-н р-хIва-тI щта
+# text_transcription = awə́-la h-jə́-hʷ-əw-šə-n r-hʷa-ṭ š’ta
+# text_rus = об этом хотели просить" - сказали. “Да”.
+1	ауыла	_	VERB	_	PronType=Dem	_	_	_	Gloss=dist-ins
+2	хIйыхIвушын	_	VERB	_	Gender[io]=Masc|Number[abs]=Plur|Number[io]=Sing|Person[abs]=1|Person[io]=3|Tense=Fut	_	_	_	Gloss=1pl.abs-3sg.m.io-говорить/просить-ipf-fut-pst|_|_|1pl.abs|3sg.m.io|/|ipf|fut|pst
+3	рхIватI	_	VERB	_	Number[erg]=Plur|Person[erg]=3|VerbForm=Fin	_	_	_	Gloss=3pl.erg-говорить-dcl
+4	щта”	_	_	_	_	_	_	_	Gloss=да
+
+# sent_id = 12
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = йшвызйасхIвпI ауи ахабар швызгIазгхпI йхIватI
+# text_orth = й-швы-з-й-А-с-хIв-пI ауи а-хабАр швы-з-гIА-з-г-х-пI й-хIва-тI
+# text_transcription = j-ŝə-z-j-á-s-hʷ-ṗ awə́j a-χabár ŝə-z-ʕá-z-g-χ-ṗ j-hʷa-ṭ
+# text_rus = «Я ему скажу про это и я вам скажу ответ» – сказал тот.
+1	йшвызйасхIвпI	_	VERB	_	Gender[abs]=Neut|Gender[io]=Masc|Number[abs]=Sing|Number[erg]=Sing|Number[io]=Plur|Number[io]=Sing|Person[abs]=3|Person[erg]=1|Person[io]=2|Person[io]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-2pl.io-ben-3sg.m.io-dat-1sg.erg-говорить-npst.dcl
+2	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+3	ахабар	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-весть
+4	швызгIазгхпI	_	VERB	_	Number[erg]=Sing|Number[io]=Plur|Person[erg]=1|Person[io]=2|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=2pl.io-ben-csl-1sg.erg-нести-re-npst.dcl
+5	йхIватI	_	VERB	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=3|VerbForm=Fin	_	_	_	Gloss=3sg.m.erg-говорить-dcl
+
+# sent_id = 13
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = йцан заман апегIамбар дгIайтI
+# text_orth = й-ца-н замАн а-пегIамбАр д-гIа-й-тI
+# text_transcription = j-ca-n zamán a-pajʕambár d-ʕa-j-ṭ
+# text_rus = Время прошло, и пророк пришёл.
+1	йцан	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Gloss=3sg.n.abs-идти-pst
+2	заман	_	_	_	_	_	_	_	Gloss=время
+3	апегIамбар	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-пророк
+4	дгIайтI	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin	_	_	_	Gloss=3sg.h.abs-csl-идти-dcl
+
+# sent_id = 14
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = ауи йуитI швара швмурад ауаса араъа йтыцIуа зымгIвагьи йтыцIуа закIызакI хIахъвы швыцтыжвгуштI йхIван
+# text_orth = ауи й-у-И-тI шварА шв-мурАд ауАса арАъа й-тЫ-цI-уа зымгIвА-гьи й-тЫ-цI-уа закIЫ-закI хIахъвЫ швЫ-ц-ты-жв-г-у-ш-тI й-хIва-н
+# text_transcription = awə́j j-w-ə́j-ṭ ŝará ŝ-məwrád awása aráʔa j-tə́-c̣-wa zəmʕʷá-g’əj j-tə́-c̣-wa zaḳə́-zaḳ haqʷə́ ŝə́-c-tə-ẑ-g-əw-š-ṭ j-hʷa-n
+# text_rus = "Он согласился с вашим решением, но кто здесь хочет выселиться, должен по одному камню с собой забрать" – говорил.
+1	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+2	йуитI	_	VERB	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.m.erg-соглашаться-prs-dcl
+3	швара	_	_	_	_	_	_	_	Gloss=вы
+4	швмурад	_	NOUN	_	Number[psor]=Plur|Person[psor]=2	_	_	_	Gloss=2pl.pr-намерение
+5	ауаса	_	_	_	_	_	_	_	Gloss=но
+6	араъа	_	_	_	_	_	_	_	Gloss=prox.loc
+7	йтыцIуа	_	VERB	_	RelType=Abs	_	_	_	Gloss=rel.abs-loc-пройти-ipf
+8	зымгIвагьи	_	_	_	_	_	_	_	Gloss=все-add
+9	йтыцIуа	_	VERB	_	RelType=Abs	_	_	_	Gloss=rel.abs-loc-пройти-ipf
+10	закIызакI	_	_	_	_	_	_	_	Gloss=один-один
+11	хIахъвы	_	_	_	_	_	_	_	Gloss=камень
+12	швыцтыжвгуштI	_	VERB	_	Number[erg]=Plur|Number[io]=Plur|Person[erg]=2|Person[io]=2|Tense=Fut|VerbForm=Fin	_	_	_	Gloss=2pl.io-com-loc-2pl.erg-нести-ipf-fut-dcl
+13	йхIван	_	VERB	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=3	_	_	_	Gloss=3sg.m.erg-говорить-pst
+
+# sent_id = 15
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = ауаса йырчпад йасын зымгIвагьи йтыцIыз шабгаз йтыргатI амаша ду апны
+# text_orth = ауАса йы-р-чпА-д й-А-сы-н зымгIвА-гьи й-тЫ-цIы-з ш-абгА-з й-ты-р-гА-тI А-маша ду а-пнЫ
+# text_transcription = awása jə-r-č’pá-d j-á-sə-n zəmʕʷá-g’əj j-tə́-c̣ə-z š-abgá-z j-tə-r-gá-ṭ á-maša dəw a-pnə́
+# text_rus = Так и сделали и все и всех выселили из большой ямы.
+1	ауаса	_	_	_	_	_	_	_	Gloss=dist.adv
+2	йырчпад	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-3pl.erg-делать-dcl
+3	йасын	_	VERB	_	Number[abs]=Plur|Person[abs]=3	_	_	_	Gloss=3pl.abs-3n.io-бить-pst
+4	зымгIвагьи	_	_	_	_	_	_	_	Gloss=все-add
+5	йтыцIыз	_	VERB	_	RelType=Abs|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=rel.abs-loc-пройти-pst.nfin
+6	шабгаз	_	VERB	_	RelType=Mnr|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=rel.mnr-целый-pst.nfin
+7	йтыргатI	_	VERB	_	Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin	_	_	_	Gloss=3pl.abs-loc.elat-3pl.erg-нести-dcl
+8	амаша	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-яма
+9	ду	_	_	_	_	_	_	_	Gloss=большой
+10	апны	_	VERB	_	Gender[io]=Neut|Number[io]=Sing|Person[io]=3	_	_	_	Gloss=3sg.n.io-возле
+
+# sent_id = 16
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = угIахъакI гIанхатI ауаса ауат гьызгIатымцIтI хIахъвыкIгьи гьгIатамхатI
+# text_orth = угIахъА-кI гIа-н-хА-тI ауАса ауАт гьы-з-гIа-тЫ-м-цI-тI хIахъвЫ-кI-гьи гь-гIа-та-м-хА-тI
+# text_transcription = wəʕaqá-ḳ ʕa-n-χá-ṭ awása awát g’ə-z-ʕa-tə́-m-c̣-ṭ haqʷə́-ḳ-g’əj g’-ʕa-ta-m-χá-ṭ
+# text_rus = Остался один народ. Но они не смогли выселиться. Не осталось ни одного камня.
+1	угIахъакI	_	NOUN	_	Definite=Ind	_	_	_	Gloss=народ-indf
+2	гIанхатI	_	VERB	_	VerbForm=Fin	_	_	_	Gloss=csl-loc-оставаться-dcl
+3	ауаса	_	_	_	_	_	_	_	Gloss=но
+4	ауат	_	_	_	Number=Plur|PronType=Dem	_	_	_	Gloss=dist.pl
+5	гьызгIатымцIтI	_	VERB	_	Polarity=Neg|VerbForm=Fin	_	_	_	Gloss=neg.emp-pot-csl-loc.elat-neg-пройти-dcl
+6	хIахъвыкIгьи	_	NOUN	_	Definite=Ind	_	_	_	Gloss=камень-indf-add
+7	гьгIатамхатI	_	VERB	_	Polarity=Neg|VerbForm=Fin	_	_	_	Gloss=neg.emp-csl-loc-neg-оставаться-dcl
+
+# sent_id = 17
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = уадыргIвана апегIамбар алахI дицIгIатI
+# text_orth = уадыргIвАна а-пегIАмбар алАхI д-и-цIгIА-тI
+# text_transcription = wadərʕʷána a-pajʕámbar aláh də-j-c̣ʕá-ṭ
+# text_rus = Потом пророк спросил Аллаха:
+1	уадыргIвана	_	_	_	_	_	_	_	Gloss=потом
+2	апегIамбар	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-пророк
+3	алахI	_	_	_	_	_	_	_	Gloss=Аллах
+4	дицIгIатI	_	VERB	_	Gender[abs]=Com|Gender[io]=Masc|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=3|VerbForm=Fin	_	_	_	Gloss=3sg.h.abs-3sg.m.io-спрашивать-dcl
+
+# sent_id = 18
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = ачIвыйа ари йгIанхакваз руыс шпацуш нихIва асхъан алахI ауи йхIватI
+# text_orth = ачIвЫ-йа арИ й-гIа-н-ха-квА-з р-уы́с ш-пА-ц-у-ш н-и-хIвА Асхъан алАхI ауи й-хIвА-тI
+# text_transcription = aĉ̣ə́-ja arə́j j-ʕa-n-χa-kʷá-z r-wə́s š-pá-c-əw-š nə-j-hʷá ásqan aláh awə́j j-hʷá-ṭ
+# text_rus = “Как дела пойдут у тех, кто остался?” – когда он сказал Аллаху, тот ответил:
+1	ачIвыйа	_	VERB	_	Int=Yes	_	_	_	Gloss=что-qn
+2	ари	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=prox.sg
+3	йгIанхакваз	_	VERB	_	Number=Plur|RelType=Abs|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=rel.abs-csl-loc-оставаться-pl-pst.nfin
+4	руыс	_	NOUN	_	Number[psor]=Plur|Person[psor]=3	_	_	_	Gloss=3pl.pr-дело
+5	шпацуш	_	VERB	_	Int=Yes|RelType=Mnr|Tense=Fut	_	_	_	Gloss=rel.mnr-qadv-идти-ipf-fut
+6	нихIва	_	VERB	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=3|RelType=Tmp	_	_	_	Gloss=rel.tmp-3sg.m.erg-говорить
+7	асхъан	_	_	_	_	_	_	_	Gloss=время
+8	алахI	_	_	_	_	_	_	_	Gloss=Аллах
+9	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+10	йхIватI	_	VERB	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=3|VerbForm=Fin	_	_	_	Gloss=3sg.m.erg-говорить-dcl
+
+# sent_id = 19
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = ауат йгIанхаз аугIаква
+# text_orth = ауАт й-гIа-н-хА-з а-угIа-квА
+# text_transcription = awát j-ʕa-n-χá-z a-wʕa-kʷá
+# text_rus = Оставшиеся люди,
+1	ауат	_	_	_	Number=Plur|PronType=Dem	_	_	_	Gloss=dist.pl
+2	йгIанхаз	_	VERB	_	RelType=Abs|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=rel.abs-csl-loc-оставаться-pst.nfin
+3	аугIаква	_	NOUN	_	Definite=Def|Number=Plur	_	_	_	Gloss=def-люди-pl
+
+# sent_id = 20
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = ауат злачважвауа абызшва заджвгьи йымдыруата
+# text_orth = ауАт з-ла-чвАжва-уа А-бызшва заджв-гьИ йы-м-дЫр-уа-та
+# text_transcription = awát z-la-ĉáẑa-wa á-bəzŝa zaʒ̂-g’ə́j jə-m-də́r-wa-ta
+# text_rus = они разговаривают на таком языке, который никто не знает.
+1	ауат	_	_	_	Number=Plur|PronType=Dem	_	_	_	Gloss=dist.pl
+2	злачважвауа	_	VERB	_	RelType=Io	_	_	_	Gloss=rel.io-ins-разговаривать-ipf
+3	абызшва	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-язык
+4	заджвгьи	_	_	_	_	_	_	_	Gloss=один-add
+5	йымдыруата	_	VERB	_	Polarity=Neg	_	_	_	Gloss=3sg.n.abs+3sg.m.erg-neg-знать-ipf-adv
+
+# sent_id = 21
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = ауаса ауат йтыцIкваз рыбызшва ауахьауат зымгIва рыбызшваква гIаргвынгIвуата йбзазуштI
+# text_orth = ауАса ауАт й-тЫ-цI-ква-з [рЫ-бызшва] ауахьауАт зымгIвА рЫ-бызшва-ква гIа-р-гвынгIв-уА-та й-бзАз-у-ш-тI
+# text_transcription = awása awát j-tə́-c̣-kʷa-z [rə́-bəzŝa] awaχ’awát zəmʕʷá rə́-bəzŝa-kʷa ʕa-r-gʷənʕʷ-wá-ta j-bzáz-əw-š-ṭ
+# text_rus = Только те, которые ушли, будут жить, понимая все другие языки.
+1	ауаса	_	_	_	_	_	_	_	Gloss=но
+2	ауат	_	_	_	Number=Plur|PronType=Dem	_	_	_	Gloss=dist.pl
+3	йтыцIкваз	_	VERB	_	Number=Plur|RelType=Abs|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=rel.abs-loc.elat-пройти-pl-pst.nfin
+4	рыбызшва	_	NOUN	_	Number[psor]=Plur|Person[psor]=3	_	_	_	Gloss=3pl.pr-язык
+5	ауахьауат	_	_	_	_	_	_	_	Gloss=dist.emp.pl
+6	зымгIва	_	_	_	_	_	_	_	Gloss=все
+7	рыбызшваква	_	NOUN	_	Number=Plur|Number[psor]=Plur|Person[psor]=3	_	_	_	Gloss=3pl.pr-язык-pl
+8	гIаргвынгIвуата	_	VERB	_	Number[erg]=Plur|Person[erg]=3	_	_	_	Gloss=csl-3pl.erg-понимать-ipf-adv
+9	йбзазуштI	_	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Fut|VerbForm=Fin	_	_	_	Gloss=3pl.abs-жить-ipf-fut-dcl
+
+# sent_id = 22
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = ауаъа йгIатахакваз абазаква ракIвапI
+# text_orth = ауаъА й-гIа-та-ха-квА-з Абаза-ква р-АкIва-пI
+# text_transcription = awaʔá j-ʕa-ta-χa-kʷá-z ábaza-kʷa r-áḳʷa-ṗ
+# text_rus = Те, кто там остались – это абазины.
+1	ауаъа	_	_	_	_	_	_	_	Gloss=dist.loc
+2	йгIатахакваз	_	VERB	_	Number=Plur|RelType=Abs|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=rel.abs-csl-loc-оставаться-pl-pst.nfin
+3	абазаква	_	_	_	Number=Plur	_	_	_	Gloss=абазин-pl
+4	ракIвапI	_	VERB	_	Number[io]=Plur|Person[io]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3pl.io-cop-npst.dcl
+
+# sent_id = 23
+# text_name = ELAN/Pro_jazyk_AsanaevaFM_09072017_checked.eaf
+# text = йгьи ауат рыбызшва абаза бызшвапI
+# text_orth = йгьИ ауАт рЫ-бызшва Абаза бЫзшва-пI
+# text_transcription = jg’ə́j awát rə́-bəzŝa ábaza bə́zŝa-ṗ
+# text_rus = И так их язык – абазинский.
+1	йгьи	_	_	_	_	_	_	_	Gloss=и
+2	ауат	_	_	_	Number=Plur|PronType=Dem	_	_	_	Gloss=dist.pl
+3	рыбызшва	_	NOUN	_	Number[psor]=Plur|Person[psor]=3	_	_	_	Gloss=3pl.pr-язык
+4	абаза	_	_	_	_	_	_	_	Gloss=абазинский
+5	бызшвапI	_	VERB	_	Tense=Pres|VerbForm=Fin	_	_	_	Gloss=язык-npst.dcl

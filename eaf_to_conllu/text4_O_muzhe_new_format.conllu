@@ -1,0 +1,190 @@
+
+# sent_id = 1
+# text_name = ELAN/O_muzhe_SanashokovaCKh_13072017_checked.eaf
+# text = саба йахща невинка йгIатыргунта ласа гIаргванта вязать йсчпатI наскьи афронт йаъакву йрыртуашта
+# text_orth = с-аба й-ахща невинка й-гIа-ты-р-г-у-н-та ласа гIа-р-г-ва-н-та вязать й-с-чпа-тI наскьи а-фрoнт й-аъа-кв-у й-ры-р-т-уа-ш-та
+# text_transcription = s-aba j-aχš’a nevinka j-ʕa-tə-r-g-əw-n-ta lasa ʕa-r-g-wa-n-ta vjazat’ j-s-č’pa-ṭ nask’i a-front j-aʔa-kʷ-əw j-rə-r-t-wa-š-ta
+# text_rus = Моя тетя вывозила из Невинки и привозила мне шерсть, я вязала носки, чтобы передавать тем, кто находился на фронте.
+1	саба	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	_	_	_	Gloss=1sg.pr-отец
+2	йахща	_	NOUN	_	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3	_	_	_	Gloss=3sg.m.pr-сестра
+3	невинка	_	_	_	_	_	_	_	Gloss=Невинка
+4	йгIатыргунта	_	VERB	_	Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	_	_	_	Gloss=3pl.abs-csl-loc.elat-3pl.erg-нести-ipf-pst-adv
+5	ласа	_	_	_	_	_	_	_	Gloss=шерсть
+6	гIаргванта	_	VERB	_	Number[erg]=Plur|Person[erg]=3	_	_	_	Gloss=csl-3pl.erg-нести-ipf-pst-adv
+7	вязать	_	_	_	_	_	_	_	Gloss=вязать
+8	йсчпатI	_	VERB	_	Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin	_	_	_	Gloss=3pl.abs-1sg.erg-делать-dcl
+9	наскьи	_	_	_	_	_	_	_	Gloss=носки
+10	афронт	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-фронт
+11	йаъакву	_	VERB	_	Number=Plur|RelType=Abs|Tense=Pres|VerbForm=NonFin	_	_	_	Gloss=rel.abs-быть-pl-prs.nfin
+12	йрыртуашта	_	VERB	_	Number[abs]=Plur|Number[erg]=Plur|Number[io]=Plur|Person[abs]=3|Person[erg]=3|Person[io]=3|Tense=Fut	_	_	_	Gloss=3pl.abs-3pl.io-3pl.erg-давать-ipf-fut-adv
+
+# sent_id = 2
+# text_name = ELAN/O_muzhe_SanashokovaCKh_13072017_checked.eaf
+# text = ауат счпауамца тшасрыщцан уыжвгIандзарагьи йсчпитI ауи наскьи уыжвгIандзарагьи
+# text_orth = ауат с-чпа-уа-мца тш-а-с-ры-щца-н уыжвгIан-дза-ра-гьи й-с-чп-и-тI ауи наскьи уыжвгiан-дза-ра-гьи
+# text_transcription = аwat s-č’pa-wa-mca č-a-s-rə-š’ca-n wəẑʕan-ʒa-ra-g’əj j-s-č’p-əj-ṭ awəj nask’i wəẑʕan-ʒa-ra-g’əj
+# text_rus = Научившись вязать их, я до сих пор вяжу носки.
+1	ауат	_	_	_	Number=Plur|PronType=Dem	_	_	_	Gloss=dist.pl
+2	счпауамца	_	VERB	_	Number[erg]=Sing|Person[erg]=1|VerbForm=Conv	_	_	_	Gloss=1sg.erg-делать-ipf-cvb
+3	тшасрыщцан	_	VERB	_	Caus=Yes|Gender[io]=Neut|Number[erg]=Sing|Number[io]=Sing|Person[erg]=1|Person[io]=3|Voice=Rfl	_	_	_	Gloss=rfl.abs-3sg.n.io-1sg.erg-caus-привыкать-pst
+4	уыжвгIандзарагьи	_	_	_	_	_	_	_	Gloss=в.это.время-достигать-msd-add
+5	йсчпитI	_	VERB	_	Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3pl.abs-1sg.erg-делать-prs-dcl
+6	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+7	наскьи	_	_	_	_	_	_	_	Gloss=носки
+8	уыжвгIандзарагьи	_	_	_	_	_	_	_	Gloss=в.это.время-достигать-msd-add
+
+# sent_id = 3
+# text_name = ELAN/O_muzhe_SanashokovaCKh_13072017_checked.eaf
+# text = пятьдесят пятый год агIан хъацIа сйыццатI
+# text_orth = пятьдесят пятый гoд агIан хъацIа с-йы-ц-ца-тI
+# text_transcription = pidisjat pjatəj god aʕan qac̣a s-jə-c-ca-ṭ
+# text_rus = В пятьдесят пятом году я вышла замуж.
+1	пятьдесят	_	_	_	_	_	_	_	Gloss=пятьдесят
+2	пятый	_	_	_	_	_	_	_	Gloss=пятый
+3	год	_	_	_	_	_	_	_	Gloss=год
+4	агIан	_	_	_	_	_	_	_	Gloss=тогда
+5	хъацIа	_	_	_	_	_	_	_	Gloss=мужчина
+6	сйыццатI	_	VERB	_	Gender[io]=Masc|Number[abs]=Sing|Number[io]=Sing|Person[abs]=1|Person[io]=3|VerbForm=Fin	_	_	_	Gloss=1sg.abs-3sg.m.io-com-идти-dcl
+
+# sent_id = 4
+# text_name = ELAN/O_muzhe_SanashokovaCKh_13072017_checked.eaf
+# text = съацаз афронт далата аратквагьи хъагьи йырхвын
+# text_orth = с-ъа-ца-з а-фрoнт д-а-ла-та арат-ква-гьи хъа-гьи йы-р-хвы-н
+# text_transcription = s-ʔa-ca-z a-front d-a-la-ta arat-kʷa-g’əj qa-g’əj jə-r-χʷə-n
+# text_rus = Тот, за кого я вышла замуж, был на фронте и был ранен в этих и других местах [и в голову].
+1	съацаз	_	VERB	_	Number[abs]=Sing|Person[abs]=1|RelType=Loc|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=1sg.abs-rel.loc-идти-pst.nfin
+2	афронт	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-фронт
+3	далата	_	VERB	_	Gender[abs]=Com|Gender[io]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=3	_	_	_	Gloss=3sg.h.abs-3sg.n.io-быть.в-adv
+4	аратквагьи	_	_	_	Number=Plur|PronType=Dem	_	_	_	Gloss=dist.pl-pl-add
+5	хъагьи	_	_	_	_	_	_	_	Gloss=голова-add
+6	йырхвын	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	_	_	_	Gloss=3sg.n.abs-3pl.erg-ранить-pst
+
+# sent_id = 5
+# text_name = ELAN/O_muzhe_SanashokovaCKh_13072017_checked.eaf
+# text = йырхвын ауи йапшта дчмазагIвыта сйыццатI
+# text_orth = йы-р-хвы-н ауи й-апш-та д-чмазагIвы-та с-йы-ц-ца-тI
+# text_transcription = jə-r-χʷə-n awəj j-apš-ta d-č’mazaʕʷə-ta s-jə-c-ca-ṭ
+# text_rus = Ранили его. Так я вышла замуж за больного.
+1	йырхвын	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	_	_	_	Gloss=3sg.n.abs-3pl.erg-ранить-pst
+2	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+3	йапшта	_	VERB	_	Number[abs]=Plur|Person[abs]=3	_	_	_	Gloss=3pl.abs-подобный-adv
+4	дчмазагIвыта	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3	_	_	_	Gloss=3sg.h.abs-болеть-adv
+5	сйыццатI	_	VERB	_	Gender[io]=Masc|Number[abs]=Sing|Number[io]=Sing|Person[abs]=1|Person[io]=3|VerbForm=Fin	_	_	_	Gloss=1sg.abs-3sg.m.io-com-идти-dcl
+
+# sent_id = 6
+# text_name = ELAN/O_muzhe_SanashokovaCKh_13072017_checked.eaf
+# text = йщапIы араъа хIскIолкIакI йалата йгвы араъа йташваз ахы арыла йыхъвда йагIалцIхын
+# text_orth = й-щапIы араъа х-скIoлкIа-кI й-а-ла-та й-гвы араъа й-та-шва-з а-хы ары-ла йы-хъвда йа-гIа-л-цI-хы-н
+# text_transcription = j-š’aṗə araʔa χ-sḳolḳa-ḳ j-a-la-ta j-gʷə araʔa j-ta-ŝa-z a-χə arə-la jə-qʷda ja-ʕa-l-c̣-χə-n
+# text_rus = В ногу вот сюда попали три осколка и пуля, которая попала в сердце, вышла через шею.
+1	йщапIы	_	NOUN	_	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3	_	_	_	Gloss=3sg.m.pr-нога
+2	араъа	_	_	_	_	_	_	_	Gloss=prox.loc
+3	хIскIолкIакI	_	_	_	_	_	_	_	Gloss=три-осколок-unit
+4	йалата	_	VERB	_	Gender[io]=Neut|Number[abs]=Plur|Number[io]=Sing|Person[abs]=3|Person[io]=3	_	_	_	Gloss=3pl.abs-3sg.n.io-быть.в-adv
+5	йгвы	_	NOUN	_	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3	_	_	_	Gloss=3sg.m.pr-сердце
+6	араъа	_	_	_	_	_	_	_	Gloss=prox.loc
+7	йташваз	_	VERB	_	RelType=Abs|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=rel.abs-loc-упасть-pst.nfin
+8	ахы	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-пуля
+9	арыла	_	_	_	PronType=Dem	_	_	_	Gloss=prox-adv
+10	йыхъвда	_	NOUN	_	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3	_	_	_	Gloss=3sg.m.pr-шея
+11	йагIалцIхын	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Gloss=3sg.n.abs-csl-loc.elat-пройти-re-pst
+
+# sent_id = 7
+# text_name = ELAN/O_muzhe_SanashokovaCKh_13072017_checked.eaf
+# text = йыпыцква йыцIырхуамцара аскIолкIаква гIахъаргылхтI закIгьи гьйымахмызтI
+# text_orth = йы-пыц-ква йы-цIы-р-х-уа-мцара а-скIoлкIа-ква гIа-хъа-р-гыл-х-тI закI-гьи гь-йы-ма-х-мы-з-тI
+# text_transcription = jə-pəc-kʷa jə-c̣ə-r-χ-wa-mcara a-sḳolḳa-kʷa ʕa-qa-r-gəl-χ-ṭ zaḳ-g’əj g’-jə-ma-χ-mə-z-ṭ
+# text_rus = Удаляя зубы, вытаскивали (поднимали) осколки, и так он остался без зубов (ни одного больше у него не было).
+1	йыпыцква	_	NOUN	_	Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=3	_	_	_	Gloss=3sg.m.pr-зуб-pl
+2	йыцIырхуамцара	_	VERB	_	Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Conv	_	_	_	Gloss=3pl.abs-loc.elat-3pl.erg-брать-ipf-cvb
+3	аскIолкIаква	_	NOUN	_	Definite=Def|Number=Plur	_	_	_	Gloss=def-осколок-pl
+4	гIахъаргылхтI	_	VERB	_	Number[erg]=Plur|Person[erg]=3|VerbForm=Fin	_	_	_	Gloss=csl-loc-3pl.erg-стоять-re-dcl
+5	закIгьи	_	_	_	_	_	_	_	Gloss=один-add
+6	гьйымахмызтI	_	VERB	_	Gender[io]=Masc|Number[io]=Sing|Person[io]=3|Polarity=Neg|Tense=Past|VerbForm=Fin|VerbForm=NonFin	_	_	_	Gloss=neg.emp-3sg.m.io-иметься-re-neg-pst.nfin-dcl
+
+# sent_id = 8
+# text_name = ELAN/O_muzhe_SanashokovaCKh_13072017_checked.eaf
+# text = йшйымахымзымцара дпсыхтI йаргьи
+# text_orth = й-ш-йы-ма-хы-м-зы-мцара д-псы-х-тI йар-гьи
+# text_transcription = j-š-jə-ma-χə-m-zə-mcara d-psə-χ-ṭ jar-g’əj
+# text_rus = Уже не имея зубов, он умер.
+1	йшйымахымзымцара	_	VERB	_	Gender[io]=Masc|Number[abs]=Plur|Number[io]=Sing|Person[abs]=3|Person[io]=3|Polarity=Neg|RelType=Mnr|Tense=Past|VerbForm=Conv|VerbForm=NonFin	_	_	_	Gloss=3pl.abs-rel.mnr-3sg.m.io-иметься-re-neg-pst.nfin-cvb
+2	дпсыхтI	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin	_	_	_	Gloss=3sg.h.abs-умереть-re-dcl
+3	йаргьи	_	_	_	_	_	_	_	Gloss=oн-add
+
+# sent_id = 9
+# text_name = ELAN/O_muzhe_SanashokovaCKh_13072017_checked.eaf
+# text = дпсыхтI дгьсымахым ауыгьи дгьсымахым
+# text_orth = д-псы-х-тI д-гь-сы-ма-хы-м ауы-гьи д-гь-сы-ма-хы-м
+# text_transcription = d-psə-χ-ṭ d-g’-sə-ma-χə-m awə-g’əj d-g’-sə-ma-χə-m
+# text_rus = Он уже умер, уже его нет со мной (отца). И его уже нет со мной (мужа).
+1	дпсыхтI	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin	_	_	_	Gloss=3sg.h.abs-умереть-re-dcl
+2	дгьсымахым	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=1|Polarity=Neg	_	_	_	Gloss=3sg.h.abs-neg.emp-1sg.io-иметься-re-neg
+3	ауыгьи	_	_	_	PronType=Dem	_	_	_	Gloss=dist-add
+4	дгьсымахым…	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=1|Polarity=Neg	_	_	_	Gloss=3sg.h.abs-neg.emp-1sg.io-иметься-re-neg
+
+# sent_id = 10
+# text_name = ELAN/O_muzhe_SanashokovaCKh_13072017_checked.eaf
+# text = па заджвыкI дсыман
+# text_orth = па заджвы-кI д-сы-ма-н
+# text_transcription = pa zaʒ̂ə-ḳ d-sə-ma-n
+# text_rus = У меня был единственный сын.
+1	па	_	_	_	_	_	_	_	Gloss=сын
+2	заджвыкI	_	_	_	_	_	_	_	Gloss=один-unit
+3	дсыман	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=1	_	_	_	Gloss=3sg.h.abs-1sg.io-иметься-pst
+
+# sent_id = 11
+# text_name = ELAN/O_muzhe_SanashokovaCKh_13072017_checked.eaf
+# text = ари ахыгIвхIвсысакIищти пакIи дсыман
+# text_orth = ари а-хы-гIв-хIвсыса-кI-йы-щти па-кI-и д-сы-ма-н
+# text_transcription = arəj a-χə-ʕʷ-hʷsəsa-ḳ-jə-š’təj pa-ḳ-əj d-sə-ma-n
+# text_rus = У меня три дочки и сын.
+1	ари	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=prox.sg
+2	ахыгIвхIвсысакIищти	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-три-clh-девушка.pl-unit-add-emp
+3	пакIи	_	NOUN	_	Definite=Ind	_	_	_	Gloss=сын-indf-add
+4	дсыман	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=1	_	_	_	Gloss=3sg.h.abs-1sg.io-иметься-pst
+
+# sent_id = 12
+# text_name = ELAN/O_muzhe_SanashokovaCKh_13072017_checked.eaf
+# text = спа акъарчаква дырщын дсызгIаргхтI
+# text_orth = с-па а-къарча-ква ды-р-щы-н д-сы-з-гIа-р-г-х-тI
+# text_transcription = s-pa a-q̇arč’a-kʷa də-r-š’ə-n d-sə-z-ʕa-r-g-χ-ṭ
+# text_rus = Сына убили карачаевцы и привезли.
+1	спа	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	_	_	_	Gloss=1sg.pr-сын
+2	акъарчаква	_	NOUN	_	Definite=Def|Number=Plur	_	_	_	Gloss=def-карачаевец-pl
+3	дырщын	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	_	_	_	Gloss=3sg.h.abs-3pl.erg-убить-pst
+4	дсызгIаргхтI	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Number[erg]=Plur|Number[io]=Sing|Person[abs]=3|Person[erg]=3|Person[io]=1|VerbForm=Fin	_	_	_	Gloss=3sg.h.abs-1sg.io-ben-csl-3pl.erg-нести-re-dcl
+
+# sent_id = 13
+# text_name = ELAN/O_muzhe_SanashokovaCKh_13072017_checked.eaf
+# text = ахча ахъазла
+# text_orth = ахча а-хъаз-ла
+# text_transcription = aχč’a a-qaz-la
+# text_rus = Из-за денег.
+1	ахча	_	_	_	_	_	_	_	Gloss=деньги
+2	ахъазла	_	VERB	_	Gender[io]=Neut|Number[io]=Sing|Person[io]=3	_	_	_	Gloss=3sg.n.io-ради-ins
+
+# sent_id = 14
+# text_name = ELAN/O_muzhe_SanashokovaCKh_13072017_checked.eaf
+# text = вот ауат зымгIва са сылагвы йыцIстI зымгIва
+# text_orth = вoт ауат зымгIва са сы-лагвы йы-цI-с-тI зымгIва
+# text_transcription = vot awat zəmʕʷa sa sə-lagʷə jə-c̣-s-ṭ zəmʕʷa
+# text_rus = Вот это все прошло через мой зрачок [пережила, прошла через это]. Все.
+1	вот	_	_	_	_	_	_	_	Gloss=вот
+2	ауат	_	_	_	Number=Plur|PronType=Dem	_	_	_	Gloss=dist.pl
+3	зымгIва	_	_	_	_	_	_	_	Gloss=всё
+4	са	_	_	_	_	_	_	_	Gloss=я
+5	сылагвы	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	_	_	_	Gloss=1sg.pr-зрачок
+6	йыцIстI	_	VERB	_	Number[abs]=Plur|Person[abs]=3|VerbForm=Fin	_	_	_	Gloss=3pl.abs-loc-проходить-dcl
+7	зымгIва	_	_	_	_	_	_	_	Gloss=всё
+
+# sent_id = 15
+# text_name = ELAN/O_muzhe_SanashokovaCKh_13072017_checked.eaf
+# text = ужвы здоровагьи гьсымахым сгIанхахтI
+# text_orth = ужвы здорoва-гьи гь-сы-ма-хы-м с-гIа-н-ха-х-тI
+# text_transcription = wəẑə zdarova-g’əj g’-sə-ma-χə-m s-ʕa-n-χa-χ-ṭ
+# text_rus = Теперь здоровья нету, так и осталась.
+1	ужвы	_	_	_	_	_	_	_	Gloss=сейчас
+2	здоровагьи	_	_	_	_	_	_	_	Gloss=здоровье-add
+3	гьсымахым	_	VERB	_	Number[io]=Sing|Person[io]=1|Polarity=Neg	_	_	_	Gloss=neg.emp-1sg.io-иметься-re-neg
+4	сгIанхахтI	_	VERB	_	Number[abs]=Sing|Person[abs]=1|VerbForm=Fin	_	_	_	Gloss=1sg.abs-csl-loc-остаться-re-dcl

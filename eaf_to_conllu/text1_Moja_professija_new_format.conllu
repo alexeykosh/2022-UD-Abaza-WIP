@@ -1,0 +1,117 @@
+
+# sent_id = 1
+# text_name = ELAN/Professija_AjsanovaFB_11072017_checked.eaf
+# text = сара сыхьиз фатимапI
+# text_orth = сарА сы-хьиз фатима-пI
+# text_transcription = sará sə-χ’iz fatima-ṗ
+# text_rus = Меня зовут Фатима.
+1	сара	_	_	_	_	_	_	_	Gloss=1sg
+2	сыхьиз	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	_	_	_	Gloss=1sg.pr-имя
+3	фатимапI	_	VERB	_	Tense=Pres|VerbForm=Fin	_	_	_	Gloss=фатима-npst.dcl
+
+# sent_id = 2
+# text_name = ELAN/Professija_AjsanovaFB_11072017_checked.eaf
+# text = сара йшвасхIвырныс йстахъыпI сшарыпхьагIвхаз
+# text_orth = сарА й-шв-А-с-хIвы-рныс й-с-тахъЫ-пI с-ш-а.рЫ.пхьа.гIв-ха-з
+# text_transcription = sará j-ŝ-á-s-hʷə-rnəs j-s-taqə́-ṗ s-š-a.rə́.pχ’a.ʕʷ-χa-z
+# text_rus = Я хочу вам рассказать, как я стала учителем.
+1	сара	_	_	_	_	_	_	_	Gloss=1sg
+2	йшвасхIвырныс	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Number[io]=Plur|Person[abs]=3|Person[erg]=1|Person[io]=2|VerbForm=Conv	_	_	_	Gloss=3sg.n.abs-2pl.io-dat-1sg.erg-рассказать-purp
+3	йстахъыпI	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=1|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-1sg.io-хотеться-npst.dcl
+4	сшарыпхьагIвхаз	_	VERB	_	Number[abs]=Sing|Person[abs]=1|RelType=Mnr|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=1sg.abs-rel.mnr-учитель-inc-pst.nfin
+
+# sent_id = 3
+# text_name = ELAN/Professija_AjsanovaFB_11072017_checked.eaf
+# text = сара санхвыцыз сан лаща ари английскала йалрыпхьуштI хIва йгIасайхIвлун
+# text_orth = cарА с-ан-хвЫцы-з с-Ан л-ащА арИ англИйска-ла й-а-л-рЫ-пхь-у-ш-тI хIвА й-гiа-с-а-й-хiв-л-у-н
+# text_transcription = sará s-an-χʷə́cə-z s-án l-aš’á arə́j anglíjska-la j-a-l-rə́-pχ’-əw-š-ṭ ħʷá j-ʕa-s-á-j-ħʷ-l-əw-n
+# text_rus = Когда я была маленькой, дядя говорил, что я стану учителем английского языка.
+1	сара	_	_	_	_	_	_	_	Gloss=1sg
+2	санхвыцыз	_	VERB	_	Number[abs]=Sing|Person[abs]=1|RelType=Tmp|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=1sg.abs-rel.tmp-маленький-pst.nfin
+3	сан	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	_	_	_	Gloss=1sg.pr-мать
+4	лаща	_	NOUN	_	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3	_	_	_	Gloss=3sg.f.pr-брат
+5	ари	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=prox.sg
+6	английскала	_	VERB	_	_	_	_	_	Gloss=английский-ins
+7	йалрыпхьуштI	_	VERB	_	Caus=Yes|Gender[erg]=Fem|Gender[io]=Neut|Number[abs]=Plur|Number[erg]=Sing|Number[io]=Sing|Person[abs]=3|Person[erg]=3|Person[io]=3|Tense=Fut|VerbForm=Fin	_	_	_	Gloss=3pl.abs-3sg.n.io-3sg.f.erg-caus-читать-ipf-fut-dcl
+8	хIва	_	_	_	_	_	_	_	Gloss=quot
+9	йгIасайхIвлун	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Number[io]=Sing|Person[abs]=3|Person[erg]=3|Person[io]=1	_	_	_	Gloss=3sg.n.abs-csl-1sg.io-dat-3sg.m.erg-говорить-hab-ipf-pst
+
+# sent_id = 4
+# text_name = ELAN/Professija_AjsanovaFB_11072017_checked.eaf
+# text = саргьи ауи схъа йтаскIын апхьарта съадзапхьузгьи сангIалгагьи ауи акIвымкIва закIгьи гьстахъымызтI
+# text_orth = сар-гьИ ауИ с-хъА й-та-с-кIЫ-н А.пхьа.рта с-ъА-дз-а-пхь-у-з-гьи с-ан-гIА-л-га-гьи ауИ АкIвы.м.кIва за-кI-гьИ гь-с-тахъЫ-мы-з-тI
+# text_transcription = sar-g’ə́j awə́j s-qá j-ta-s-ḳə́-n á.pχ'a.rta s-á-ʒ-a-pχ’-əw-z-g’jə s-an-ʕá-l-ga-g’əj awə́j áḳʷə.m.ḳʷa za-ḳ-g’ə́j g’-s-taqə́-mə-z-ṭ
+# text_rus = Я тоже это запомнила и ничего другого не хотела, пока я училась в школе и когда её закончила.
+1	саргьи	_	_	_	_	_	_	_	Gloss=1sg-add
+2	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+3	схъа	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	_	_	_	Gloss=1sg.pr-голова
+4	йтаскIын	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1	_	_	_	Gloss=3sg.n.abs-loc-1sg.erg-держать-pst
+5	апхьарта	_	NOUN	_	Definite=Def	_	_	_	Gloss=def+школа
+6	съадзапхьузгьи	_	VERB	_	Gender[io]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=1|Person[io]=3|RelType=Loc|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=1sg.abs-rel.loc-lim-3sg.n.io-учиться-ipf-pst.nfin-add
+7	сангIалгагьи	_	VERB	_	Number[abs]=Sing|Person[abs]=1|RelType=Tmp|Tense=Aor	_	_	_	Gloss=1sg.abs-rel.tmp-csl-loc.elat-нести(aor)-add|_|_|1sg.abs|rel.tmp|csl|loc.elat|aor|add
+8	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+9	акIвымкIва	_	VERB	_	Gender[io]=Neut|Number[io]=Sing|Person[io]=3	_	_	_	Gloss=3sg.n.io+кроме
+10	закIгьи	_	NOUN	_	Definite=Ind	_	_	_	Gloss=один-indf-add
+11	гьстахъымызтI	_	VERB	_	Number[io]=Sing|Person[io]=1|Polarity=Neg|Tense=Past|VerbForm=Fin|VerbForm=NonFin	_	_	_	Gloss=neg.emp-1sg.io-хотеться-neg-pst.nfin-dcl
+
+# sent_id = 5
+# text_name = ELAN/Professija_AjsanovaFB_11072017_checked.eaf
+# text = апхьарта сангIалга аинститут сцатI
+# text_orth = А.пхьа.рта с-ан-гIА-л-га а-инститyт с-цА-тI
+# text_transcription = á.pχ’a.rta s-an-ʕá-l-ga a-institut s-cá-ṭ
+# text_rus = Когда закончила школу, пошла в институт.
+1	апхьарта	_	NOUN	_	Definite=Def	_	_	_	Gloss=def+школа
+2	сангIалга	_	VERB	_	Number[abs]=Sing|Person[abs]=1|RelType=Tmp|Tense=Aor	_	_	_	Gloss=1sg.abs-rel.tmp-csl-loc.elat-нести(aor)|_|_|1sg.abs|rel.tmp|csl|loc.elat|aor
+3	аинститут	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-институт
+4	сцатI	_	VERB	_	Number[abs]=Sing|Person[abs]=1|Tense=Aor|VerbForm=Fin	_	_	_	Gloss=1sg.abs-идти(aor)-dcl|_|_|1sg.abs|aor|dcl
+
+# sent_id = 6
+# text_name = ELAN/Professija_AjsanovaFB_11072017_checked.eaf
+# text = йсгвапхадзауата бзидздза йызбауата сапхьатI
+# text_orth = й-с-гвапха-дза-уА-та бзи-дз-дзА йы-з-ба-уА-та с-А-пхьа-тI
+# text_transcription = j-s-gʷapχa-ʒa-wá-ta bzəj-ʒ-ʒá jə-z-ba-wá-ta s-á-pχ’a-ṭ
+# text_rus = Я очень любила учиться.
+1	йсгвапхадзауата	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1	_	_	_	Gloss=3sg.n.abs-1sg.erg-любить-int-ipf-adv
+2	бзидздза	_	_	_	_	_	_	_	Gloss=хороший-int~int|_|_|int~int
+3	йызбауата	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1	_	_	_	Gloss=3sg.n.abs-1sg.erg-видеть-ipf-adv
+4	сапхьатI	_	VERB	_	Gender[io]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=1|Person[io]=3|Tense=Aor|VerbForm=Fin	_	_	_	Gloss=1sg.abs-3sg.n.io-учиться(aor)-dcl|_|_|1sg.abs|3sg.n.io|aor|dcl
+
+# sent_id = 7
+# text_name = ELAN/Professija_AjsanovaFB_11072017_checked.eaf
+# text = апхьарта сгIалгищтара сквшы гIвынгIважви жвих цIытI
+# text_orth = А.пхьа.рта с-гIа-лг-ищтАра сквшЫ гIвы-н-гIва-жв-И жв-И-х цIЫ-тI
+# text_transcription = á.pχ’a.rta s-ʕa-l-g-əjš’tára skʷšə́ ʕʷə-n-ʕʷa-ẑ-ə́j ẑ-ə́j-χ c̣ə́-ṭ
+# text_rus = С тех пор как закончила школу, прошло 33 года.
+1	апхьарта	_	NOUN	_	Definite=Def	_	_	_	Gloss=def+школа
+2	сгIалгищтара	_	VERB	_	Number[abs]=Sing|Person[abs]=1|VerbForm=Conv	_	_	_	Gloss=1sg.abs-csl-loc.elat-нести-since
+3	сквшы	_	_	_	_	_	_	_	Gloss=год
+4	гIвынгIважви	_	_	_	_	_	_	_	Gloss=два-раз-два-десять-add
+5	жвих	_	_	_	_	_	_	_	Gloss=десять-add-три
+6	цIытI	_	VERB	_	Tense=Aor|VerbForm=Fin	_	_	_	Gloss=пройти(aor)-dcl|_|_|aor|dcl
+
+# sent_id = 8
+# text_name = ELAN/Professija_AjsanovaFB_11072017_checked.eaf
+# text = ауищтарагьи сара апхьарта асабиква ангьлызбызшвала йасрыпхьид
+# text_orth = ау-ищтАра-гьи сарА А.пхьа.рта а-сабИ-ква ангьлЫз-бызшва-ла й-а-с-рЫ-пхь-и-д
+# text_transcription = aw-əjš’tára-g’əj sará á.pχ’a.rta a-sabə́j-kʷa ang’lə́z-bəzŝa-la j-a-s-rə́-pχ’-əj-d
+# text_rus = С тех пор я обучаю детей английскому языку в школе.
+1	ауищтарагьи	_	VERB	_	PronType=Dem|VerbForm=Conv	_	_	_	Gloss=dist-since-add
+2	сара	_	_	_	_	_	_	_	Gloss=1sg
+3	апхьарта	_	NOUN	_	Definite=Def	_	_	_	Gloss=def+школа
+4	асабиква	_	NOUN	_	Definite=Def|Number=Plur	_	_	_	Gloss=def-ребенок-pl
+5	ангьлызбызшвала	_	VERB	_	_	_	_	_	Gloss=английский-язык-ins
+6	йасрыпхьид	_	VERB	_	Caus=Yes|Gender[io]=Neut|Number[abs]=Plur|Number[erg]=Sing|Number[io]=Sing|Person[abs]=3|Person[erg]=1|Person[io]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3pl.abs-3sg.n.io-1sg.erg-caus-читать-prs-dcl
+
+# sent_id = 9
+# text_name = ELAN/Professija_AjsanovaFB_11072017_checked.eaf
+# text = сара асабиква бзи йызбитI сынхартагьи бзидздза йызбитI
+# text_orth = сарА а-сабИ-ква бзИ йы-з-б-И-тI сы-н.хА.рта-гьи бзи-дздзА йы-з-б-И-тI
+# text_transcription = sará a-sabə́j-kʷa bzə́j jə-z-b-ə́j-ṭ sə-n.χá.rta-g’əj bzəj-ʒʒá jə-z-b-ə́j-ṭ
+# text_rus = Я люблю детей и очень люблю свою работу
+1	сара	_	_	_	_	_	_	_	Gloss=1sg
+2	асабиква	_	NOUN	_	Definite=Def|Number=Plur	_	_	_	Gloss=def-ребенок-pl
+3	бзи	_	_	_	_	_	_	_	Gloss=хороший
+4	йызбитI	_	VERB	_	Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3pl.abs-1sg.erg-видеть-prs-dcl
+5	сынхартагьи	_	NOUN	_	Number[psor]=Sing|Person[psor]=1	_	_	_	Gloss=1sg.pr-работа-add
+6	бзидздза	_	_	_	_	_	_	_	Gloss=хороший-int~int|_|_|int~int
+7	йызбитI	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.n.abs-1sg.erg-видеть-prs-dcl

@@ -1,0 +1,184 @@
+
+# sent_id = 1
+# text_name = ELAN/Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
+# text = асабиква анахь архъа апны йышнаргуаз апхIвысква йрабымхIвума
+# text_orth = а-сабИ-ква анАхь А-рхъа а-пнЫ йы-ш-нА-р-г-уа-з а-пхIвЫс-ква й-р-А-бы-м-хIв-у-ма
+# text_transcription = a-sabə́j-kʷa aná-χ’ á-rqa a-pnə́ jǝ-š-ná-r-g-wa-z a-phʷə́s-kʷa j-r-á-bə-m-hʷ-ǝw-ma
+# text_rus = Не поговоришь ли с ними о том, как женщины относили детей на поле?
+1	асабиква	_	NOUN	_	Definite=Def|Number=Plur	_	_	_	Gloss=def-дети-pl
+2	анахь	_	VERB	_	PronType=Dem	_	_	_	Gloss=med-lat
+3	архъа	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-поле
+4	апны	_	VERB	_	Gender[io]=Neut|Number[io]=Sing|Person[io]=3	_	_	_	Gloss=3sg.n.io-возле
+5	йышнаргуаз	_	VERB	_	Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|RelType=Mnr|Tense=Past|VerbForm=NonFin	_	_	_	Gloss=3pl.abs-rel.mnr-trl-3pl.erg-нести-ipf-pst.nfin
+6	апхIвысква	_	NOUN	_	Definite=Def|Number=Plur	_	_	_	Gloss=def-женщина-pl
+7	йрабымхIвума	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Fem|Int=Yes|Number[abs]=Sing|Number[erg]=Sing|Number[io]=Plur|Person[abs]=3|Person[erg]=2|Person[io]=3|Polarity=Neg	_	_	_	Gloss=3sg.n.abs-3pl.io-dat-2sg.f.erg-neg-сказать-ipf-q
+
+# sent_id = 2
+# text_name = ELAN/Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
+# text = апхIвысква рхъачваква арма йаъанта асабихвыц змакву архъа йнаргуанта абари апш ашIуна адына амашаква гIаржуанта асабиква ауаъа йдыргылуанта дара рашвун
+# text_orth = а-пхIвЫс-ква р-хъАчва-ква Арма й-Аъа-н-та а-сабИ-хвыц з-мА-кв-у А-рхъа й-нА-р-г-уа-н-та аб-арИ апш а-шIУна а-дЫна А-маша-ква гIа-р-ж-уА-н-та а-сабИ-ква ауАъа ды-р-гЫл-уа-н-та дарА рашв-У-н
+# text_transcription = a-phʷə́s-kʷa r-qə́ĉa-kʷa árma j-áʔa-n-ta a-sabə́j-χʷǝc z-má-kʷ-ǝw á-rqa j-ná-r-g-wa-n-ta ab-arə́j apš a-č̣ə́wna a-də́na á-maša-kʷa ʕa-r-ž-wá-n-ta a-sabə́j-kʷa awáʔa dǝ-r-gə́l-wa-n-ta dará raŝ-ə́w-n
+# text_rus = Когда у женщин мужья в армии были, маленьких детей, которые у них были, они в поле приносили и такие углубления, значит, такие ямы выкапывали, детей туда помещали, а сами работали.
+1	апхIвысква	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-женщина
+2	рхъачваква	_	NOUN	_	Number=Plur|Number[psor]=Plur|Person[psor]=3	_	_	_	Gloss=3pl.pr-мужчина.pl-pl
+3	арма	_	NOUN	_	Definite=Def	_	_	_	Gloss=def+армия
+4	йаъанта	_	VERB	_	Number[abs]=Plur|Person[abs]=3	_	_	_	Gloss=3pl.abs-находиться-pst-adv
+5	асабихвыц	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-ребенок-маленький
+6	змакву	_	VERB	_	Number=Plur|RelType=Io|Tense=Pres|VerbForm=NonFin	_	_	_	Gloss=rel.io-иметься-pl-prs.nfin
+7	архъа	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-поле
+8	йнаргуанта	_	VERB	_	Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	_	_	_	Gloss=3pl.abs-trl-3pl.erg-нести-ipf-pst-adv
+9	абари	_	_	_	PronType=Dem	_	_	_	Gloss=такой-prox
+10	апш	_	_	_	_	_	_	_	Gloss=подобный
+11	ашIуна	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-подвал
+12	адына	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-filler
+13	амашаква	_	NOUN	_	Definite=Def|Number=Plur	_	_	_	Gloss=def-яма-pl
+14	гIаржуанта	_	VERB	_	Number[erg]=Plur|Person[erg]=3	_	_	_	Gloss=csl-3pl.erg-копать-ipf-pst-adv
+15	асабиква	_	NOUN	_	Definite=Def|Number=Plur	_	_	_	Gloss=def-дети-pl
+16	ауаъа	_	_	_	_	_	_	_	Gloss=dist.loc
+17	йдыргылуанта	_	VERB	_	Caus=Yes|Number[erg]=Plur|Person[erg]=3	_	_	_	Gloss=3pl.erg-caus-стоять-ipf-pst-adv
+18	дара	_	_	_	_	_	_	_	Gloss=они
+19	рашвун	_	VERB	_	_	_	_	_	Gloss=полоть-ipf-pst
+
+# sent_id = 3
+# text_name = ELAN/Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
+# text = уадыргIвана пхIвыскI лсаби дгIалхъаштылын йхъвлан йгIаталхд архъа
+# text_orth = уадыргIвАна пхIвыс-кI л-сабИ д-гIа-л-хъ-Аштылы-н й-хъвла-н й-гIа-тАл-х-д А-рхъа
+# text_transcription = wadǝrʕʷána phʷǝs-ḳ l-sabə́j d-ʕa-l-q-áštǝlǝ-n j-qʷla-n j-ʕa-tál-χ-d á-rqa
+# text_rus = Потом одна женщина про своего ребенка забыла, а, когда стемнело, они спустились с поля.
+1	уадыргIвана	_	_	_	_	_	_	_	Gloss=потом
+2	пхIвыскI	_	NOUN	_	Definite=Ind	_	_	_	Gloss=женщина-indf
+3	лсаби	_	NOUN	_	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3	_	_	_	Gloss=3sg.f.pr-ребенок
+4	дгIалхъаштылын	_	VERB	_	Gender[abs]=Com|Gender[io]=Fem|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=3	_	_	_	Gloss=3sg.h.abs-csl-3sg.f.io-loc-забыть-pst
+5	йхъвлан	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Gloss=3sg.n.abs-смеркаться-pst
+6	йгIаталхд	_	VERB	_	Number[abs]=Plur|Person[abs]=3|VerbForm=Fin	_	_	_	Gloss=3pl.abs-dat-csl-спускаться-re-dcl
+7	архъа	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-поле
+
+# sent_id = 4
+# text_name = ELAN/Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
+# text = асаби дчIвыуа дчIвыуа дчIвыуамцара адына ангьи дгIатыцIын аныла дчIвыуид арыла дчIвыуид дныкъвауамцара
+# text_orth = а-сабИ д-чIвЫ-уа д-чIвЫуа д-чIвЫуа-мцарА а-дЫна Ан-гьи д-гIа-тЫ-цIы-н анЫ-ла д-чIвыУ-и-д арЫ-ла д-чIвыУ-и-д д-ныкъва-уА-мцара
+# text_transcription = a-sabə́j d-ĉ̣ə́-wa d-ĉ̣ə́wa d-ĉ̣ə́wa-mcará a-də́na án-g’ǝj d-ʕa-tə́-c̣ǝ-n anə́-la d-ĉ̣ə́w-əj-d arə́-la d-ĉ̣ə́w-ǝj-d d-nǝq̇ʷa-wá-mcara
+# text_rus = А ребенок плачет-плачет-плачет все время, значит, его мать бросила, а он и так плачет, и сяк плачет, ходит все время.
+1	асаби	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-ребенок
+2	дчIвыуа	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3	_	_	_	Gloss=3sg.h.abs-плакать
+3	дчIвыуа	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3	_	_	_	Gloss=3sg.h.abs-плакать
+4	дчIвыуамцара	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|VerbForm=Conv	_	_	_	Gloss=3sg.h.abs-плакать-cvb
+5	адына	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-filler
+6	ангьи	_	_	_	_	_	_	_	Gloss=мать-add
+7	дгIатыцIын	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3	_	_	_	Gloss=3sg.h.abs-csl-loc.elat-пройти-pst
+8	аныла	_	VERB	_	PronType=Dem	_	_	_	Gloss=med-ins
+9	дчIвыуид	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.h.abs-плакать-prs-dcl
+10	арыла	_	VERB	_	PronType=Dem	_	_	_	Gloss=prox-ins
+11	дчIвыуид	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3sg.h.abs-плакать-prs-dcl
+12	дныкъвауамцара	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|VerbForm=Conv	_	_	_	Gloss=3sg.h.abs-ходить-ipf-cvb
+
+# sent_id = 5
+# text_name = ELAN/Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
+# text = лан дангIайх асхъан асаби дгьлымдырхд дгIаргхдзылщан
+# text_orth = л-ан д-ан-гIА-й-х Асхъан а-сабИ д-гь-лы-м-дЫр-х-д д-гIА-р-г-х-дзЫ-л-ща-н
+# text_transcription = l-an d-an-ʕá-j-χ ásqan a-sabə́j d-g’-lǝ-m-də́r-χ-d d-ʕá-r-g-χ-ʒə́-l-š’a-n
+# text_rus = Ее (девочки) мать, когда возвращалась, про ребенка не знала, думала что (другие) его несут, уже темно было.
+1	лан	_	NOUN	_	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3	_	_	_	Gloss=3sg.f.pr-мать
+2	дангIайх	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|RelType=Tmp	_	_	_	Gloss=3sg.h.abs-rel.tmp-csl-приходить-re
+3	асхъан	_	_	_	_	_	_	_	Gloss=когда
+4	асаби	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-ребенок
+5	дгьлымдырхд	_	VERB	_	Gender[abs]=Com|Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|Polarity=Neg|VerbForm=Fin	_	_	_	Gloss=3sg.h.abs-neg.emp-3sg.f.erg-neg-знать-re-dcl
+6	дгIаргхдзылщан	_	VERB	_	Gender[abs]=Com|Gender[io]=Fem|Number[abs]=Sing|Number[erg]=Plur|Number[io]=Sing|Person[abs]=3|Person[erg]=3|Person[io]=3	_	_	_	Gloss=3sg.h.abs-csl-3pl.erg-вести-re-loc-3sg.f.io-казаться-pst
+
+# sent_id = 6
+# text_name = ELAN/Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
+# text = йхъвлата йатахъалхын архъа асаби дчIвыуата дгIащтIырхын дгIаргхд ауандырла даквдырчIван
+# text_orth = й-хъвлА-та й-атА-хъал-хы-н А-рхъа а-сабИ д-чIвЫ-уа-та д-гIа-щтIЫ-р-хы-н д-гIа-р-г-х-д а-уандЫр-ла д-А-квды-р-чIв-а-н
+# text_transcription = j-qʷlá-ta j-atá-qal-χǝ-n á-rqa a-sabə́j d-ĉ̣ə́-wa-ta d-ʕa-š’ṭə́-r-χǝ-n d-ʕa-r-g-χ-d a-wandə́r-la d-á-kʷdǝ-r-ĉ̣-wa-n
+# text_rus = И снова поднялись на поле, ребенка достали, привезли назад, посадив на телегу.
+1	йхъвлата	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Gloss=3sg.n.abs-смеркаться-adv
+2	йатахъалхын	_	VERB	_	Number[abs]=Plur|Person[abs]=3	_	_	_	Gloss=3pl.abs-rep-подняться-re-pst
+3	архъа	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-поле
+4	асаби	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-ребенок
+5	дчIвыуата	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3	_	_	_	Gloss=3sg.h.abs-плакать-ipf-adv
+6	дгIащтIырхын	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	_	_	_	Gloss=3sg.h.abs-csl-loc-3pl.erg-взять-pst
+7	дгIаргхд	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin	_	_	_	Gloss=3sg.h.abs-csl-3pl.erg-везти-re-dcl
+8	ауандырла	_	VERB	_	Definite=Def	_	_	_	Gloss=def-повозка-ins
+9	даквдырчIван	_	VERB	_	Gender[abs]=Com|Gender[io]=Neut|Number[abs]=Sing|Number[erg]=Plur|Number[io]=Sing|Person[abs]=3|Person[erg]=3|Person[io]=3	_	_	_	Gloss=3sg.h.abs-3sg.n.io-loc-3pl.erg-сажать-ipf-pst
+
+# sent_id = 7
+# text_name = ELAN/Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
+# text = абарауи апшта йбзазаквад ауагIа швабыжта швабыжта йгIапсад ауагIа
+# text_orth = абар-ауИ Апш-та й-бзАза-ква-д а-уагIА швАбыж-та швАбыж-та й-гIа-псА-д а-уагIА
+# text_transcription = abar-awə́j ápš-ta j-bzáza-kʷa-d a-waʕá ŝábǝž-ta ŝábǝž-ta j-ʕa-psá-d a-waʕá
+# text_rus = Вот так и жили люди. Сильно, сильно уставали люди.
+1	абарауи	_	_	_	PronType=Dem	_	_	_	Gloss=вот.так-dist
+2	апшта	_	_	_	_	_	_	_	Gloss=подобный-adv
+3	йбзазаквад	_	VERB	_	Number=Plur|Number[abs]=Plur|Person[abs]=3|VerbForm=Fin	_	_	_	Gloss=3pl.abs-жить-pl-dcl
+4	ауагIа	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-люди
+5	швабыжта	_	_	_	_	_	_	_	Gloss=сильный-adv
+6	швабыжта	_	_	_	_	_	_	_	Gloss=сильный-adv
+7	йгIапсад	_	VERB	_	Number[abs]=Plur|Person[abs]=3|VerbForm=Fin	_	_	_	Gloss=3pl.abs-csl-уставать-dcl
+8	ауагIа	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-люди
+
+# sent_id = 8
+# text_name = ELAN/Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
+# text = ужвы ужвы закIы гьырчпум
+# text_orth = ужвЫ ужвЫ закIЫ гьы-р-чп-У-м
+# text_transcription = uẑə́ uẑə́ zaḳə́ g’ǝ-r-čp-ə́w-m
+# text_rus = А сейчас? Сейчас ничего не делают.
+1	ужвы	_	_	_	_	_	_	_	Gloss=сейчас
+2	ужвы	_	_	_	_	_	_	_	Gloss=сейчас
+3	закIы	_	_	_	_	_	_	_	Gloss=один
+4	гьырчпум	_	VERB	_	Number[erg]=Plur|Person[erg]=3|Polarity=Neg	_	_	_	Gloss=neg.emp-3pl.erg-делать-ipf-neg
+
+# sent_id = 9
+# text_name = ELAN/Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
+# text = ужвы йырчпауа мачIпI ауи
+# text_orth = ужвЫ йы-р-чпа-уА мачI-пI ауи
+# text_transcription = uẑə́ jǝ-r-čpa-wá mač̣’-ṗ awə́j
+# text_rus = Теперь то, что делают — это мало.
+1	ужвы	_	_	_	_	_	_	_	Gloss=сейчас
+2	йырчпауа	_	VERB	_	Number[erg]=Plur|Person[erg]=3|RelType=Abs	_	_	_	Gloss=rel.abs-3pl.erg-делать-ipf
+3	мачIпI	_	VERB	_	Tense=Pres|VerbForm=Fin	_	_	_	Gloss=мало-npst.dcl
+4	ауи	_	_	_	Number=Sing|PronType=Dem	_	_	_	Gloss=dist.sg
+
+# sent_id = 10
+# text_name = ELAN/Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
+# text = псори зымгIвадзуги гIарыквырпсид
+# text_orth = псОри зымгIва-дзУ-ги гIа-ры-квы-р-пс-И-д
+# text_transcription = pséwrjǝ zǝmʕʷa-ʒə́w-g’ǝj ʕa-rǝ-kʷǝ-r-ps-ə́j-d
+# text_rus = Всё целиком на них бросают (всё разбрасывают (?)).
+1	псори	_	_	_	_	_	_	_	Gloss=всё
+2	зымгIвадзуги	_	_	_	_	_	_	_	Gloss=всё-int-add
+3	гIарыквырпсид	_	VERB	_	Number[erg]=Plur|Number[io]=Plur|Person[erg]=3|Person[io]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=csl-3pl.io-loc-3pl.erg-сыпать-prs-dcl
+
+# sent_id = 11
+# text_name = ELAN/Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
+# text = барахлоквагьи хъаги зымгIва йрымаб
+# text_orth = барахлО-ква-гьи хъа-гьИ зымгIвА й-рЫ-ма-б
+# text_transcription = baraχló-kʷa-g’ǝj qa-g’ə́j zǝmʕʷá j-rə́-ma-b
+# text_rus = И барахло, и всё прочее у них есть.
+1	барахлоквагьи	_	_	_	Number=Plur	_	_	_	Gloss=барахло-pl-add
+2	хъаги	_	_	_	_	_	_	_	Gloss=прочее-add
+3	зымгIва	_	_	_	_	_	_	_	Gloss=всё
+4	йрымаб	_	VERB	_	Number[abs]=Plur|Number[io]=Plur|Person[abs]=3|Person[io]=3|Tense=Pres|VerbForm=Fin	_	_	_	Gloss=3pl.abs-3pl.io-иметься-npst.dcl
+
+# sent_id = 12
+# text_name = ELAN/Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
+# text = барахлокIгьи гьхIымамызтI хIара
+# text_orth = барахлО-кI-гьи гь-хIЫ-ма-мы-з-тI хIарА
+# text_transcription = baraχló-ḳ-g’ǝj g’-hə́-ma-mǝ-z-ṭ hará
+# text_rus = Барахла не было у нас.
+1	барахлокIгьи	_	NOUN	_	Definite=Ind	_	_	_	Gloss=барахло-indf-add
+2	гьхIымамызтI	_	VERB	_	Number[io]=Plur|Person[io]=1|Polarity=Neg|Tense=Past|VerbForm=Fin|VerbForm=NonFin	_	_	_	Gloss=neg.emp-1pl.io-иметься-neg-pst.nfin-dcl
+3	хIара	_	_	_	_	_	_	_	Gloss=мы
+
+# sent_id = 13
+# text_name = ELAN/Deti_v_pole_SanashokovaCKh_13072017_checked.eaf
+# text = ахвтан заджвыкI хIымазтын хIара йхIшвахIцIунта архъа хIцун
+# text_orth = ъахвтАн заджвЫ-кI хIЫ-ма-зтын хIарА й-хI-швА-хI-цI-у-н-та А-рхъа хI-ц-у-н
+# text_transcription = ʔaχʷtán zaʒ̂ə́-ḳ hə́-ma-ztǝn hará j-h-ŝá-h-c̣-ǝw-n-ta á-rqa h-c-ǝw-n
+# text_rus = Единственное платье, которое у нас было, мы надевали и шли в поле.
+1	ахвтан	_	_	_	_	_	_	_	Gloss=платье
+2	заджвыкI	_	NOUN	_	Definite=Ind	_	_	_	Gloss=один-indf
+3	хIымазтын	_	VERB	_	Number[io]=Plur|Person[io]=1|VerbForm=Conv	_	_	_	Gloss=1pl.io-иметься-cond.real
+4	хIара	_	_	_	_	_	_	_	Gloss=мы
+5	йхIшвахIцIунта	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Number[io]=Plur|Person[abs]=3|Person[erg]=1|Person[io]=1	_	_	_	Gloss=3sg.n.abs-1pl.io-loc-1pl.erg-класть-ipf-pst-adv
+6	архъа	_	NOUN	_	Definite=Def	_	_	_	Gloss=def-поле
+7	хIцун	_	VERB	_	Number[abs]=Plur|Person[abs]=1	_	_	_	Gloss=1pl.abs-идти-ipf-pst
