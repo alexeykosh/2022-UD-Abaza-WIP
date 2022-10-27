@@ -28,9 +28,9 @@ Morphological features are added automatically based on glosses and then manuall
 
 * Definite: `Def`, `Ind`.
 * Number: `Sing`, `Plur`.
-* Gender[psor]: `Fem`, `Masc`, `Neut`
-* Number[psor]: `Sing`, `Plur`
-* Person[psor]: `1`, `2`, `3`
+* Gender[psor]: `Fem`, `Masc`, `Neut`.
+* Number[psor]: `Sing`, `Plur`.
+* Person[psor]: `1`, `2`, `3`.
 
 #### Verbal features
 
