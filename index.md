@@ -4,7 +4,8 @@ title:  'Abaza UD'
 udver: '2'
 ---
 
-# UD for Abaza <span class="flagspan"><img class="flag" src="../../flags/svg/RU-ABAZA.svg" /></span>
+# UD for Abaza <!-- <span class="flagspan"><img class="flag" src="../../flags/svg/RU-ABAZA.svg" /></span> -->
+
 
 ## Tokenization and Word Segmentation
 
