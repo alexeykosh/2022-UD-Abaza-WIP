@@ -64,7 +64,7 @@
 # text_rus = В связи с этими событиями она (мать) не училась (букв. осталась не учившейся).
 1	ауат	ауат	PRON	_	Number=Plur|PronType=Dem	2	nsubj	_	Gloss=dist.pl
 2	йгIарылцIла	цIра	VERB	_	Number[erg]=Plur|Person[erg]=3|RelType=Abs|VerbForm=NonFin	4	advcl	_	Gloss=rel.abs-csl-3pl.erg-loc.elat-проходить-ins
-3	дампхьауата	апхьара	VERB	_	Person[abs]=3|Number[abs]=Sing|Animacy[abs]=Hum|Gender[io]=Neut|Number[io]=Sing|Person[io]=3|Polarity=Neg|VerbForm=NonFin	4	advcl	_	Gloss=3sg.h.abs-3sg.n.io-neg-учиться-ipf-adv
+3	дампхьауата	апхьара	VERB	_	Person[abs]=3|Number[abs]=Sing|Gender[abs]=Com|Gender[io]=Neut|Number[io]=Sing|Person[io]=3|Polarity=Neg|VerbForm=NonFin	4	advcl	_	Gloss=3sg.h.abs-3sg.n.io-neg-учиться-ipf-adv
 4	дгIанхатI	гIанхара	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Aor|VerbForm=Fin	0	root	_	Gloss=3sg.h.abs-csl-loc-оставаться-dcl
 
 # sent_id = 6
@@ -286,7 +286,7 @@
 1	ауи	ауи	PRON	_	Number=Sing|PronType=Dem	3	obj	_	Gloss=dist.sg
 2	спсыхындзкIьа	псра	VERB	_	Number[abs]=Sing|Person[abs]=1|VerbForm=Conv	3	advcl	_	Gloss=1sg.abs-умереть-re-until
 3	йгьсхъаштылхуашым	хъаштылра	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[io]=Sing|Person[abs]=3|Person[io]=1|Polarity=Neg|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=3sg.n.abs-neg.emp-1sg.io-loc-забывать-re-ipf-fut-neg
-4	йсзыгIанхатI	гIанхара	VERB	_	Person[abs]=3|Number[abs]=Sing|Animacy[abs]=Nhum|Number[io]=Sing|Person[io]=1|Tense=Aor|VerbForm=Fin	3	conj	_	Gloss=3sg.n.abs-1sg.io-ben-csl-loc-оставаться-dcl
+4	йсзыгIанхатI	гIанхара	VERB	_	Person[abs]=3|Number[abs]=Sing|Gender[abs]=Neut|Number[io]=Sing|Person[io]=1|Tense=Aor|VerbForm=Fin	3	conj	_	Gloss=3sg.n.abs-1sg.io-ben-csl-loc-оставаться-dcl
 5	тынхата	тынха	NOUN	_	_	4	nsubj	_	Gloss=наследие-adv
 6	сан	аны	NOUN	_	Number[psor]=Sing|Person[psor]=1	8	iobj	_	Gloss=1sg.pr-мать
 7	рыцIха	рыцхIа	ADJ	_	_	6	amod	_	Gloss=бедный

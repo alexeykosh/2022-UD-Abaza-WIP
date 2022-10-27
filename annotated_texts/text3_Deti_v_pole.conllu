@@ -91,7 +91,7 @@
 # text_orth = й-хъвлА-та й-атА-хъал-хы-н А-рхъа а-сабИ д-чIвЫ-уа-та д-гIа-щтIЫ-р-хы-н д-гIа-р-г-х-д а-уандЫр-ла д-А-квды-р-чIв-а-н
 # text_transcription = j-qʷlá-ta j-atá-qal-χǝ-n á-rqa a-sabə́j d-ĉ̣ə́-wa-ta d-ʕa-š’ṭə́-r-χǝ-n d-ʕa-r-g-χ-d a-wandə́r-la d-á-kʷdǝ-r-ĉ̣-wa-n
 # text_rus = И снова поднялись на поле, ребенка достали, привезли назад, посадив на телегу.
-1	йхъвлата	хъвлара	VERB	_	Person[abs]=3|Number[abs]=Sing|Animacy[abs]=Nhum	2	advcl	_	Gloss=3sg.n.abs-смеркаться-adv
+1	йхъвлата	хъвлара	VERB	_	Person[abs]=3|Number[abs]=Sing|Gender[abs]=Neut	2	advcl	_	Gloss=3sg.n.abs-смеркаться-adv
 2	йатахъалхын	хъалра	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=3pl.abs-rep-подняться-re-pst
 3	архъа	рхъа	NOUN	_	Definite=Def	2	obl	_	Gloss=def-поле
 4	асаби	саби	NOUN	_	Definite=Def	5	nsubj	_	Gloss=def-ребенок
