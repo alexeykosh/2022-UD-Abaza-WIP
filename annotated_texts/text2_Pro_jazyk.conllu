@@ -135,7 +135,7 @@
 # text_transcription = awə́-la h-jə́-hʷ-əw-šə-n r-hʷa-ṭ š’ta
 # text_rus = об этом хотели просить" - сказали. “Да”.
 1	ауыла	ауыла	PRON	_	PronType=Dem	2	obj	_	Gloss=dist-ins
-2	хIйыхIвушын	хIвара	VERB	_	Gender[io]=Masc|Number[abs]=Plur|Number[io]=Sing|Person[abs]=1|Person[io]=3|Tense=Subj1|VerbForm=Fin	3	ccomp	_	Gloss=1pl.abs-3sg.m.io-говорить/просить-ipf-fut-pst
+2	хIйыхIвушын	хIвара	VERB	_	Gender[io]=Masc|Number[abs]=Plur|Number[io]=Sing|Person[abs]=1|Person[io]=3|Tense=Subj|VerbForm=Fin	3	ccomp	_	Gloss=1pl.abs-3sg.m.io-говорить/просить-ipf-fut-pst
 3	рхIватI	хIвара	VERB	_	Number[erg]=Plur|Person[erg]=3|Tense=Aor|VerbForm=Fin	0	root	_	Gloss=3pl.erg-говорить-dcl
 4	щта	щта	PART	_	_	3	discourse	_	Gloss=да
 
